@@ -1,0 +1,92 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2001 Python Software Foundation
+# This file is distributed under the same license as the Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# Translators:
+# python-doc bot, 2025
+# Daniel Nylander <po@danielnylander.se>, 2025
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Python 3.14\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-13 14:19+0000\n"
+"PO-Revision-Date: 2025-08-02 17:33+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
+"Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
+"sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid ":mod:`!colorsys` --- Conversions between color systems"
+msgstr ":mod:`!colorsys` --- Konverteringar mellan färgsystem"
+
+msgid "**Source code:** :source:`Lib/colorsys.py`"
+msgstr "**Källkod:** :source:`Lib/colorsys.py`"
+
+msgid ""
+"The :mod:`colorsys` module defines bidirectional conversions of color values "
+"between colors expressed in the RGB (Red Green Blue) color space used in "
+"computer monitors and three other coordinate systems: YIQ, HLS (Hue "
+"Lightness Saturation) and HSV (Hue Saturation Value).  Coordinates in all of "
+"these color spaces are floating-point values.  In the YIQ space, the Y "
+"coordinate is between 0 and 1, but the I and Q coordinates can be positive "
+"or negative.  In all other spaces, the coordinates are all between 0 and 1."
+msgstr ""
+"Modulen :mod:`colorsys` definierar dubbelriktade omvandlingar av färgvärden "
+"mellan färger uttryckta i RGB-färgrymden (Red Green Blue) som används i "
+"datorskärmar och tre andra koordinatsystem: YIQ, HLS (Hue Lightness "
+"Saturation) och HSV (Hue Saturation Value).  Koordinaterna i alla dessa "
+"färgrymder är flyttalsvärden.  I YIQ-rymden ligger Y-koordinaten mellan 0 "
+"och 1, men I- och Q-koordinaterna kan vara positiva eller negativa.  I alla "
+"andra färgrymder ligger koordinaterna mellan 0 och 1."
+
+msgid ""
+"More information about color spaces can be found at https://poynton.ca/"
+"ColorFAQ.html and https://www.cambridgeincolour.com/tutorials/color-spaces."
+"htm."
+msgstr ""
+"Mer information om färgrymder finns på https://poynton.ca/ColorFAQ.html och "
+"https://www.cambridgeincolour.com/tutorials/color-spaces.htm."
+
+msgid "The :mod:`colorsys` module defines the following functions:"
+msgstr "Modulen :mod:`colorsys` definierar följande funktioner:"
+
+msgid "Convert the color from RGB coordinates to YIQ coordinates."
+msgstr "Konvertera färgen från RGB-koordinater till YIQ-koordinater."
+
+msgid "Convert the color from YIQ coordinates to RGB coordinates."
+msgstr "Konvertera färgen från YIQ-koordinater till RGB-koordinater."
+
+msgid "Convert the color from RGB coordinates to HLS coordinates."
+msgstr "Konvertera färgen från RGB-koordinater till HLS-koordinater."
+
+msgid "Convert the color from HLS coordinates to RGB coordinates."
+msgstr "Konvertera färgen från HLS-koordinater till RGB-koordinater."
+
+msgid "Convert the color from RGB coordinates to HSV coordinates."
+msgstr "Konvertera färgen från RGB-koordinater till HSV-koordinater."
+
+msgid "Convert the color from HSV coordinates to RGB coordinates."
+msgstr "Konvertera färgen från HSV-koordinater till RGB-koordinater."
+
+msgid "Example::"
+msgstr "Exempel::"
+
+msgid ""
+">>> import colorsys\n"
+">>> colorsys.rgb_to_hsv(0.2, 0.4, 0.4)\n"
+"(0.5, 0.5, 0.4)\n"
+">>> colorsys.hsv_to_rgb(0.5, 0.5, 0.4)\n"
+"(0.2, 0.4, 0.4)"
+msgstr ""
+">>> import colorsys\n"
+">>> colorsys.rgb_to_hsv(0.2, 0.4, 0.4)\n"
+"(0.5, 0.5, 0.4)\n"
+">>> colorsys.hsv_to_rgb(0.5, 0.5, 0.4)\n"
+"(0.2, 0.4, 0.4)"

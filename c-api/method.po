@@ -1,0 +1,132 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2001 Python Software Foundation
+# This file is distributed under the same license as the Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# Translators:
+# python-doc bot, 2025
+# Daniel Nylander <po@danielnylander.se>, 2025
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Python 3.14\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-11 14:20+0000\n"
+"PO-Revision-Date: 2025-08-02 17:33+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
+"Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
+"sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Instance Method Objects"
+msgstr "Instansmetodobjekt"
+
+msgid ""
+"An instance method is a wrapper for a :c:type:`PyCFunction` and the new way "
+"to bind a :c:type:`PyCFunction` to a class object. It replaces the former "
+"call ``PyMethod_New(func, NULL, class)``."
+msgstr ""
+"En instansmetod är ett omslag för en :c:type:`PyCFunction` och det nya "
+"sättet att binda en :c:type:`PyCFunction` till ett klassobjekt. Den ersätter "
+"det tidigare anropet ``PyMethod_New(func, NULL, class)``."
+
+msgid ""
+"This instance of :c:type:`PyTypeObject` represents the Python instance "
+"method type. It is not exposed to Python programs."
+msgstr ""
+"Denna instans av :c:type:`PyTypeObject` representerar Python-"
+"instansmetodtypen. Den är inte exponerad för Python-program."
+
+msgid ""
+"Return true if *o* is an instance method object (has type :c:data:"
+"`PyInstanceMethod_Type`).  The parameter must not be ``NULL``. This function "
+"always succeeds."
+msgstr ""
+"Returnerar true om *o* är ett instansmetodobjekt (har typen :c:data:"
+"`PyInstanceMethod_Type`).  Parametern får inte vara ``NULL``. Denna funktion "
+"lyckas alltid."
+
+msgid ""
+"Return a new instance method object, with *func* being any callable object. "
+"*func* is the function that will be called when the instance method is "
+"called."
+msgstr ""
+"Returnerar ett nytt instansmetodobjekt, där *func* är valfritt anropbart "
+"objekt. *func* är den funktion som kommer att anropas när instansmetoden "
+"anropas."
+
+msgid "Return the function object associated with the instance method *im*."
+msgstr ""
+"Returnerar det funktionsobjekt som är associerat med instansmetoden *im*."
+
+msgid ""
+"Macro version of :c:func:`PyInstanceMethod_Function` which avoids error "
+"checking."
+msgstr ""
+"Makroversion av :c:func:`PyInstanceMethod_Function` som undviker felkontroll."
+
+msgid "Method Objects"
+msgstr "Metod Objekt"
+
+msgid ""
+"Methods are bound function objects. Methods are always bound to an instance "
+"of a user-defined class. Unbound methods (methods bound to a class object) "
+"are no longer available."
+msgstr ""
+"Metoder är bundna funktionsobjekt. Metoder är alltid bundna till en instans "
+"av en användardefinierad klass. Obundna metoder (metoder som är bundna till "
+"ett klassobjekt) är inte längre tillgängliga."
+
+msgid ""
+"This instance of :c:type:`PyTypeObject` represents the Python method type.  "
+"This is exposed to Python programs as ``types.MethodType``."
+msgstr ""
+"Denna instans av :c:type:`PyTypeObject` representerar Pythons metodtyp.  "
+"Detta exponeras för Python-program som ``types.MethodType``."
+
+msgid ""
+"Return true if *o* is a method object (has type :c:data:`PyMethod_Type`).  "
+"The parameter must not be ``NULL``.  This function always succeeds."
+msgstr ""
+"Returnerar true om *o* är ett metodobjekt (har typen :c:data:"
+"`PyMethod_Type`).  Parametern får inte vara ``NULL``.  Denna funktion lyckas "
+"alltid."
+
+msgid ""
+"Return a new method object, with *func* being any callable object and *self* "
+"the instance the method should be bound. *func* is the function that will be "
+"called when the method is called. *self* must not be ``NULL``."
+msgstr ""
+"Returnerar ett nytt metodobjekt, där *func* är valfritt anropsbart objekt "
+"och *self* den instans som metoden ska bindas till. *func* är den funktion "
+"som kommer att anropas när metoden anropas. *self* får inte vara ``NULL``."
+
+msgid "Return the function object associated with the method *meth*."
+msgstr "Returnerar funktionsobjektet som är associerat med metoden *meth*."
+
+msgid ""
+"Macro version of :c:func:`PyMethod_Function` which avoids error checking."
+msgstr "Makroversion av :c:func:`PyMethod_Function` som undviker felkontroll."
+
+msgid "Return the instance associated with the method *meth*."
+msgstr "Returnerar den instans som är kopplad till metoden *meth*."
+
+msgid "Macro version of :c:func:`PyMethod_Self` which avoids error checking."
+msgstr "Makroversion av :c:func:`PyMethod_Self` som undviker felkontroll."
+
+msgid "object"
+msgstr "objekt"
+
+msgid "instancemethod"
+msgstr "instansmetod"
+
+msgid "method"
+msgstr "metod"
+
+msgid "MethodType (in module types)"
+msgstr "MethodType (i modultyper)"

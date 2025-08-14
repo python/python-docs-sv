@@ -1,0 +1,263 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2001 Python Software Foundation
+# This file is distributed under the same license as the Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# Translators:
+# python-doc bot, 2025
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Python 3.14\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-07 20:38+0000\n"
+"PO-Revision-Date: 2025-08-02 17:33+0000\n"
+"Last-Translator: python-doc bot, 2025\n"
+"Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
+"sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "API and ABI Versioning"
+msgstr "Versionering av API och ABI"
+
+msgid "Build-time version constants"
+msgstr "Konstanter för byggtidsversion"
+
+msgid ""
+"CPython exposes its version number in the following macros. Note that these "
+"correspond to the version code is **built** with. See :c:var:`Py_Version` "
+"for the version used at **run time**."
+msgstr ""
+"CPython avslöjar sitt versionsnummer i följande makron. Observera att dessa "
+"motsvarar den version som koden är **byggd** med. Se :c:var:`Py_Version` för "
+"den version som används vid **körning**."
+
+msgid ""
+"See :ref:`stable` for a discussion of API and ABI stability across versions."
+msgstr ""
+"Se :ref:`stable` för en diskussion om API- och ABI-stabilitet mellan olika "
+"versioner."
+
+msgid "The ``3`` in ``3.4.1a2``."
+msgstr "\"3\" i \"3.4.1a2\"."
+
+msgid "The ``4`` in ``3.4.1a2``."
+msgstr "\"4\" i \"3.4.1a2\"."
+
+msgid "The ``1`` in ``3.4.1a2``."
+msgstr "Den ``1`` i ``3.4.1a2``."
+
+msgid ""
+"The ``a`` in ``3.4.1a2``. This can be ``0xA`` for alpha, ``0xB`` for beta, "
+"``0xC`` for release candidate or ``0xF`` for final."
+msgstr ""
+"\"A\" i \"3.4.1a2\". Detta kan vara ``0xA`` för alpha, ``0xB`` för beta, "
+"``0xC`` för release candidate eller ``0xF`` för final."
+
+msgid "The ``2`` in ``3.4.1a2``. Zero for final releases."
+msgstr "\"2\" i \"3.4.1a2\". Noll för slutliga utgåvor."
+
+msgid ""
+"The Python version number encoded in a single integer. See :c:func:"
+"`Py_PACK_FULL_VERSION` for the encoding details."
+msgstr ""
+"Pythons versionsnummer kodat i ett enda heltal. Se :c:func:"
+"`Py_PACK_FULL_VERSION` för detaljer om kodning."
+
+msgid ""
+"Use this for numeric comparisons, for example, ``#if PY_VERSION_HEX >= ...``."
+msgstr ""
+"Använd detta för numeriska jämförelser, till exempel ``#if PY_VERSION_HEX "
+">= ...``."
+
+msgid "Run-time version"
+msgstr "Version för drifttid"
+
+msgid ""
+"The Python runtime version number encoded in a single constant integer. See :"
+"c:func:`Py_PACK_FULL_VERSION` for the encoding details. This contains the "
+"Python version used at run time."
+msgstr ""
+"Pythons versionsnummer för körtid kodat i ett enda konstant heltal. Se :c:"
+"func:`Py_PACK_FULL_VERSION` för detaljer om kodningen. Detta innehåller den "
+"Python-version som används vid körning."
+
+msgid ""
+"Use this for numeric comparisons, for example, ``if (Py_Version >= ...)``."
+msgstr ""
+"Använd detta för numeriska jämförelser, till exempel ``if (Py_Version "
+">= ...)``."
+
+msgid "Bit-packing macros"
+msgstr "Makron för bit-packning"
+
+msgid ""
+"Return the given version, encoded as a single 32-bit integer with the "
+"following structure:"
+msgstr ""
+"Returnerar den angivna versionen, kodad som ett 32-bitars heltal med "
+"följande struktur:"
+
+msgid "Argument"
+msgstr "Argument"
+
+msgid "No. of bits"
+msgstr "Antal bitar"
+
+msgid "Bit mask"
+msgstr "Bitmask"
+
+msgid "Bit shift"
+msgstr "Bitskift"
+
+msgid "Example values"
+msgstr "Exempel på värden"
+
+msgid "``3.4.1a2``"
+msgstr "``3.4.1a2``"
+
+msgid "``3.10.0``"
+msgstr "``3.10.0``"
+
+msgid "*major*"
+msgstr "*major*"
+
+msgid "8"
+msgstr "8"
+
+msgid "``0xFF000000``"
+msgstr "``0xFF000000``"
+
+msgid "24"
+msgstr "24"
+
+msgid "``0x03``"
+msgstr "``0x03``"
+
+msgid "*minor*"
+msgstr "*mindre*"
+
+msgid "``0x00FF0000``"
+msgstr "```0x00FF0000```"
+
+msgid "16"
+msgstr "16"
+
+msgid "``0x04``"
+msgstr "``0x04``"
+
+msgid "``0x0A``"
+msgstr "``0x0A``"
+
+msgid "*micro*"
+msgstr "*mikro*"
+
+msgid "``0x0000FF00``"
+msgstr "``0x0000FF00``"
+
+msgid "``0x01``"
+msgstr "``0x01``"
+
+msgid "``0x00``"
+msgstr "``0x00``"
+
+msgid "*release_level*"
+msgstr "*release_level*"
+
+msgid "4"
+msgstr "4"
+
+msgid "``0x000000F0``"
+msgstr "``0x000000F0``"
+
+msgid "``0xA``"
+msgstr "``0xA``"
+
+msgid "``0xF``"
+msgstr "``0xF``"
+
+msgid "*release_serial*"
+msgstr "*release_serial*"
+
+msgid "``0x0000000F``"
+msgstr "``0x0000000F``"
+
+msgid "0"
+msgstr "0"
+
+msgid "``0x2``"
+msgstr "``0x2``"
+
+msgid "``0x0``"
+msgstr "``0x0``"
+
+msgid "For example:"
+msgstr "Till exempel:"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "``Py_PACK_FULL_VERSION`` arguments"
+msgstr "argument för ``Py_PACK_FULL_VERSION``"
+
+msgid "Encoded version"
+msgstr "Kodad version"
+
+msgid "``(3, 4, 1, 0xA, 2)``"
+msgstr "``(3, 4, 1, 0xA, 2)``"
+
+msgid "``0x030401a2``"
+msgstr "``0x030401a2``"
+
+msgid "``(3, 10, 0, 0xF, 0)``"
+msgstr "``(3, 10, 0, 0xF, 0)```"
+
+msgid "``0x030a00f0``"
+msgstr "``0x030a00f0``"
+
+msgid ""
+"Out-of range bits in the arguments are ignored. That is, the macro can be "
+"defined as:"
+msgstr ""
+"Bitar utanför intervallet i argumenten ignoreras. Det vill säga, makrot kan "
+"definieras som:"
+
+msgid ""
+"#ifndef Py_PACK_FULL_VERSION\n"
+"#define Py_PACK_FULL_VERSION(X, Y, Z, LEVEL, SERIAL) ( \\\n"
+"   (((X) & 0xff) << 24) |                              \\\n"
+"   (((Y) & 0xff) << 16) |                              \\\n"
+"   (((Z) & 0xff) << 8) |                               \\\n"
+"   (((LEVEL) & 0xf) << 4) |                            \\\n"
+"   (((SERIAL) & 0xf) << 0))\n"
+"#endif"
+msgstr ""
+"#ifndef Py_PACK_FULL_VERSION\n"
+"#define Py_PACK_FULL_VERSION(X, Y, Z, LEVEL, SERIAL) ( \\\n"
+"   (((X) & 0xff) << 24) | \\\n"
+"   (((Y) & 0xff) << 16) | \\\n"
+"   (((Z) & 0xff) << 8) | \\\n"
+"   (((LEVEL) & 0xf) << 4) | \\\n"
+"   (((SERIAL) & 0xf) << 0))\n"
+"#endif"
+
+msgid ""
+"``Py_PACK_FULL_VERSION`` is primarily a macro, intended for use in ``#if`` "
+"directives, but it is also available as an exported function."
+msgstr ""
+"``Py_PACK_FULL_VERSION`` är i första hand ett makro, avsett att användas i "
+"``#if``-direktiv, men det finns också som en exporterad funktion."
+
+msgid ""
+"Equivalent to ``Py_PACK_FULL_VERSION(major, minor, 0, 0, 0)``. The result "
+"does not correspond to any Python release, but is useful in numeric "
+"comparisons."
+msgstr ""
+"Motsvarar ``Py_PACK_FULL_VERSION(major, minor, 0, 0, 0)``. Resultatet "
+"motsvarar inte någon Python-version, men är användbart vid numeriska "
+"jämförelser."

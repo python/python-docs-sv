@@ -1,0 +1,153 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2001 Python Software Foundation
+# This file is distributed under the same license as the Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# Translators:
+# python-doc bot, 2025
+# Daniel Nylander <po@danielnylander.se>, 2025
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Python 3.14\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-13 14:19+0000\n"
+"PO-Revision-Date: 2025-08-02 17:34+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
+"Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
+"sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid ":mod:`!tkinter.font` --- Tkinter font wrapper"
+msgstr ":mod:`!tkinter.font` --- Tkinter-teckensnittsomslag"
+
+msgid "**Source code:** :source:`Lib/tkinter/font.py`"
+msgstr "**Källkod:** :source:`Lib/tkinter/font.py`"
+
+msgid ""
+"The :mod:`tkinter.font` module provides the :class:`Font` class for creating "
+"and using named fonts."
+msgstr ""
+"Modulen :mod:`tkinter.font` tillhandahåller klassen :class:`Font` för att "
+"skapa och använda namngivna teckensnitt."
+
+msgid "The different font weights and slants are:"
+msgstr "De olika typsnittens tyngd och lutning är:"
+
+msgid ""
+"The :class:`Font` class represents a named font. *Font* instances are given "
+"unique names and can be specified by their family, size, and style "
+"configuration. Named fonts are Tk's method of creating and identifying fonts "
+"as a single object, rather than specifying a font by its attributes with "
+"each occurrence."
+msgstr ""
+"Klassen :class:`Font` representerar ett namngivet teckensnitt. *Font*-"
+"instanser ges unika namn och kan specificeras utifrån deras familj, storlek "
+"och stilkonfiguration. Namngivna teckensnitt är Tk:s metod för att skapa och "
+"identifiera teckensnitt som ett enda objekt, istället för att specificera "
+"ett teckensnitt utifrån dess attribut vid varje förekomst."
+
+msgid "arguments:"
+msgstr "argument:"
+
+msgid "*font* - font specifier tuple (family, size, options)"
+msgstr "*font* - teckensnittsspecifikator (familj, storlek, alternativ)"
+
+msgid "*name* - unique font name"
+msgstr "*name* - unikt namn på teckensnittet"
+
+msgid "*exists* - self points to existing named font if true"
+msgstr "*exists* - self pekar på ett befintligt namngivet teckensnitt om true"
+
+msgid "additional keyword options (ignored if *font* is specified):"
+msgstr "ytterligare nyckelordsalternativ (ignoreras om *font* anges):"
+
+msgid "*family* - font family i.e. Courier, Times"
+msgstr "*family* - teckensnittsfamilj, t.ex. Courier, Times"
+
+msgid "*size* - font size"
+msgstr "*size* - teckenstorlek"
+
+msgid "If *size* is positive it is interpreted as size in points."
+msgstr "Om *size* är positivt tolkas det som storlek i punkter."
+
+msgid "If *size* is a negative number its absolute value is treated"
+msgstr "Om *size* är ett negativt tal behandlas dess absoluta värde som"
+
+msgid "as size in pixels."
+msgstr "som storlek i pixlar."
+
+msgid "*weight* - font emphasis (NORMAL, BOLD)"
+msgstr "*weight* - teckensnittets betoning (NORMAL, BOLD)"
+
+msgid "*slant* - ROMAN, ITALIC"
+msgstr "*slant* - ROMANSKA, ITALIENSKA"
+
+msgid "*underline* - font underlining (0 - none, 1 - underline)"
+msgstr ""
+"*underline* - understrykning av teckensnitt (0 - ingen, 1 - understrykning)"
+
+msgid "*overstrike* - font strikeout (0 - none, 1 - strikeout)"
+msgstr "*overstrike* - font strikeout (0 - ingen, 1 - strikeout)"
+
+msgid "Return the attributes of the font."
+msgstr "Returnerar attributen för teckensnittet."
+
+msgid "Retrieve an attribute of the font."
+msgstr "Hämtar ett attribut för teckensnittet."
+
+msgid "Modify attributes of the font."
+msgstr "Ändra attribut för teckensnittet."
+
+msgid "Return new instance of the current font."
+msgstr "Returnerar en ny instans av det aktuella teckensnittet."
+
+msgid ""
+"Return amount of space the text would occupy on the specified display when "
+"formatted in the current font. If no display is specified then the main "
+"application window is assumed."
+msgstr ""
+"Returnerar hur mycket utrymme texten skulle ta upp på den angivna skärmen "
+"när den formateras med aktuellt typsnitt. Om ingen skärm anges antas "
+"programmets huvudfönster."
+
+msgid "Return font-specific data. Options include:"
+msgstr "Returnera teckensnittsspecifika data. Alternativen inkluderar:"
+
+msgid "*ascent* - distance between baseline and highest point that a"
+msgstr "*ascent* - avståndet mellan baslinjen och den högsta punkten som en"
+
+msgid "character of the font can occupy"
+msgstr "tecken i teckensnittet kan uppta"
+
+msgid "*descent* - distance between baseline and lowest point that a"
+msgstr "*descent* - avståndet mellan baslinjen och den lägsta punkt som en"
+
+msgid "*linespace* - minimum vertical separation necessary between any two"
+msgstr "*linespace* - minsta vertikala avstånd som krävs mellan två"
+
+msgid "characters of the font that ensures no vertical overlap between lines."
+msgstr ""
+"tecken i typsnittet som säkerställer att det inte finns någon vertikal "
+"överlappning mellan raderna."
+
+msgid "*fixed* - 1 if font is fixed-width else 0"
+msgstr "*fixed* - 1 om teckensnittet har fast bredd, annars 0"
+
+msgid "Return the different font families."
+msgstr "Returnera de olika teckensnittsfamiljerna."
+
+msgid "Return the names of defined fonts."
+msgstr "Returnera namnen på definierade teckensnitt."
+
+msgid "Return a :class:`Font` representation of a tk named font."
+msgstr ""
+"Returnerar en :class:`Font`-representation av ett tk-namngivet typsnitt."
+
+msgid "The *root* parameter was added."
+msgstr "Parametern *root* har lagts till."

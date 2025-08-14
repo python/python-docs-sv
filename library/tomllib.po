@@ -1,0 +1,252 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2001 Python Software Foundation
+# This file is distributed under the same license as the Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# Translators:
+# python-doc bot, 2025
+# Daniel Nylander <po@danielnylander.se>, 2025
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Python 3.14\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-13 14:19+0000\n"
+"PO-Revision-Date: 2025-08-02 17:34+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
+"Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
+"sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid ":mod:`!tomllib` --- Parse TOML files"
+msgstr ":mod:`!tomllib` --- Parsa TOML-filer"
+
+msgid "**Source code:** :source:`Lib/tomllib`"
+msgstr "**Källkod:** :source:`Lib/tomllib`"
+
+msgid ""
+"This module provides an interface for parsing TOML 1.0.0 (Tom's Obvious "
+"Minimal Language, `https://toml.io <https://toml.io/en/>`_). This module "
+"does not support writing TOML."
+msgstr ""
+"Den här modulen tillhandahåller ett gränssnitt för parsning av TOML 1.0.0 "
+"(Tom's Obvious Minimal Language, `https://toml.io <https://toml.io/en/>`_). "
+"Den här modulen stöder inte skrivning av TOML."
+
+msgid ""
+"The :pypi:`Tomli-W package <tomli-w>` is a TOML writer that can be used in "
+"conjunction with this module, providing a write API familiar to users of the "
+"standard library :mod:`marshal` and :mod:`pickle` modules."
+msgstr ""
+"Paketet :pypi:`Tomli-W <tomli-w>` är en TOML-skrivare som kan användas "
+"tillsammans med den här modulen och som tillhandahåller ett skriv-API som är "
+"bekant för användare av standardbibliotekets moduler :mod:`marshal` och :mod:"
+"`pickle`."
+
+msgid ""
+"The :pypi:`TOML Kit package <tomlkit>` is a style-preserving TOML library "
+"with both read and write capability. It is a recommended replacement for "
+"this module for editing already existing TOML files."
+msgstr ""
+"Paketet :pypi:`TOML Kit <tomlkit>` är ett stilbevarande TOML-bibliotek med "
+"både läs- och skrivfunktion. Det är en rekommenderad ersättning för denna "
+"modul för redigering av redan befintliga TOML-filer."
+
+msgid "This module defines the following functions:"
+msgstr "Denna modul definierar följande funktioner:"
+
+msgid ""
+"Read a TOML file. The first argument should be a readable and binary file "
+"object. Return a :class:`dict`. Convert TOML types to Python using this :ref:"
+"`conversion table <toml-to-py-table>`."
+msgstr ""
+"Läser en TOML-fil. Det första argumentet bör vara ett läsbart och binärt "
+"filobjekt. Returnerar en :class:`dict`. Konvertera TOML-typer till Python "
+"med hjälp av denna :ref:`konverteringstabell <toml-to-py-table>`."
+
+msgid ""
+"*parse_float* will be called with the string of every TOML float to be "
+"decoded.  By default, this is equivalent to ``float(num_str)``. This can be "
+"used to use another datatype or parser for TOML floats (e.g. :class:`decimal."
+"Decimal`). The callable must not return a :class:`dict` or a :class:`list`, "
+"else a :exc:`ValueError` is raised."
+msgstr ""
+"*parse_float* kommer att anropas med strängen för varje TOML-flat som ska "
+"avkodas.  Som standard är detta likvärdigt med ``float(num_str)``. Detta kan "
+"användas för att använda en annan datatyp eller parser för TOML-flottor (t."
+"ex. :class:`decimal.Decimal`). Anropet får inte returnera en :class:`dict` "
+"eller en :class:`list`, annars uppstår ett :exc:`ValueError`."
+
+msgid "A :exc:`TOMLDecodeError` will be raised on an invalid TOML document."
+msgstr ""
+"Ett :exc:`TOMLDecodeError` kommer att uppstå på ett ogiltigt TOML-dokument."
+
+msgid ""
+"Load TOML from a :class:`str` object. Return a :class:`dict`. Convert TOML "
+"types to Python using this :ref:`conversion table <toml-to-py-table>`. The "
+"*parse_float* argument has the same meaning as in :func:`load`."
+msgstr ""
+"Laddar TOML från ett :class:`str`-objekt. Returnerar en :class:`dict`. "
+"Konvertera TOML-typer till Python med hjälp av denna :ref:"
+"`konverteringstabell <toml-to-py-table>`. Argumentet *parse_float* har samma "
+"betydelse som i :func:`load`."
+
+msgid "The following exceptions are available:"
+msgstr "Följande undantag är tillgängliga:"
+
+msgid "Subclass of :exc:`ValueError` with the following additional attributes:"
+msgstr "Underklass till :exc:`ValueError` med följande ytterligare attribut:"
+
+msgid "The unformatted error message."
+msgstr "Det oformaterade felmeddelandet."
+
+msgid "The TOML document being parsed."
+msgstr "TOML-dokumentet som analyseras."
+
+msgid "The index of *doc* where parsing failed."
+msgstr "Indexet för *doc* där tolkningen misslyckades."
+
+msgid "The line corresponding to *pos*."
+msgstr "Den linje som motsvarar *pos*."
+
+msgid "The column corresponding to *pos*."
+msgstr "Den kolumn som motsvarar *pos*."
+
+msgid ""
+"Added the *msg*, *doc* and *pos* parameters. Added the :attr:`msg`, :attr:"
+"`doc`, :attr:`pos`, :attr:`lineno` and :attr:`colno` attributes."
+msgstr ""
+"Parametrarna *msg*, *doc* och *pos* har lagts till. Lagt till attributen :"
+"attr:`msg`, :attr:`doc`, :attr:`pos`, :attr:`lineno` och :attr:`colno`."
+
+msgid "Passing free-form positional arguments is deprecated."
+msgstr "Att skicka positionella argument i fri form är föråldrat."
+
+msgid "Examples"
+msgstr "Exempel"
+
+msgid "Parsing a TOML file::"
+msgstr "Parsning av en TOML-fil::"
+
+msgid ""
+"import tomllib\n"
+"\n"
+"with open(\"pyproject.toml\", \"rb\") as f:\n"
+"    data = tomllib.load(f)"
+msgstr ""
+"import tomllib\n"
+"\n"
+"with open(\"pyproject.toml\", \"rb\") as f:\n"
+"    data = tomllib.load(f)"
+
+msgid "Parsing a TOML string::"
+msgstr "Parsning av en TOML-sträng::"
+
+msgid ""
+"import tomllib\n"
+"\n"
+"toml_str = \"\"\"\n"
+"python-version = \"3.11.0\"\n"
+"python-implementation = \"CPython\"\n"
+"\"\"\"\n"
+"\n"
+"data = tomllib.loads(toml_str)"
+msgstr ""
+"import tomllib\n"
+"\n"
+"toml_str = \"\"\"\n"
+"python-version = \"3.11.0\"\n"
+"python-implementation = \"CPython\"\n"
+"\"\"\"\n"
+"\n"
+"data = tomllib.loads(toml_str)"
+
+msgid "Conversion Table"
+msgstr "Konverteringstabell"
+
+msgid "TOML"
+msgstr "TOML"
+
+msgid "Python"
+msgstr "Python"
+
+msgid "TOML document"
+msgstr "TOML-dokument"
+
+msgid "dict"
+msgstr "dict"
+
+msgid "string"
+msgstr "sträng"
+
+msgid "str"
+msgstr "str"
+
+msgid "integer"
+msgstr "heltal"
+
+msgid "int"
+msgstr "int"
+
+msgid "float"
+msgstr "flyt"
+
+msgid "float (configurable with *parse_float*)"
+msgstr "float (konfigurerbar med *parse_float*)"
+
+msgid "boolean"
+msgstr "booleansk"
+
+msgid "bool"
+msgstr "bool"
+
+msgid "offset date-time"
+msgstr "offset date-time"
+
+msgid ""
+"datetime.datetime (``tzinfo`` attribute set to an instance of ``datetime."
+"timezone``)"
+msgstr ""
+"datetime.datetime (attributet ``tzinfo`` satt till en instans av ``datetime."
+"timezone``)"
+
+msgid "local date-time"
+msgstr "local date-time"
+
+msgid "datetime.datetime (``tzinfo`` attribute set to ``None``)"
+msgstr "datetime.datetime (attributet ``tzinfo`` satt till ``None``)"
+
+msgid "local date"
+msgstr "lokalt datum"
+
+msgid "datetime.date"
+msgstr "datetime.date"
+
+msgid "local time"
+msgstr "lokal tid"
+
+msgid "datetime.time"
+msgstr "datetime.tid"
+
+msgid "array"
+msgstr "array"
+
+msgid "list"
+msgstr "lista"
+
+msgid "table"
+msgstr "tabell"
+
+msgid "inline table"
+msgstr "inline-tabell"
+
+msgid "array of tables"
+msgstr "array av tabeller"
+
+msgid "list of dicts"
+msgstr "lista över dicts"

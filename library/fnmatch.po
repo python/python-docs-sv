@@ -1,0 +1,224 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2001 Python Software Foundation
+# This file is distributed under the same license as the Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# Translators:
+# python-doc bot, 2025
+# Daniel Nylander <po@danielnylander.se>, 2025
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Python 3.14\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-13 14:19+0000\n"
+"PO-Revision-Date: 2025-08-02 17:34+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
+"Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
+"sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid ":mod:`!fnmatch` --- Unix filename pattern matching"
+msgstr ":mod:`!fnmatch` --- Unix mönstermatchning av filnamn"
+
+msgid "**Source code:** :source:`Lib/fnmatch.py`"
+msgstr "**Källkod:** :source:`Lib/fnmatch.py`"
+
+msgid ""
+"This module provides support for Unix shell-style wildcards, which are *not* "
+"the same as regular expressions (which are documented in the :mod:`re` "
+"module).  The special characters used in shell-style wildcards are:"
+msgstr ""
+"Den här modulen ger stöd för jokertecken i Unix shell-stil, som *inte* är "
+"samma sak som reguljära uttryck (som dokumenteras i modulen :mod:`re`).  De "
+"specialtecken som används i jokertecken i shell-stil är:"
+
+msgid "Pattern"
+msgstr "Mönster"
+
+msgid "Meaning"
+msgstr "Betydelse"
+
+msgid "``*``"
+msgstr "``*``"
+
+msgid "matches everything"
+msgstr "matchar allt"
+
+msgid "``?``"
+msgstr "``?``"
+
+msgid "matches any single character"
+msgstr "matchar alla enskilda tecken"
+
+msgid "``[seq]``"
+msgstr "``[seq]```"
+
+msgid "matches any character in *seq*"
+msgstr "matchar alla tecken i *seq*"
+
+msgid "``[!seq]``"
+msgstr "``[!seq]```"
+
+msgid "matches any character not in *seq*"
+msgstr "matchar alla tecken som inte finns i *seq*"
+
+msgid ""
+"For a literal match, wrap the meta-characters in brackets. For example, "
+"``'[?]'`` matches the character ``'?'``."
+msgstr ""
+"För en bokstavlig matchning omsluter du metatecknen inom parentes. Till "
+"exempel matchar ``'[?]'`` tecknet ``'?'``."
+
+msgid ""
+"Note that the filename separator (``'/'`` on Unix) is *not* special to this "
+"module.  See module :mod:`glob` for pathname expansion (:mod:`glob` uses :"
+"func:`.filter` to match pathname segments).  Similarly, filenames starting "
+"with a period are not special for this module, and are matched by the ``*`` "
+"and ``?`` patterns."
+msgstr ""
+"Observera att filnamnsseparatorn (``'/'`` på Unix) *inte* är speciell för "
+"den här modulen.  Se modulen :mod:`glob` för expansion av sökvägsnamn (:mod:"
+"`glob` använder :func:`.filter` för att matcha sökvägssegment).  På samma "
+"sätt är filnamn som börjar med en punkt inte speciella för den här modulen, "
+"och matchas av mönstren ``*`` och ``?``."
+
+msgid ""
+"Unless stated otherwise, \"filename string\" and \"pattern string\" either "
+"refer to :class:`str` or ``ISO-8859-1`` encoded :class:`bytes` objects. Note "
+"that the functions documented below do not allow to mix a :class:`!bytes` "
+"pattern with a :class:`!str` filename, and vice-versa."
+msgstr ""
+"Om inget annat anges hänvisar \"filnamnssträng\" och \"mönstersträng\" "
+"antingen till :class:`str` eller ``ISO-8859-1`` kodade :class:`bytes`-"
+"objekt. Observera att de funktioner som dokumenteras nedan inte tillåter att "
+"man blandar ett :class:`!bytes`-mönster med ett :class:`!str`-filnamn, och "
+"vice versa."
+
+msgid ""
+"Finally, note that :func:`functools.lru_cache` with a *maxsize* of 32768 is "
+"used to cache the (typed) compiled regex patterns in the following "
+"functions: :func:`fnmatch`, :func:`fnmatchcase`, :func:`.filter`, :func:`."
+"filterfalse`."
+msgstr ""
+"Observera slutligen att :func:`functools.lru_cache` med en *maxsize* på "
+"32768 används för att cacha de (typade) kompilerade regexmönstren i följande "
+"funktioner: :func:`fnmatch`, :func:`fnmatchcase`, :func:`.filter`, :func:`."
+"filterfalse`."
+
+msgid ""
+"Test whether the filename string *name* matches the pattern string *pat*, "
+"returning ``True`` or ``False``.  Both parameters are case-normalized using :"
+"func:`os.path.normcase`. :func:`fnmatchcase` can be used to perform a case-"
+"sensitive comparison, regardless of whether that's standard for the "
+"operating system."
+msgstr ""
+"Testar om filnamnssträngen *name* matchar mönstersträngen *pat* och "
+"returnerar ``True`` eller ``False``.  Båda parametrarna normaliseras med "
+"hjälp av :func:`os.path.normcase`. :func:`fnmatchcase` kan användas för att "
+"utföra en skiftlägeskänslig jämförelse, oavsett om det är standard för "
+"operativsystemet."
+
+msgid ""
+"This example will print all file names in the current directory with the "
+"extension ``.txt``::"
+msgstr ""
+"Detta exempel skriver ut alla filnamn i den aktuella katalogen med tillägget "
+"``.txt``::"
+
+msgid ""
+"import fnmatch\n"
+"import os\n"
+"\n"
+"for file in os.listdir('.'):\n"
+"    if fnmatch.fnmatch(file, '*.txt'):\n"
+"        print(file)"
+msgstr ""
+"import fnmatch\n"
+"import os\n"
+"\n"
+"for file in os.listdir('.'):\n"
+"    if fnmatch.fnmatch(file, '*.txt'):\n"
+"        print(file)"
+
+msgid ""
+"Test whether the filename string *name* matches the pattern string *pat*, "
+"returning ``True`` or ``False``; the comparison is case-sensitive and does "
+"not apply :func:`os.path.normcase`."
+msgstr ""
+"Testa om filnamnssträngen *name* matchar mönstersträngen *pat* och returnera "
+"``True`` eller ``False``; jämförelsen är skiftlägeskänslig och gäller inte :"
+"func:`os.path.normcase`."
+
+msgid ""
+"Construct a list from those elements of the :term:`iterable` of filename "
+"strings *names* that match the pattern string *pat*. It is the same as ``[n "
+"for n in names if fnmatch(n, pat)]``, but implemented more efficiently."
+msgstr ""
+"Konstruerar en lista från de element i :term:`iterable` av filnamnssträngar "
+"*names* som matchar mönstersträngen *pat*. Det är samma sak som ``[n for n "
+"in names if fnmatch(n, pat)]``, men implementeras mer effektivt."
+
+msgid ""
+"Construct a list from those elements of the :term:`iterable` of filename "
+"strings *names* that do not match the pattern string *pat*. It is the same "
+"as ``[n for n in names if not fnmatch(n, pat)]``, but implemented more "
+"efficiently."
+msgstr ""
+"Konstruerar en lista från de element i :term:`iterable` av filnamnssträngar "
+"*names* som inte matchar mönstersträngen *pat*. Det är samma sak som ``[n "
+"for n in names if not fnmatch(n, pat)]``, men implementeras mer effektivt."
+
+msgid ""
+"Return the shell-style pattern *pat* converted to a regular expression for "
+"using with :func:`re.match`. The pattern is expected to be a :class:`str`."
+msgstr ""
+"Returnerar skalmönstret *pat* konverterat till ett reguljärt uttryck för "
+"användning med :func:`re.match`. Mönstret förväntas vara en :class:`str`."
+
+msgid "Example:"
+msgstr "Exempel:"
+
+msgid "Module :mod:`glob`"
+msgstr "Modul :mod:`glob`"
+
+msgid "Unix shell-style path expansion."
+msgstr "Sökvägsexpansion i Unix-shell-stil."
+
+msgid "filenames"
+msgstr "filnamn"
+
+msgid "wildcard expansion"
+msgstr "expansion med jokertecken"
+
+msgid "module"
+msgstr "modul"
+
+msgid "re"
+msgstr "re"
+
+msgid "* (asterisk)"
+msgstr "* (asterisk)"
+
+msgid "in glob-style wildcards"
+msgstr "i glob-stil jokertecken"
+
+msgid "? (question mark)"
+msgstr "? (frågetecken)"
+
+msgid "[] (square brackets)"
+msgstr "[] (hakparenteser)"
+
+msgid "! (exclamation)"
+msgstr "! (utrop)"
+
+msgid "- (minus)"
+msgstr "- (minus)"
+
+msgid "glob"
+msgstr "klot"

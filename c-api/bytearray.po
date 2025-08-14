@@ -1,0 +1,120 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2001 Python Software Foundation
+# This file is distributed under the same license as the Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# Translators:
+# python-doc bot, 2025
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Python 3.14\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-07 20:38+0000\n"
+"PO-Revision-Date: 2025-08-02 17:33+0000\n"
+"Last-Translator: python-doc bot, 2025\n"
+"Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
+"sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Byte Array Objects"
+msgstr "Byte Array-objekt"
+
+msgid ""
+"This subtype of :c:type:`PyObject` represents a Python bytearray object."
+msgstr ""
+"Denna subtyp av :c:type:`PyObject` representerar ett Python-bytearray-objekt."
+
+msgid ""
+"This instance of :c:type:`PyTypeObject` represents the Python bytearray "
+"type; it is the same object as :class:`bytearray` in the Python layer."
+msgstr ""
+"Denna instans av :c:type:`PyTypeObject` representerar Python-typen "
+"bytearray; det är samma objekt som :class:`bytearray` i Python-lagret."
+
+msgid "Type check macros"
+msgstr "Makron för typkontroll"
+
+msgid ""
+"Return true if the object *o* is a bytearray object or an instance of a "
+"subtype of the bytearray type.  This function always succeeds."
+msgstr ""
+"Returnerar true om objektet *o* är ett bytearray-objekt eller en instans av "
+"en subtyp av bytearray-typen.  Denna funktion lyckas alltid."
+
+msgid ""
+"Return true if the object *o* is a bytearray object, but not an instance of "
+"a subtype of the bytearray type.  This function always succeeds."
+msgstr ""
+"Returnerar true om objektet *o* är ett bytearray-objekt, men inte en instans "
+"av en subtyp av bytearray-typen.  Denna funktion lyckas alltid."
+
+msgid "Direct API functions"
+msgstr "Direkta API-funktioner"
+
+msgid ""
+"Return a new bytearray object from any object, *o*, that implements the :ref:"
+"`buffer protocol <bufferobjects>`."
+msgstr ""
+"Returnerar ett nytt bytearray-objekt från valfritt objekt, *o*, som "
+"implementerar :ref:`buffer protocol <bufferobjects>`."
+
+msgid "On failure, return ``NULL`` with an exception set."
+msgstr "Vid misslyckande returneras ``NULL`` med en undantagsuppsättning."
+
+msgid "Create a new bytearray object from *string* and its length, *len*."
+msgstr "Skapa ett nytt bytearray-objekt från *string* och dess längd, *len*."
+
+msgid ""
+"Concat bytearrays *a* and *b* and return a new bytearray with the result."
+msgstr ""
+"Concat bytearrays *a* och *b* och returnerar en ny bytearray med resultatet."
+
+msgid "Return the size of *bytearray* after checking for a ``NULL`` pointer."
+msgstr ""
+"Returnerar storleken på *bytearray* efter att ha kontrollerat om det finns "
+"en ``NULL``-pekare."
+
+msgid ""
+"Return the contents of *bytearray* as a char array after checking for a "
+"``NULL`` pointer.  The returned array always has an extra null byte appended."
+msgstr ""
+"Returnerar innehållet i *bytearray* som en char-array efter att ha "
+"kontrollerat om det finns en ``NULL``-pekare.  Den returnerade arrayen har "
+"alltid en extra null-byte tillagd."
+
+msgid ""
+"Resize the internal buffer of *bytearray* to *len*. Failure is a ``-1`` "
+"return with an exception set."
+msgstr ""
+"Ändra storlek på den interna bufferten i *bytearray* till *len*. "
+"Misslyckande är en ``-1`` retur med en undantagsuppsättning."
+
+msgid ""
+"A negative *len* will now result in an exception being set and -1 returned."
+msgstr ""
+"En negativ *len* kommer nu att resultera i att ett undantag sätts och -1 "
+"returneras."
+
+msgid "Macros"
+msgstr "Makron"
+
+msgid "These macros trade safety for speed and they don't check pointers."
+msgstr "Dessa makron byter säkerhet mot snabbhet och kontrollerar inte pekare."
+
+msgid "Similar to :c:func:`PyByteArray_AsString`, but without error checking."
+msgstr "Liknar :c:func:`PyByteArray_AsString`, men utan felkontroll."
+
+msgid "Similar to :c:func:`PyByteArray_Size`, but without error checking."
+msgstr "Liknar :c:func:`PyByteArray_Size`, men utan felkontroll."
+
+msgid "object"
+msgstr "objekt"
+
+msgid "bytearray"
+msgstr "bytearray"
