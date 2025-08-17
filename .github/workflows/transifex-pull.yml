@@ -2,7 +2,7 @@ name: Pull Translations from Transifex
  
 on:
   schedule:
-#    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 permissions:
   contents: write
@@ -36,7 +36,6 @@ jobs:
       - run: ./transifex-util.py recreate_tx_config --language sv --project-slug python-newest --version ${{ matrix.version }}
         env:
           TX_TOKEN: ${{ secrets.TX_TOKEN }}
-#      - run: ./transifex-util.py fetch --language sv --project-slug python-newest --version ${{ matrix.version }} --pull-options=" --mode reviewed
       - run: ./transifex-util.py fetch --language sv --project-slug python-newest --version ${{ matrix.version }} --pull-options="
         env:
           TX_TOKEN: ${{ secrets.TX_TOKEN }}
