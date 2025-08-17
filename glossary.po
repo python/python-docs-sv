@@ -2695,7 +2695,7 @@ msgstr ""
 "index`, :meth:`~object.__contains__` och :meth:`~object.__reversed__`. Typer "
 "som implementerar detta utökade gränssnitt kan registreras explicit med :"
 "func:`~abc.ABCMeta.register`. För mer dokumentation om sekvensmetoder i "
-"allmänhet, se :ref:``Common Sequence Operations <typesseq-common>``."
+"allmänhet, se :ref:`Common Sequence Operations <typesseq-common>`."
 
 msgid "set comprehension"
 msgstr "inställd förståelse"

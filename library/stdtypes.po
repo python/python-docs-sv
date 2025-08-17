@@ -1908,8 +1908,8 @@ msgid ""
 "easier to correctly implement these operations on custom sequence types."
 msgstr ""
 "Operationerna i följande tabell är definierade för mutabla sekvenstyper. "
-"Klassen :`collections.abc.MutableSequence` ABC tillhandahålls för att göra "
-"det enklare att korrekt implementera dessa operationer på anpassade "
+"Klassen :class:`collections.abc.MutableSequence` ABC tillhandahålls för att "
+"göra det enklare att korrekt implementera dessa operationer på anpassade "
 "sekvenstyper."
 
 msgid ""
@@ -8479,28 +8479,28 @@ msgid ":class:`collections.ChainMap`"
 msgstr ":class:`samlingar.ChainMap`"
 
 msgid ":class:`collections.abc.Awaitable`"
-msgstr ":class:`samlingar.abc.Awaitable`"
+msgstr ":class:`collections.abc.Awaitable`"
 
 msgid ":class:`collections.abc.Coroutine`"
-msgstr ":class:`samlingar.abc.Coroutine`"
+msgstr ":class:`collections.abc.Coroutine`"
 
 msgid ":class:`collections.abc.AsyncIterable`"
-msgstr ":class:`samlingar.abc.AsyncIterable`"
+msgstr ":class:`collections.abc.AsyncIterable`"
 
 msgid ":class:`collections.abc.AsyncIterator`"
-msgstr ":class:`samlingar.abc.AsyncIterator`"
+msgstr ":class:`collections.abc.AsyncIterator`"
 
 msgid ":class:`collections.abc.AsyncGenerator`"
 msgstr ":class:`collections.abc.AsyncGenerator`"
 
 msgid ":class:`collections.abc.Iterable`"
-msgstr ":class:`samlingar.abc.Iterable`"
+msgstr ":class:`collections.abc.Iterable`"
 
 msgid ":class:`collections.abc.Iterator`"
-msgstr ":class:`samlingar.abc.Iterator`"
+msgstr ":class:`collections.abc.Iterator`"
 
 msgid ":class:`collections.abc.Generator`"
-msgstr ":class:`samlingar.abc.Generator`"
+msgstr ":class:`collections.abc.Generator`"
 
 msgid ":class:`collections.abc.Reversible`"
 msgstr ":class:`collections.abc.Reversible`"
@@ -8512,7 +8512,7 @@ msgid ":class:`collections.abc.Collection`"
 msgstr ":class:`collections.abc.Collection`"
 
 msgid ":class:`collections.abc.Callable`"
-msgstr ":class:`samlingar.abc.Callable`"
+msgstr ":class:`collections.abc.Callable`"
 
 msgid ":class:`collections.abc.Set`"
 msgstr ":class:`collections.abc.Set`"
@@ -8524,25 +8524,25 @@ msgid ":class:`collections.abc.Mapping`"
 msgstr ":class:`collections.abc.Mapping`"
 
 msgid ":class:`collections.abc.MutableMapping`"
-msgstr ":class:`samlingar.abc.MutableMapping`"
+msgstr ":class:`collections.abc.MutableMapping`"
 
 msgid ":class:`collections.abc.Sequence`"
 msgstr ":class:`collections.abc.Sequence`"
 
 msgid ":class:`collections.abc.MutableSequence`"
-msgstr ":class:`samlingar.abc.MutableSequence`"
+msgstr ":class:`collections.abc.MutableSequence`"
 
 msgid ":class:`collections.abc.MappingView`"
-msgstr ":class:`samlingar.abc.MappingView`"
+msgstr ":class:`collections.abc.MappingView`"
 
 msgid ":class:`collections.abc.KeysView`"
-msgstr ":class:`samlingar.abc.KeysView`"
+msgstr ":class:`collections.abc.KeysView`"
 
 msgid ":class:`collections.abc.ItemsView`"
 msgstr ":class:`collections.abc.ItemsView`"
 
 msgid ":class:`collections.abc.ValuesView`"
-msgstr ":class:`kollektioner.abc.ValuesView`"
+msgstr ":class:`collections.abc.ValuesView`"
 
 msgid ":class:`contextlib.AbstractContextManager`"
 msgstr ":class:`contextlib.AbstractContextManager`"
