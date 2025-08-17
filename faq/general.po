@@ -5,15 +5,16 @@
 #
 # Translators:
 # python-doc bot, 2025
+# Daniel Nylander <po@danielnylander.se>, 2025
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-07 20:38+0000\n"
+"POT-Creation-Date: 2025-08-17 14:16+0000\n"
 "PO-Revision-Date: 2025-08-02 17:33+0000\n"
-"Last-Translator: python-doc bot, 2025\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
 "sv/)\n"
 "MIME-Version: 1.0\n"
@@ -822,15 +823,15 @@ msgstr ""
 "'__sizeof__', '__str__', '__subclasshook__', 'append', 'clear',\n"
 "'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove',\n"
 "'reverse', 'sort']\n"
-">>> [d för d i dir(L) om '__' inte finns i d]\n"
+">>> [d for d in dir(L) if '__' not in d]\n"
 "['append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', "
 "'remove', 'reverse', 'sort']\n"
 "\n"
 ">>> help(L.append)\n"
-"Hjälp om den inbyggda funktionen append:\n"
+"Help on built-in function append:\n"
 "\n"
 "append(...)\n"
-"    L.append(objekt) -> None -- lägg till objekt i slutet\n"
+"    L.append(object) -> None -- append object to end\n"
 "\n"
 ">>> L.append(1)\n"
 ">>> L\n"
