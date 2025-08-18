@@ -1833,7 +1833,7 @@ msgid ""
 msgstr ""
 "om du konkatenerar :class:`bytes`-objekt kan du på samma sätt använda :meth:"
 "`bytes.join` eller :class:`io.BytesIO`, eller så kan du göra konkatenering "
-"på plats med ett :class:`bytearray`-objekt. :class:`bytearray`-objekt är "
+"på plats med ett :class:`bytearray` -objekt. :class:`bytearray` -objekt är "
 "muterbara och har en effektiv mekanism för overallokering"
 
 msgid "if concatenating :class:`tuple` objects, extend a :class:`list` instead"
@@ -2510,7 +2510,7 @@ msgid ":class:`str` methods"
 msgstr ":class:`str` metoder"
 
 msgid ":class:`bytes` and :class:`bytearray` methods"
-msgstr "metoderna :class:`bytes` och :class:`bytearray"
+msgstr "metoderna :class:`bytes` och :class:`bytearray`"
 
 msgid "Formatting"
 msgstr "Formaterar"

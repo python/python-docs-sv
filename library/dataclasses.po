@@ -35,7 +35,7 @@ msgid ""
 "originally described in :pep:`557`."
 msgstr ""
 "Denna modul tillhandahåller en dekorator och funktioner för att automatiskt "
-"lägga till genererade :term:`specialmetoder <special method>` såsom :meth:"
+"lägga till genererade :term:`special methods<special method>` såsom :meth:"
 "`~object.__init__` och :meth:`~object.__repr__` till användardefinierade "
 "klasser.  Den beskrevs ursprungligen i :pep:`557`."
 

@@ -286,7 +286,7 @@ msgstr "Se :const:`decimal.HAVE_CONTEXTVAR` och modulen :mod:`contextvars`."
 
 msgid "Override order to check db backends for the :mod:`dbm` module"
 msgstr ""
-"Åsidosätt ordning för att kontrollera db-backends för modulen :mod:`dbm"
+"Åsidosätt ordning för att kontrollera db-backends för modulen :mod:`dbm`"
 
 msgid ""
 "A valid value is a colon (``:``) separated string with the backend names:"
@@ -949,7 +949,7 @@ msgstr ""
 msgid ""
 "Disable the fast :ref:`mimalloc <mimalloc>` allocator (enabled by default)."
 msgstr ""
-"Inaktivera den snabba :ref:`mimalloc <mimalloc>`allokeringen (aktiverad som "
+"Inaktivera den snabba :ref:`mimalloc <mimalloc>` -allokatorn (aktiverad som "
 "standard)."
 
 msgid "See also :envvar:`PYTHONMALLOC` environment variable."

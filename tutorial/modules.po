@@ -604,7 +604,7 @@ msgstr ""
 ">>> sys.path.append('/ufs/guido/lib/python')"
 
 msgid "The :func:`dir` Function"
-msgstr "Funktionen :func:`dir"
+msgstr "Funktionen :func:`dir`"
 
 msgid ""
 "The built-in function :func:`dir` is used to find out which names a module "

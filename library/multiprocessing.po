@@ -120,7 +120,7 @@ msgstr ""
 "underliggande processpoolen från väntan på resultat."
 
 msgid "The :class:`Process` class"
-msgstr "Klassen :class:`Process"
+msgstr "Klassen :class:`Process`"
 
 msgid ""
 "In :mod:`multiprocessing`, processes are spawned by creating a :class:"

@@ -1090,7 +1090,7 @@ msgstr ""
 "Lade till :class:`~enum.ReprEnum`, som endast modifierar :meth:`~object."
 "__repr__` av medlemmar medan den returnerar deras bokstavliga värden "
 "(snarare än namn) för :meth:`~object.__str__` och :meth:`~object.__format__` "
-"(används av :func:`str`, :func:`format` och :term:`f-string`)."
+"(används av :func:`str`, :func:`format` och :term:`f-string`\\s)."
 
 msgid ""
 "Changed :meth:`Enum.__format__() <enum.Enum.__format__>` (the default for :"

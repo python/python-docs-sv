@@ -444,7 +444,7 @@ msgid "Main Tkinter module."
 msgstr "Huvudmodul för Tkinter."
 
 msgid ":mod:`tkinter.colorchooser`"
-msgstr ":mod:`tkinter.färgväljare`"
+msgstr ":mod:`tkinter.colorchooser`"
 
 msgid "Dialog to let the user choose a color."
 msgstr "Dialog för att låta användaren välja en färg."

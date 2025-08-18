@@ -145,7 +145,7 @@ msgstr ""
 "konstanter."
 
 msgid "Constants added by the :mod:`site` module"
-msgstr "Konstanter som läggs till av modulen :mod:`site"
+msgstr "Konstanter som läggs till av modulen :mod:`site`"
 
 msgid ""
 "The :mod:`site` module (which is imported automatically during startup, "

@@ -440,7 +440,7 @@ msgstr ""
 "``getopt``)-versionen."
 
 msgid "Module :mod:`optparse`"
-msgstr "Modul :mod:`optparse`"
+msgstr "Modulen :mod:`optparse`"
 
 msgid "Declarative command line option parsing."
 msgstr "Deklarativ parsning av kommandoradsalternativ."
