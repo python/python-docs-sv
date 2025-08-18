@@ -707,7 +707,7 @@ msgstr ""
 "kan den vanliga tredimensionella C-arrayen ``char v[2][2][3]`` också ses som "
 "en array med 2 pekare till 2 tvådimensionella arrayer: ``char (*v[2])[2]"
 "[3]``. I suboffsets-representationen kan dessa två pekare bäddas in i början "
-"av :c:member:`~Py_buffer.buf` och peka på två ``char x[2][3]``-arrayer som "
+"av :c:member:`~Py_buffer.buf` och peka på två ``char x[2][3]`` -arrayer som "
 "kan placeras var som helst i minnet."
 
 msgid ""
