@@ -288,7 +288,7 @@ msgid ""
 msgstr ""
 "Modifiera :class:`str() <str>` och :func:`repr` för en enum så att dess "
 "medlemmar visas som tillhörande modulen istället för klassen, och exportera "
-"enum-medlemmarna till det globala namnområdet."
+"enum-medlemmarna till det globala namnrymden."
 
 msgid ":func:`show_flag_values`"
 msgstr ":func:`visa_flagg_värden`"

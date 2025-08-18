@@ -1267,7 +1267,7 @@ msgstr ""
 "Dessutom laddar ``Tk`` också en startfil om en sådan finns.  Observera att "
 "Tk-filen läses in villkorslöst.  Denna extra fil heter ``.Idle.py`` och söks "
 "upp i användarens hemkatalog.  Satser i den här filen kommer att exekveras i "
-"Tk-namnområdet, så den här filen är inte användbar för att importera "
+"Tk-namnrymden, så den här filen är inte användbar för att importera "
 "funktioner som ska användas från IDLE:s Python-skal."
 
 msgid "Command line usage"

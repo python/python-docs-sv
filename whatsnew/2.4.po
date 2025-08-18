@@ -1039,7 +1039,7 @@ msgid "Hence, the :class:`Decimal` type was created."
 msgstr "Därför skapades typen :class:`Decimal`."
 
 msgid "The :class:`Decimal` type"
-msgstr "Typen :class:`Decimal"
+msgstr "Typen :class:`Decimal`"
 
 msgid ""
 "A new module, :mod:`decimal`, was added to Python's standard library.  It "
@@ -1242,7 +1242,7 @@ msgstr ""
 "Decimal(\"351364.1828820134592177245001\")"
 
 msgid "The :class:`Context` type"
-msgstr "Typen :class:`Context"
+msgstr "Typen :class:`Context`"
 
 msgid ""
 "Instances of the :class:`Context` class encapsulate several settings for "

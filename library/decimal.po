@@ -196,7 +196,7 @@ msgid ""
 "IBM's General Decimal Arithmetic Specification, `The General Decimal "
 "Arithmetic Specification <https://speleotrove.com/decimal/decarith.html>`_."
 msgstr ""
-"IBM:s allmänna decimalaritmetiska specifikation, \"The General Decimal "
+"IBM:s allmänna decimalaritmetiska specifikation, `The General Decimal "
 "Arithmetic Specification <https://speleotrove.com/decimal/decarith.html>`_."
 
 msgid "Quick-start tutorial"

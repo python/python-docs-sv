@@ -3933,7 +3933,7 @@ msgid ""
 "downloads/#visual-studio-2015-and-other-products>`_."
 msgstr ""
 "Windows-versioner kräver nu Microsoft Visual C++ 14.0, som finns "
-"tillgängligt som en del av Visual Studio 2015 <https://visualstudio."
+"tillgängligt som en del av `Visual Studio 2015 <https://visualstudio."
 "microsoft.com/en/vs/older-downloads/#visual-studio-2015-and-other-"
 "products>`_."
 

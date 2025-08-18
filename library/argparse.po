@@ -2756,7 +2756,7 @@ msgid ""
 "namespace.  Return the populated namespace."
 msgstr ""
 "Konverterar argumentsträngar till objekt och tilldelar dem som attribut för "
-"namnrymden.  Returnera det ifyllda namnområdet."
+"namnrymden.  Returnera det ifyllda namnrymden."
 
 msgid ""
 "Previous calls to :meth:`add_argument` determine exactly what objects are "

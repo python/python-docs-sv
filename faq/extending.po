@@ -321,7 +321,7 @@ msgstr ""
 "Om modulen inte har importerats ännu (dvs. den finns ännu inte i :data:`sys."
 "modules`), initieras modulen; annars returneras helt enkelt värdet av ``sys."
 "modules[\"<modulename>\"]``.  Observera att modulen inte skrivs in i något "
-"namnområde -- den säkerställer bara att den har initialiserats och lagras i :"
+"namnrymd -- den säkerställer bara att den har initialiserats och lagras i :"
 "data:`sys.modules`."
 
 msgid ""

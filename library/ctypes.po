@@ -2990,7 +2990,7 @@ msgid ""
 "`Microsoft DUMPBIN tool <https://docs.microsoft.com/cpp/build/reference/"
 "dependents>`_ -- A tool to find DLL dependents."
 msgstr ""
-"microsofts DUMPBIN-verktyg <https://docs.microsoft.com/cpp/build/reference/"
+"`Microsofts DUMPBIN-verktyg <https://docs.microsoft.com/cpp/build/reference/"
 "dependents>`_ -- Ett verktyg för att hitta DLL-beroenden."
 
 msgid ""

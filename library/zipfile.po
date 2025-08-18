@@ -210,7 +210,7 @@ msgstr ""
 "algoritmerna som används."
 
 msgid "`Info-ZIP Home Page <https://infozip.sourceforge.net/>`_"
-msgstr "`Info-ZIP hemsida <https://infozip.sourceforge.net/>`_"
+msgstr "`Info-ZIP webbplats <https://infozip.sourceforge.net/>`_"
 
 msgid ""
 "Information about the Info-ZIP project's ZIP archive programs and "

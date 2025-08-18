@@ -1044,7 +1044,7 @@ msgid ""
 msgstr ""
 "Naturligtvis kan vi använda Python för mer komplicerade uppgifter än att "
 "lägga ihop två och två.  Vi kan till exempel skriva en första undersekvens "
-"av Fibonacci-serien <https://en.wikipedia.org/wiki/Fibonacci_sequence>`_ på "
+"av `Fibonacci-serien <https://en.wikipedia.org/wiki/Fibonacci_sequence>`_ på "
 "följande sätt::"
 
 msgid ""

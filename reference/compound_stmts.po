@@ -2151,7 +2151,7 @@ msgstr ""
 "(Vanligtvis innehåller sviten mest funktionsdefinitioner.) När klassens svit "
 "är färdig exekverad kasseras dess exekveringsram men dess lokala namnrymd "
 "sparas. [#]_ Ett klassobjekt skapas sedan med hjälp av arvslistan för "
-"basklasserna och det sparade lokala namnområdet för attributdictionariet.  "
+"basklasserna och det sparade lokala namnrymden för attributdictionariet.  "
 "Klassnamnet är bundet till detta klassobjekt i den ursprungliga lokala "
 "namnrymden."
 

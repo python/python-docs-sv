@@ -3363,7 +3363,7 @@ msgstr ""
 "Denna separation kan uppnås genom att sätta ``PyConfig.run_command`` till "
 "den tomma strängen under initialiseringen (för att förhindra att tolken "
 "hamnar i den interaktiva prompten) och sedan köra den önskade "
-"huvudmodulskoden med ``__main__.__dict__`` som globalt namnområde."
+"huvudmodulskoden med ``__main__.__dict__`` som globalt namnrymd."
 
 msgid "main()"
 msgstr "main()"

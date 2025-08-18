@@ -342,7 +342,7 @@ msgstr ""
 "och modern HTML; tryckt utdata stöds fortfarande genom konvertering till "
 "LaTeX.  Inmatningsformatet är reStructuredText, en markeringssyntax som "
 "stöder anpassade tillägg och direktiv och som ofta används i Python-"
-"samhället."
+"gemenskapen."
 
 msgid ""
 "Sphinx is a standalone package that can be used for writing, and almost two "
@@ -2658,7 +2658,7 @@ msgstr ""
 "specifikationen."
 
 msgid "The :mod:`fractions` Module"
-msgstr "Modulen :mod:`fraktioner"
+msgstr "Modulen :mod:`fractions`"
 
 msgid ""
 "To fill out the hierarchy of numeric types, the :mod:`fractions` module "
@@ -5081,7 +5081,7 @@ msgstr ""
 "arkiverade filer.  (Bidrag från Alexey Borzenkov; :issue:`1734346`.)"
 
 msgid "The :mod:`ast` module"
-msgstr "Modulen :mod:`ast"
+msgstr "Modulen :mod:`ast`"
 
 msgid ""
 "The :mod:`ast` module provides an Abstract Syntax Tree representation of "
@@ -5232,7 +5232,7 @@ msgstr ""
 "för vanliga transformationer, t.ex. ändring av radnummer."
 
 msgid "The :mod:`future_builtins` module"
-msgstr "Modulen :mod:`future_builtins"
+msgstr "Modulen :mod:`future_builtins`"
 
 msgid ""
 "Python 3.0 makes many changes to the repertoire of built-in functions, and "

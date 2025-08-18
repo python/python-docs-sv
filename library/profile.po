@@ -611,7 +611,7 @@ msgstr ""
 "kommer inga profileringsresultat att skrivas ut."
 
 msgid "The :class:`Stats` Class"
-msgstr "Klassen :class:`Stats"
+msgstr "Klassen :class:`Stats`"
 
 msgid ""
 "Analysis of the profiler data is done using the :class:`~pstats.Stats` class."

@@ -66,7 +66,7 @@ msgstr ""
 "eller :ref:`WebAssembly platforms <wasm-availability>`."
 
 msgid "Using the :mod:`subprocess` Module"
-msgstr "Använda modulen :mod:`subprocess"
+msgstr "Använda modulen :mod:`subprocess`"
 
 msgid ""
 "The recommended approach to invoking subprocesses is to use the :func:`run` "

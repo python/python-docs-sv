@@ -1572,7 +1572,7 @@ msgid "Purpose"
 msgstr "Syfte"
 
 msgid ":file:`prepare.sh`"
-msgstr ":fil:`prepare.sh`"
+msgstr ":file:`prepare.sh`"
 
 msgid "A Bash script to prepare the environment for testing"
 msgstr "Ett Bash-skript för att förbereda miljön för testning"
@@ -1588,7 +1588,7 @@ msgstr ""
 "en webbapplikation med flera processer"
 
 msgid ":file:`ensure_app.sh`"
-msgstr ":fil:`ensure_app.sh`"
+msgstr ":file:`ensure_app.sh`"
 
 msgid ""
 "A Bash script to ensure that Supervisor is running with the above "
@@ -1598,7 +1598,7 @@ msgstr ""
 "konfiguration"
 
 msgid ":file:`log_listener.py`"
-msgstr ":fil:`log_listener.py`"
+msgstr ":file:`log_listener.py`"
 
 msgid ""
 "The socket listener program which receives log events and records them to a "
@@ -1608,7 +1608,7 @@ msgstr ""
 "fil"
 
 msgid ":file:`main.py`"
-msgstr ":fil:`main.py`"
+msgstr ":file:`main.py`"
 
 msgid ""
 "A simple web application which performs logging via a socket connected to "
@@ -1618,13 +1618,13 @@ msgstr ""
 "till lyssnaren"
 
 msgid ":file:`webapp.json`"
-msgstr ":fil:`webapp.json`"
+msgstr ":file:`webapp.json`"
 
 msgid "A JSON configuration file for the web application"
 msgstr "En JSON-konfigurationsfil för webbapplikationen"
 
 msgid ":file:`client.py`"
-msgstr ":fil:`klient.py`"
+msgstr ":file:`client.py`"
 
 msgid "A Python script to exercise the web application"
 msgstr "Ett Python-skript för att träna webbapplikationen"
@@ -4413,7 +4413,7 @@ msgid ""
 "section <https://docs.djangoproject.com/en/stable/topics/logging/"
 "#configuring-logging>`_ of the Django documentation."
 msgstr ""
-"För mer information om den här konfigurationen kan du se det relevanta "
+"För mer information om den här konfigurationen kan du se det `relevanta "
 "avsnittet <https://docs.djangoproject.com/en/stable/topics/logging/"
 "#configuring-logging>`_ i Django-dokumentationen."
 
