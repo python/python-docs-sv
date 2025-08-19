@@ -37,7 +37,7 @@ msgid ""
 "features <https://en.wikipedia.org/wiki/"
 "C11_(C_standard_revision)#Optional_features>`_ are not required."
 msgstr ""
-"En `C11 <https://en.cppreference.com/w/c/11>`_ kompilator. valfria C11-"
+"En `C11 <https://en.cppreference.com/w/c/11>`_ kompilator. `Valfria C11-"
 "egenskaper <https://en.wikipedia.org/wiki/"
 "C11_(C_standard_revision)#Optional_features>`_ krävs inte."
 
