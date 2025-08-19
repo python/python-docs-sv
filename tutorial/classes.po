@@ -187,7 +187,7 @@ msgstr ""
 "attributreferenser: i uttrycket ``modname.funcname`` är ``modname`` ett "
 "modulobjekt och ``funcname`` är ett attribut till det.  I det här fallet "
 "råkar det finnas en enkel mappning mellan modulens attribut och de globala "
-"namn som definieras i modulen: de delar samma namnrymd!  "
+"namn som definieras i modulen: de delar samma namnrymd! [#]_"
 
 msgid ""
 "Attributes may be read-only or writable.  In the latter case, assignment to "

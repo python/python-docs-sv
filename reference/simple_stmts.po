@@ -1549,7 +1549,7 @@ msgid ""
 "Type aliases may be made generic by adding a :ref:`type parameter list <type-"
 "params>` after the name. See :ref:`generic-type-aliases` for more."
 msgstr ""
-"Typaliaser kan göras generiska genom att lägga till en ref:"
+"Typaliaser kan göras generiska genom att lägga till en :ref:"
 "`typparameterlista <type-params>` efter namnet. Se :ref:`generic-type-"
 "aliases` för mer information."
 
