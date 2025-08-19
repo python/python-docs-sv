@@ -1556,7 +1556,7 @@ msgstr ""
 "En lista med platser (eller :term:`path entries <path entry>`) som söks av :"
 "term:`path based finder` efter moduler att importera. Under importen kommer "
 "denna lista med platser vanligtvis från :data:`sys.path`, men för underpaket "
-"kan den också komma från det överordnade paketets ``__path__``-attribut."
+"kan den också komma från det överordnade paketets ``__path__`` -attribut."
 
 msgid "importing"
 msgstr "import"
