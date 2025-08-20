@@ -504,7 +504,7 @@ msgstr "resultat = [i async för i i aiter() if i % 2]"
 msgid ""
 "Additionally, ``await`` expressions are supported in all kinds of "
 "comprehensions::"
-msgstr "Dessutom stöds ``await``-uttryck i alla typer av förståelser::"
+msgstr "Dessutom stöds ``await``\\-uttryck i alla typer av förståelser::"
 
 msgid "result = [await fun() for fun in funcs if await condition()]"
 msgstr "resultat = [await fun() for fun in funcs if await condition()]"

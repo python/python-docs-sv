@@ -2893,7 +2893,8 @@ msgstr "``Literal`` avduplicerar nu parametrar."
 
 msgid ""
 "Equality comparisons between ``Literal`` objects are now order independent."
-msgstr "Jämlikhetsjämförelser mellan ``Literal``-objekt är nu orderoberoende."
+msgstr ""
+"Jämlikhetsjämförelser mellan ``Literal``\\-objekt är nu orderoberoende."
 
 msgid ""
 "``Literal`` comparisons now respect types.  For example, ``Literal[0] == "
