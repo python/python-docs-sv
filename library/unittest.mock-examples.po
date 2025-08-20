@@ -108,7 +108,7 @@ msgid ""
 "So to test it we need to pass in an object with a ``close`` method and check "
 "that it was called correctly."
 msgstr ""
-"Så för att testa det måste vi skicka in ett objekt med en ``close``-metod "
+"Så för att testa det måste vi skicka in ett objekt med en ``close``\\-metod "
 "och kontrollera att den anropades korrekt."
 
 msgid ""

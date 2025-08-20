@@ -4341,7 +4341,7 @@ msgid ""
 ":mod:`shutil`: :func:`~shutil.rmtree`'s *onerror* parameter is deprecated in "
 "Python 3.12; use the *onexc* parameter instead."
 msgstr ""
-":mod:`shutil`: :func:`~shutil.rmtree`:s parameter *onerror* är föråldrad i "
+":mod:`shutil`: :func:`~shutil.rmtree`\\:s parameter *onerror* är föråldrad i "
 "Python 3.12; använd istället parametern *onexc*."
 
 msgid ":mod:`ssl` options and protocols:"

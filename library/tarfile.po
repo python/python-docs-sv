@@ -1147,7 +1147,7 @@ msgid ""
 "`~TarFile.getmember`, :meth:`~TarFile.getmembers` and :meth:`~TarFile."
 "gettarinfo`."
 msgstr ""
-":class:`TarInfo`-objekt returneras av :class:`TarFile`:s metoder :meth:"
+":class:`TarInfo`-objekt returneras av :class:`TarFile`\\:s metoder :meth:"
 "`~TarFile.getmember`, :meth:`~TarFile.getmembers` och :meth:`~TarFile."
 "gettarinfo`."
 

@@ -1179,7 +1179,7 @@ msgstr ""
 "proxyobjekt.  Följande exempel skapar en delad ordbok genom att anropa "
 "metoden :meth:`dict`; arbetsprocesserna infogar sedan värden i ordboken.  "
 "(Låsning görs inte automatiskt, vilket inte spelar någon roll i det här "
-"exemplet. :class:`Manager`:s metoder inkluderar även :meth:`Lock`, :meth:"
+"exemplet. :class:`Manager`\\:s metoder inkluderar även :meth:`Lock`, :meth:"
 "`RLock` och :meth:`Semaphore` för att skapa delade lås)"
 
 msgid ""

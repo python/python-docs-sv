@@ -46,7 +46,7 @@ msgstr ""
 "Python-installation, känd som den virtuella miljöns \"bas\"-Python, och är "
 "som standard isolerad från paketen i basmiljön, så att endast de som "
 "uttryckligen har installerats i den virtuella miljön är tillgängliga. Se :"
-"ref:`sys-path-init-virtual-environments` och :mod:`site`:s :ref:``virtual "
+"ref:`sys-path-init-virtual-environments` och :mod:`site`\\:s :ref:``virtual "
 "environments documentation <site-virtual-environments-configuration>` för "
 "mer information."
 

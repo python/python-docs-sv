@@ -481,7 +481,7 @@ msgstr ""
 "av en webbläsare för att identifiera sig själv - vissa HTTP-servrar tillåter "
 "bara förfrågningar som kommer från vanliga webbläsare i motsats till skript. "
 "Till exempel kan Mozilla Firefox identifiera sig som ``\"Mozilla/5.0 (X11; "
-"U; Linux i686) Gecko/20071127 Firefox/2.0.0.11\"``, medan :mod:`urllib`:s "
+"U; Linux i686) Gecko/20071127 Firefox/2.0.0.11\"``, medan :mod:`urllib`\\:s "
 "standardiserade användaragentsträng är ``\"Python-urllib/2.6\"`` (på Python "
 "2.6). Alla rubriknycklar skickas i kamelbokstäver."
 

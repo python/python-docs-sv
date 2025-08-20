@@ -2473,7 +2473,7 @@ msgid ""
 msgstr ""
 "Flaggan används för att omvandla generatorer till generatorbaserade "
 "coroutines.  Generatorobjekt med denna flagga kan användas i ``await``\\-"
-"uttryck och kan ``yielda från`` coroutine-objekt. Se :pep:`492` för mer "
+"uttryck och kan ``yield from`` coroutine-objekt. Se :pep:`492` för mer "
 "information."
 
 msgid ""

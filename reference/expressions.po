@@ -925,7 +925,7 @@ msgstr ""
 "en :meth:`~generator.__next__`-metod utvärderas det aktuella yield-uttrycket "
 "alltid till :const:`None`.  Exekveringen fortsätter sedan till nästa yield-"
 "uttryck, där generatorn avbryts igen och värdet i :token:`~python-grammar:"
-"yield_list` returneras till :meth:`__next__`:s anropare.  Om generatorn "
+"yield_list` returneras till :meth:`__next__`\\:s anropare.  Om generatorn "
 "avslutas utan att ge något annat värde, uppstår ett :exc:`StopIteration`-"
 "undantag."
 

@@ -768,7 +768,7 @@ msgid ""
 "contains a single class called :class:`subprocess.Popen`  whose constructor "
 "supports a number of different keyword arguments. ::"
 msgstr ""
-"Istället för :mod:`!popen2`:s samling av klasser innehåller :mod:"
+"Istället för :mod:`!popen2`\\:s samling av klasser innehåller :mod:"
 "`subprocess` en enda klass som heter :class:`subprocess.Popen` vars "
 "konstruktor stöder ett antal olika nyckelordsargument. ::"
 

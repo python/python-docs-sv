@@ -1394,7 +1394,7 @@ msgid ""
 "additional garbage collector overhead if the object is managed by the "
 "garbage collector."
 msgstr ""
-":func:`getsizeof` anropar objektets ``__sizeof__``-metod och lägger till "
+":func:`getsizeof` anropar objektets ``__sizeof__``\\-metod och lägger till "
 "ytterligare en sopsamlarfunktion om objektet hanteras av sopsamlaren."
 
 msgid ""

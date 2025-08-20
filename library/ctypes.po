@@ -3880,7 +3880,7 @@ msgid ""
 msgstr ""
 "Däremot kommer referensantalet för *dst* inte att decimeras innan det nya "
 "värdet tilldelas. Om inte *dst* är ``NULL`` är anroparen ansvarig för att "
-"decimera referensantalet genom att anropa dess ``Release``-metod vid behov."
+"decimera referensantalet genom att anropa dess ``Release``\\-metod vid behov."
 
 msgid ""
 "This function is similar to the cast operator in C. It returns a new "
