@@ -27,7 +27,7 @@ msgid "Object Protocol"
 msgstr "Objektprotokoll"
 
 msgid "Get a :term:`strong reference` to a constant."
-msgstr "Få en :term:`stark referens` till en konstant."
+msgstr "Få en :term:`strong reference` till en konstant."
 
 msgid "Set an exception and return ``NULL`` if *constant_id* is invalid."
 msgstr ""

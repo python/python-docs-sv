@@ -663,7 +663,7 @@ msgid ""
 msgstr ""
 "Kompilatorn avger en :exc:`SyntaxWarning` när ett :keyword:`return`, :"
 "keyword:`break` eller :keyword:`continue` förekommer i ett :keyword:`!"
-"finally`-block (se :pep:`765`)."
+"finally`\\-block (se :pep:`765`)."
 
 msgid "The :keyword:`!with` statement"
 msgstr ":nyckelord:`!med`-satsen"

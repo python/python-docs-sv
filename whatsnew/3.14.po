@@ -2288,7 +2288,7 @@ msgid ""
 msgstr ""
 "Kompilatorn avger en :exc:`SyntaxWarning` när en :keyword:`return`, :keyword:"
 "`break` eller :keyword:`continue`-sats visas där den avslutar ett :keyword:"
-"`finally`-block. Denna ändring är specificerad i :pep:`765`."
+"`finally`\\-block. Denna ändring är specificerad i :pep:`765`."
 
 msgid "New modules"
 msgstr "Nya moduler"

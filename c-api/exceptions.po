@@ -1501,7 +1501,7 @@ msgid ":exc:`SyntaxError`"
 msgstr ":exc:`SyntaxError`"
 
 msgid ":exc:`SystemError`"
-msgstr ":exc:`Systemfel`"
+msgstr ":exc:`SystemError`"
 
 msgid ":exc:`SystemExit`"
 msgstr ":exc:`SystemExit`"

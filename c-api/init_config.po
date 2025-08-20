@@ -1968,7 +1968,7 @@ msgid ""
 ":term:`Filesystem encoding <filesystem encoding and error handler>`: :func:"
 "`sys.getfilesystemencoding`."
 msgstr ""
-":term:`Filesystem encoding <filesystem encoding and error handler>`: :func:"
+":term:`Filsystemskodning <filesystem encoding and error handler>`: :func:"
 "`sys.getfilesystemencoding`."
 
 msgid "On macOS, Android and VxWorks: use ``\"utf-8\"`` by default."
