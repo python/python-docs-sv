@@ -1573,7 +1573,7 @@ msgid "The return type is now ``const char *`` rather of ``char *``."
 msgstr "Returtypen är nu ``const char *`` i stället för ``char *``."
 
 msgid "This function is a part of the :ref:`limited API <limited-c-api>`."
-msgstr "Denna funktion är en del av :ref:``limited API <limited-c-api>`."
+msgstr "Denna funktion är en del av :ref:`limited API <limited-c-api>`."
 
 msgid "As :c:func:`PyUnicode_AsUTF8AndSize`, but does not store the size."
 msgstr "Som :c:func:`PyUnicode_AsUTF8AndSize`, men lagrar inte storleken."

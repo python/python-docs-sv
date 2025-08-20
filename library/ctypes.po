@@ -4364,7 +4364,7 @@ msgid ""
 "`auditing event <auditing>` ``ctypes.cdata`` with argument ``address``."
 msgstr ""
 "Denna metod, och andra som indirekt anropar denna metod, ger upphov till en :"
-"ref:``auditing event <auditing>``ctypes.cdata`` med argumentet ``address``."
+"ref:`auditing event <auditing>`ctypes.cdata`` med argumentet ``address``."
 
 msgid ""
 "This method adapts *obj* to a ctypes type.  It is called with the actual "

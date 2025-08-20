@@ -372,7 +372,7 @@ msgid ""
 msgstr ""
 "Värdet ``decoded`` i rubriken kommer att ha alla kodade ord avkodade till "
 "unicode. :class:`~encodings.idna` kodade domännamn är också avkodade till "
-"unicode.  Det ``avkodade`` värdet sätts genom att :ref:``joining <meth-str-"
+"unicode.  Det ``avkodade`` värdet sätts genom att :ref:`joining <meth-str-"
 "join>`` :class:`str` värdet av elementen i attributet ``groups`` med ``', "
 "'``."
 

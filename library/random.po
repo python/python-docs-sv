@@ -1188,7 +1188,7 @@ msgid ""
 "All :ref:`real valued distributions <real-valued-distributions>` in the "
 "class will use the new method::"
 msgstr ""
-"Alla :ref:``realvärdesdistributioner <real-valued-distributions>` i klassen "
+"Alla :ref:`realvärdesdistributioner <real-valued-distributions>` i klassen "
 "kommer att använda den nya metoden::"
 
 msgid ""

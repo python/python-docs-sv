@@ -1137,7 +1137,7 @@ msgstr ""
 "Se :ref:`multiprocessing-programming-spawn`.  Även om denna begränsning inte "
 "är sann om man använder startmetoden ``\"fork\"``, så är den inte längre "
 "standard på någon plattform från och med Python ``3.14``.  Se :ref:"
-"``multiprocessing-start-methods``. Se även :gh:`132898`."
+"`multiprocessing-start-methods``. Se även :gh:`132898`."
 
 msgid "Added the *daemon* parameter."
 msgstr "Parametern *daemon* har lagts till."

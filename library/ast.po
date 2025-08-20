@@ -420,7 +420,7 @@ msgid ""
 "and re-exported in :mod:`ast`."
 msgstr ""
 "Detta är basen för alla AST-nodklasser.  De faktiska nodklasserna härleds "
-"från filen :file:`Parser/Python.asdl`, som reproduceras :ref:``above "
+"från filen :file:`Parser/Python.asdl`, som reproduceras :ref:`above "
 "<abstract-grammar>`.  De definieras i C-modulen :mod:`!_ast` och exporteras "
 "på nytt i :mod:`ast`."
 
@@ -693,7 +693,7 @@ msgstr ""
 
 msgid "``body`` is a :class:`list` of :ref:`statement nodes <ast-statements>`."
 msgstr ""
-"``body`` är en :class:`list` av :ref:``statement nodes <ast-statements>`."
+"``body`` är en :class:`list` av :ref:`statement nodes <ast-statements>`."
 
 msgid ""
 ">>> print(ast.dump(ast.parse('x = 1; y = 2', mode='single'), indent=4))\n"

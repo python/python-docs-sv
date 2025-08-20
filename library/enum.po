@@ -37,7 +37,7 @@ msgstr ""
 "handledning och diskussion om mer avancerade ämnen, se"
 
 msgid ":ref:`Basic Tutorial <enum-basic-tutorial>`"
-msgstr ":ref:``Basic Tutorial <enum-basic-tutorial>``"
+msgstr ":ref:`Basic Tutorial <enum-basic-tutorial>``"
 
 msgid ":ref:`Advanced Tutorial <enum-advanced-tutorial>`"
 msgstr ":ref:`Avancerad handledning <enum-advanced-tutorial>`"

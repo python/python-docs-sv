@@ -1235,7 +1235,7 @@ msgstr ""
 "att uppstå."
 
 msgid "Locks also support the :ref:`context management protocol <with-locks>`."
-msgstr "Lås stöder också :ref:``context management protocol <with-locks>``."
+msgstr "Lås stöder också :ref:`context management protocol <with-locks>``."
 
 msgid ""
 "When more than one thread is blocked in :meth:`~Lock.acquire` waiting for "
@@ -1874,7 +1874,7 @@ msgstr ""
 msgid ""
 "Semaphores also support the :ref:`context management protocol <with-locks>`."
 msgstr ""
-"Semaforer stöder också :ref:``context management protocol <with-locks>``."
+"Semaforer stöder också :ref:`context management protocol <with-locks>``."
 
 msgid ""
 "This class implements semaphore objects.  A semaphore manages an atomic "

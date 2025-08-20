@@ -1282,7 +1282,7 @@ msgid ""
 "This function is now also available in the :ref:`limited API <limited-c-"
 "api>`."
 msgstr ""
-"Denna funktion är nu också tillgänglig i :ref:``limited API <limited-c-api>`."
+"Denna funktion är nu också tillgänglig i :ref:`limited API <limited-c-api>`."
 
 msgid ""
 "Ends a :c:func:`Py_EnterRecursiveCall`.  Must be called once for each "

@@ -1267,7 +1267,7 @@ msgstr ""
 "``shell=True``, är det applikationens ansvar att se till att alla blanksteg "
 "och metatecken citeras på rätt sätt för att undvika `shell injection &lt;"
 "https://en.wikipedia.org/wiki/Shell_injection#Shell_injection&gt;`_ "
-"sårbarheter. På :ref:``vissa plattformar <shlex-quote-warning>`` är det "
+"sårbarheter. På :ref:`vissa plattformar <shlex-quote-warning>`` är det "
 "möjligt att använda :func:`shlex.quote` för denna escaping."
 
 msgid ""

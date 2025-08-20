@@ -1379,7 +1379,7 @@ msgid ""
 "strptime-behavior` and :meth:`date.isoformat`."
 msgstr ""
 "Samma som :meth:`.date.strftime`. Detta gör det möjligt att ange en "
-"formatsträng för ett :class:`.date`\\-objekt i :ref:``formatted string "
+"formatsträng för ett :class:`.date`\\-objekt i :ref:`formatted string "
 "literals <f-strings>`` och när man använder :meth:`str.format`. Se även :ref:"
 "`strftime-strptime-behavior` och :meth:`date.isoformat`."
 

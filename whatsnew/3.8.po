@@ -3242,7 +3242,7 @@ msgid ""
 "In future releases of Python, they will be :ref:`positional-only <positional-"
 "only_parameter>`. (Contributed by Serhiy Storchaka in :issue:`36492`.)"
 msgstr ""
-"I framtida utgåvor av Python kommer de att vara :ref:``positional-only "
+"I framtida utgåvor av Python kommer de att vara :ref:`positional-only "
 "<positional-only_parameter>`. (Bidrag från Serhiy Storchaka i :issue:"
 "`36492`.)"
 

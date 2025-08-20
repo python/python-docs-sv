@@ -273,7 +273,7 @@ msgid ""
 msgstr ""
 "Med metoderna :meth:`~TestCase.setUp` och :meth:`~TestCase.tearDown` kan du "
 "definiera instruktioner som ska utföras före och efter varje testmetod. De "
-"beskrivs mer i detalj i avsnittet :ref:``organizing-tests``."
+"beskrivs mer i detalj i avsnittet :ref:`organizing-tests``."
 
 msgid ""
 "The final block shows a simple way to run the tests. :func:`unittest.main` "

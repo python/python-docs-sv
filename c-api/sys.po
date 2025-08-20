@@ -570,7 +570,7 @@ msgid ""
 "events table <audit-events>`. Details are in each function's documentation."
 msgstr ""
 "Se :pep:`578` för en detaljerad beskrivning av auditering.  Funktioner i "
-"runtime och standardbiblioteket som skapar händelser listas i :ref:``audit "
+"runtime och standardbiblioteket som skapar händelser listas i :ref:`audit "
 "events table <audit-events>``. Detaljer finns i dokumentationen för varje "
 "funktion."
 

@@ -1073,7 +1073,7 @@ msgstr ""
 "Ett antal optionsflaggor styr olika aspekter av doctests beteende. "
 "Symboliska namn för flaggorna anges som modulkonstanter, som kan :ref:"
 "`bitwise ORed <bitwise>` ihop och skickas till olika funktioner. Namnen kan "
-"också användas i :ref:``doctest-direktiv <doctest-directives>`, och kan "
+"också användas i :ref:`doctest-direktiv <doctest-directives>`, och kan "
 "skickas till doctests kommandoradsgränssnitt via alternativet ``-o``."
 
 msgid ""

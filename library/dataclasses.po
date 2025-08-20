@@ -1537,7 +1537,7 @@ msgid ""
 "Fields that are assigned :ref:`descriptor objects <descriptors>` as their "
 "default value have the following special behaviors:"
 msgstr ""
-"Fält som tilldelas :ref:``descriptor objects <descriptors>`` som "
+"Fält som tilldelas :ref:`descriptor objects <descriptors>`` som "
 "standardvärde har följande speciella beteenden:"
 
 msgid ""

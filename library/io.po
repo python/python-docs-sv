@@ -307,7 +307,7 @@ msgid ""
 "arguments *path*, *mode* and *flags*. The *mode* and *flags* arguments may "
 "have been modified or inferred from the original call."
 msgstr ""
-"Den här funktionen startar en :ref:`auditing event <auditing>``open`` med "
+"Den här funktionen startar en :ref:`auditing event <auditing>`open`` med "
 "argumenten *path*, *mode* och *flags*. Argumenten *mode* och *flags* kan ha "
 "ändrats eller härletts från det ursprungliga anropet."
 
