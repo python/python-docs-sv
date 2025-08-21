@@ -894,7 +894,7 @@ msgid "Added the *filter* parameter."
 msgstr "Parametern *filter* har lagts till."
 
 msgid "The *filter* parameter now defaults to ``'data'``."
-msgstr "Parametern *filter* har nu ``'data'' som standard."
+msgstr "Parametern *filter* har nu ``'data'`` som standard."
 
 msgid ""
 "Extract a member from the archive to the current working directory, using "

@@ -408,7 +408,7 @@ msgid ""
 "``f'{expr=}'`` will expand to the text of the expression, an equal sign, "
 "then the representation of the evaluated expression.  For example:"
 msgstr ""
-"Lade till en ``=`` specifikator till :term:`f-string`s. En f-sträng som "
+"Lade till en ``=``\\-specifikator till :term:`f-string`\\s. En f-sträng som "
 "``f'{expr=}'`` kommer att expandera till uttryckets text, ett likhetstecken "
 "och sedan representationen av det utvärderade uttrycket.  Ett exempel:"
 

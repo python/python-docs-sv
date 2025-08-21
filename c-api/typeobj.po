@@ -5157,7 +5157,7 @@ msgstr ""
 msgid ""
 "The simplest :ref:`static type <static-types>` with fixed-length instances::"
 msgstr ""
-"Den enklaste :ref:` `statiska typen <static-types>` med instanser av fast "
+"Den enklaste :ref:`statiska typen <static-types>` med instanser av fast "
 "längd::"
 
 msgid ""

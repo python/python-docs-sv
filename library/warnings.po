@@ -740,7 +740,7 @@ msgid ""
 msgstr ""
 "Man kan också få alla varningar att bli undantag genom att använda ``error`` "
 "istället för ``always``. En sak man bör vara medveten om är att om en "
-"varning redan har tagits upp på grund av en ``once``/`default``-regel, så "
+"varning redan har tagits upp på grund av en ``once``/``default``\\-regel, så "
 "kommer varningen inte att visas igen oavsett vilka filter som ställs in, "
 "såvida inte varningsregistret som är relaterat till varningen har rensats."
 

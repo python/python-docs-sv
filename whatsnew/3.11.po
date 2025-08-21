@@ -3099,7 +3099,7 @@ msgstr ""
 "Python 3.12:"
 
 msgid "the :class:`!configparser.SafeConfigParser` class"
-msgstr "klassen :class:`!configparser.SafeConfigParser` "
+msgstr "klassen :class:`!configparser.SafeConfigParser`"
 
 msgid "the :attr:`!configparser.ParsingError.filename` property"
 msgstr "egenskapen :attr:`!configparser.ParsingError.filename`"

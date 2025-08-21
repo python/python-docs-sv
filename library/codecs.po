@@ -562,7 +562,7 @@ msgstr ""
 "`textkodning <text encoding>`):"
 
 msgid "``'xmlcharrefreplace'``"
-msgstr "``'xmlcharrefreplace'`` ``"
+msgstr "``'xmlcharrefreplace'``"
 
 msgid ""
 "Replace with XML/HTML numeric character reference, which is a decimal form "

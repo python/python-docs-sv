@@ -3864,7 +3864,7 @@ msgid ""
 msgstr ""
 "(Om vi inte gjorde en :func:`copy` av :attr:`Option.TYPE_CHECKER`, skulle vi "
 "sluta med att modifiera attributet :attr:`~Option.TYPE_CHECKER` i :mod:"
-"`optparse`s Option-klass.  Eftersom det här är Python finns det inget som "
+"`optparse`\\s Option-klass.  Eftersom det här är Python finns det inget som "
 "hindrar dig från att göra det, förutom gott uppförande och sunt förnuft)"
 
 msgid ""

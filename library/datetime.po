@@ -103,7 +103,7 @@ msgstr ""
 "tidsjusteringar, t.ex. information om tidszoner och sommartid, kan ett "
 "**medvetet** objekt lokalisera sig självt i förhållande till andra medvetna "
 "objekt. Ett medvetet objekt representerar ett specifikt ögonblick i tiden "
-"som inte är öppet för tolkning. "
+"som inte är öppet för tolkning. [#]_"
 
 msgid ""
 "A **naive** object does not contain enough information to unambiguously "

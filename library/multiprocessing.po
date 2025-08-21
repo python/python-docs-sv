@@ -2182,7 +2182,7 @@ msgid ""
 "Only meaningful when using the ``'forkserver'`` start method. See :ref:"
 "`multiprocessing-start-methods`."
 msgstr ""
-"Endast meningsfullt när man använder startmetoden ``'forkserver''. Se :ref:"
+"Endast meningsfullt när man använder startmetoden ``'forkserver'``. Se :ref:"
 "`multiprocessing-start-methods`."
 
 msgid ""

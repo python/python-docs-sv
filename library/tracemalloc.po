@@ -852,7 +852,7 @@ msgid ""
 "`subprocess` module"
 msgstr ""
 "``Filter(True, subprocess.__file__)`` innehåller bara spår av modulen :mod:"
-"`subprocess"
+"`subprocess`"
 
 msgid ""
 "``Filter(False, tracemalloc.__file__)`` excludes traces of the :mod:"

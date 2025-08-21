@@ -5847,7 +5847,7 @@ msgid ""
 msgstr ""
 "Ett nytt Makefile-mål, \"make patchcheck\", förbereder Python-källträdet för "
 "att göra en patch: det fixar efterföljande blanksteg i alla modifierade ``."
-"py`'-filer, kontrollerar om dokumentationen har ändrats och rapporterar om "
+"py``\\-filer, kontrollerar om dokumentationen har ändrats och rapporterar om "
 "filerna :file:`Misc/ACKS` och :file:`Misc/NEWS` har uppdaterats. (Bidrag "
 "från Brett Cannon.)"
 
