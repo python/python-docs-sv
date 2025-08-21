@@ -160,7 +160,7 @@ msgstr ""
 "prefixet ``Py`` eller ``PY``, utom de som definieras i standardhuvudfiler. "
 "För enkelhetens skull, och eftersom de används flitigt av Python-tolken, "
 "innehåller ``\"Python.h\"`` några standardheaderfiler: ``<stdio.h>``, "
-"``<string.h>``, ``<errno.h>`` och ``<stdlib.h>`.  Om den senare huvudfilen "
+"``<string.h>``, ``<errno.h>`` och ``<stdlib.h>``.  Om den senare huvudfilen "
 "inte finns på ditt system, deklarerar den funktionerna :c:func:`malloc`, :c:"
 "func:`free` och :c:func:`realloc` direkt."
 
