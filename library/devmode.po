@@ -103,7 +103,7 @@ msgid ""
 "errors."
 msgstr ""
 "Använd kommandoradsalternativet :option:`-W error <-W>` eller sätt "
-"miljövariabeln :envvar:`PYTHONWARNINGS` till `error`` för att behandla "
+"miljövariabeln :envvar:`PYTHONWARNINGS` till ``error`` för att behandla "
 "varningar som fel."
 
 msgid "Install debug hooks on memory allocators to check for:"
