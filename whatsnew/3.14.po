@@ -2642,7 +2642,7 @@ msgid ""
 ":mod:`ctypes` now supports :term:`free-threading builds <free threading>`. "
 "(Contributed by Kumar Aditya and Peter Bierma in :gh:`127945`.)"
 msgstr ""
-":mod:`ctypes` stöder nu :term:``free-threading builds <free threading>`. "
+":mod:`ctypes` stöder nu :term:`free-threading builds <free threading>`. "
 "(Bidrag från Kumar Aditya och Peter Bierma i :gh:`127945`.)"
 
 msgid "curses"

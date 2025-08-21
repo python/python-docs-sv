@@ -421,7 +421,7 @@ msgid ""
 "providing the standard stream implementations."
 msgstr ""
 "Implementeringen av I/O-strömmar är organiserad som en hierarki av klasser.  "
-"Först :term:``abstrakta basklasser <abstract base class>` (ABC), som används "
+"Först :term:`abstrakta basklasser <abstract base class>` (ABC), som används "
 "för att specificera de olika kategorierna av strömmar, sedan konkreta "
 "klasser som tillhandahåller standardimplementeringarna av strömmar."
 

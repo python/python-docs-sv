@@ -144,7 +144,7 @@ msgstr ""
 "En :class:`LZMAFile` kan omsluta ett redan öppet :term:`file-objekt`, eller "
 "arbeta direkt på en namngiven fil. Argumentet *filnamn* anger antingen "
 "filobjektet som ska omslutas eller namnet på filen som ska öppnas (som ett :"
-"class:`str`, :class:`bytes` eller :term:``path-like <path-like object>` "
+"class:`str`, :class:`bytes` eller :term:`path-like <path-like object>`\\-"
 "objekt). När ett befintligt filobjekt paketeras kommer den paketerade filen "
 "inte att stängas när :class:`LZMAFile` stängs."
 

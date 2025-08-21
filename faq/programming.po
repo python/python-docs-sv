@@ -2517,7 +2517,7 @@ msgid ""
 "term:`list comprehension` is an elegant solution::"
 msgstr ""
 "Att anropa en metod eller funktion och ackumulera returvärdena är en lista, "
-"en :term:``list comprehension`` är en elegant lösning::"
+"en :term:`list comprehension` är en elegant lösning::"
 
 msgid ""
 "result = [obj.method() for obj in mylist]\n"

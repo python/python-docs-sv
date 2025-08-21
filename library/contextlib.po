@@ -514,7 +514,7 @@ msgstr ""
 "        # Send http requests with session"
 
 msgid ":term:`asynchronous context manager` support was added."
-msgstr ":term:``asynkron kontexthanterare`` stöd har lagts till."
+msgstr "Stöd för :term:`asynchronous context manager` har lagts till."
 
 msgid ""
 "Return a context manager that suppresses any of the specified exceptions if "

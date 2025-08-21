@@ -940,7 +940,7 @@ msgid ""
 msgstr ""
 "Om *cwd* inte är ``None`` ändrar funktionen arbetskatalogen till *cwd* innan "
 "den exekverar underobjektet.  *cwd* kan vara en sträng, byte eller :term:"
-"``path-like <path-like object>`` objekt.  På POSIX letar funktionen efter "
+"`path-like <path-like object>`\\-objekt.  På POSIX letar funktionen efter "
 "*executable* (eller efter det första objektet i *args*) i förhållande till "
 "*cwd* om sökvägen till den exekverbara filen är en relativ sökväg."
 

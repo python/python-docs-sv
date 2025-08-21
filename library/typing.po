@@ -6056,7 +6056,7 @@ msgstr ""
 "anteckningar från ``C`` basklasser med dem på ``C`` direkt. Detta görs genom "
 "att traversera :attr:`C.__mro__ <type.__mro__>` och iterativt kombinera "
 "``__annotations__`` dictionaries. Anteckningar om klasser som förekommer "
-"tidigare i :term:``method resolution order`` har alltid företräde framför "
+"tidigare i :term:`method resolution order` har alltid företräde framför "
 "anteckningar om klasser som förekommer senare i metodupplösningsordningen."
 
 msgid ""
