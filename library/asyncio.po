@@ -84,7 +84,7 @@ msgid ":ref:`a-conceptual-overview-of-asyncio`"
 msgstr ":ref:`a-conceptual-overview-of-asyncio`"
 
 msgid "Explanation of the fundamentals of asyncio."
-msgstr ""
+msgstr "Förklaring av grunderna i asyncio."
 
 msgid "asyncio provides a set of **high-level** APIs to:"
 msgstr "asyncio tillhandahåller en uppsättning **högnivå** API:er för att:"
