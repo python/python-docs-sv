@@ -154,7 +154,7 @@ msgid "``%zd``"
 msgstr "``%zd``"
 
 msgid ":c:type:`\\ Py_ssize_t`"
-msgstr ":c:typ:`\\\\ Py_ssize_t`"
+msgstr ":c:type:`\\ Py_ssize_t`"
 
 msgid "Equivalent to ``printf(\"%zd\")``. [1]_"
 msgstr "Motsvarar ``printf(\"%zd\")``. [1]_"

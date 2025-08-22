@@ -364,7 +364,7 @@ msgstr ""
 "måste anropa :c:func:`PyBuffer_Release` när den är klar med bufferten."
 
 msgid "``es`` (:class:`str`) [const char \\*encoding, char \\*\\*buffer]"
-msgstr "``es`` (:class:`str`) [const char \\*encoding, char \\*\\\\*buffer]"
+msgstr "``es`` (:class:`str`) [const char \\*encoding, char \\*\\*buffer]"
 
 msgid ""
 "This variant on ``s`` is used for encoding Unicode into a character buffer. "
