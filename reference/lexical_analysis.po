@@ -1724,7 +1724,7 @@ msgid ""
 "evaluate to a :class:`string.templatelib.Template` object."
 msgstr ""
 "I stället för att utvärderas till ett ``str``-objekt utvärderas "
-"mallsträngkonstanter till ett :class:`string.templatelib.Template`\\ -objekt."
+"mallsträngkonstanter till ett :class:`string.templatelib.Template`\\-objekt."
 
 msgid ""
 "The :func:`format` protocol is not used. Instead, the format specifier and "

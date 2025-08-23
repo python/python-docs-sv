@@ -4287,7 +4287,7 @@ msgstr ""
 "(men mer effektivt) alternativ till ``memoryview((c_byte * size)."
 "from_address(ptr))``. (Medan :meth:`~_CData.from_address` bara tar heltal, "
 "kan *ptr* också ges som ett :class:`ctypes.POINTER` eller ett :func:`~ctypes."
-"byref`\\ -objekt)"
+"byref`\\-objekt)"
 
 msgid ""
 "Raises an :ref:`auditing event <auditing>` ``ctypes.memoryview_at`` with "

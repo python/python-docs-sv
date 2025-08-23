@@ -69,7 +69,7 @@ msgid ""
 "the first day of the week. :const:`MONDAY` is ``0`` (the default), :const:"
 "`SUNDAY` is ``6``."
 msgstr ""
-"Skapar ett :class:`Calendar`\\ -objekt. *firstweekday* är ett heltal som "
+"Skapar ett :class:`Calendar`\\-objekt. *firstweekday* är ett heltal som "
 "anger den första dagen i veckan. :const:`MONDAY` är ``0`` (standard), :const:"
 "`SUNDAY` är ``6``."
 

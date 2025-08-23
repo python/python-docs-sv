@@ -2639,7 +2639,7 @@ msgstr ""
 "eller om LC_CTYPE locale är \"C\" eller \"POSIX\"."
 
 msgid "``\"strict\"`` otherwise."
-msgstr "``\"strikt\"`` annars."
+msgstr "``\"strict\"`` annars."
 
 msgid "See also :c:member:`PyConfig.legacy_windows_stdio`."
 msgstr "Se även :c:member:`PyConfig.legacy_windows_stdio`."

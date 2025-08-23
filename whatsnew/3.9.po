@@ -2250,7 +2250,7 @@ msgstr ""
 "med :c:func:`PyType_FromSpec` och liknande API:er) innehåller en referens "
 "till sitt typobjekt sedan Python 3.8. Som anges i ”Ändringar i C API” i "
 "Python 3.8 bör det i de allra flesta fall inte finnas några bieffekter, men "
-"för typer som har en anpassad :c:member:`~PyTypeObject.tp_traverse`\\ -"
+"för typer som har en anpassad :c:member:`~PyTypeObject.tp_traverse`\\-"
 "funktion måste du se till att alla anpassade ``tp_traverse``\\ -funktioner "
 "för heap-allokerade typer besöker objektets typ."
 
