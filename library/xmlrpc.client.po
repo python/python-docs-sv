@@ -193,13 +193,13 @@ msgstr ""
 "taggen ``<int>``."
 
 msgid "``double`` or ``float``"
-msgstr "``dubbel`` eller ``flata``"
+msgstr "``double`` eller ``float``"
 
 msgid ":class:`float`.  Values get the ``<double>`` tag."
 msgstr ":class:`float`.  Värden får taggen ``<double>``."
 
 msgid "``string``"
-msgstr "``sträng``"
+msgstr "``string``"
 
 msgid ":class:`str`"
 msgstr ":class:`str`"
@@ -215,7 +215,7 @@ msgstr ""
 "Arrayer returneras som :class:`lists <list>`."
 
 msgid "``struct``"
-msgstr "``struktur``"
+msgstr "``struct``"
 
 msgid ""
 ":class:`dict`.  Keys must be strings, values may be any conformable type.  "
