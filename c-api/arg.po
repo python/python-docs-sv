@@ -300,7 +300,7 @@ msgid ""
 "``y#`` (read-only :term:`bytes-like object`) [const char \\*, :c:type:"
 "`Py_ssize_t`]"
 msgstr ""
-"``y#`` (skrivskyddad :term:`bytesliknande objekt`) [const char \\*, :c:type:"
+"``y#`` (skrivskyddad :term:`bytes-like object`) [const char \\*, :c:type:"
 "`Py_ssize_t`]"
 
 msgid ""
@@ -349,7 +349,7 @@ msgstr ""
 "objekt.  C-variabeln kan också deklareras som :c:expr:`PyObject*`."
 
 msgid "``w*`` (read-write :term:`bytes-like object`) [Py_buffer]"
-msgstr "``w*`` (skrivläsning :term:`bytesliknande objekt`) [Py_buffer]"
+msgstr "``w*`` (läs-skriv :term:`bytes-like object`) [Py_buffer]"
 
 msgid ""
 "This format accepts any object which implements the read-write buffer "
@@ -422,7 +422,7 @@ msgid ""
 "``es#`` (:class:`str`) [const char \\*encoding, char \\*\\*buffer, :c:type:"
 "`Py_ssize_t` \\*buffer_length]"
 msgstr ""
-"``es#`` (:class:`str`) [const char \\*encoding, char \\*\\\\*buffer, :c:type:"
+"``es#`` (:class:`str`) [const char \\*encoding, char \\*\\*buffer, :c:type:"
 "`Py_ssize_t` \\*buffer_length]"
 
 msgid ""
@@ -666,7 +666,7 @@ msgid "Convert a Python floating-point number to a C :c:expr:`float`."
 msgstr "Konverterar ett Python flyttal till ett C :c:expr:`float`."
 
 msgid "``d`` (:class:`float`) [double]"
-msgstr "``d`` (:class:`float`) [dubbel]"
+msgstr "``d`` (:class:`float`) [double]"
 
 msgid "Convert a Python floating-point number to a C :c:expr:`double`."
 msgstr "Konverterar ett Python flyttal till ett C :c:expr:`double`."
@@ -682,7 +682,7 @@ msgid "Other objects"
 msgstr "Övriga objekt"
 
 msgid "``O`` (object) [PyObject \\*]"
-msgstr "``O`` (objekt) [PyObject \\*]"
+msgstr "``O`` (object) [PyObject \\*]"
 
 msgid ""
 "Store a Python object (without any conversion) in a C object pointer.  The C "
@@ -696,7 +696,7 @@ msgstr ""
 "inte). Den lagrade pekaren är inte ``NULL``."
 
 msgid "``O!`` (object) [*typeobject*, PyObject \\*]"
-msgstr "``O!`` (objekt) [*typeobject*, PyObject \\*]"
+msgstr "``O!`` (object) [*typeobject*, PyObject \\*]"
 
 msgid ""
 "Store a Python object in a C object pointer.  This is similar to ``O``, but "
@@ -712,7 +712,7 @@ msgstr ""
 "uppstår :exc:`TypeError`."
 
 msgid "``O&`` (object) [*converter*, *address*]"
-msgstr "``O&`` (objekt) [*konverterare*, *adress*]"
+msgstr "``O&`` (object) [*converter*, *address*]"
 
 msgid ""
 "Convert a Python object to a C variable through a *converter* function.  "
@@ -783,7 +783,7 @@ msgstr ""
 "information om hur Python testar värden för sanning."
 
 msgid "``(items)`` (sequence) [*matching-items*]"
-msgstr "``(items)`` (sekvens) [*matchande-items*]"
+msgstr "``(items)`` (sequence) [*matching-items*]"
 
 msgid ""
 "The object must be a Python sequence (except :class:`str`, :class:`bytes` "
