@@ -1896,7 +1896,7 @@ msgstr ""
 ":func:`locale.getencoding` kan användas för att hämta locale-kodningen."
 
 msgid "See also the :term:`filesystem encoding and error handler`."
-msgstr "Se även :term:`filsystemets kodning och felhantering`."
+msgstr "Se även :term:`filesystem encoding and error handler`."
 
 msgid "magic method"
 msgstr "magisk metod"

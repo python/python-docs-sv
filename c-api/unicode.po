@@ -601,7 +601,7 @@ msgid "``t``"
 msgstr "``t``"
 
 msgid ":c:type:`ptrdiff_t`"
-msgstr ":c:typ:`ptrdiff_t`"
+msgstr ":c:type:`ptrdiff_t`"
 
 msgid ""
 "The length modifier ``l`` for following conversions ``s`` or ``V`` specify "
@@ -1276,7 +1276,7 @@ msgstr ""
 "*result* hänvisar till och returnera ``1``."
 
 msgid "Decode a string from the :term:`filesystem encoding and error handler`."
-msgstr "Avkodar en sträng från :term:`filsystemets kodning och felhantering`."
+msgstr "Avkodar en sträng från :term:`filesystem encoding and error handler`."
 
 msgid ""
 "If you need to decode a string from the current locale encoding, use :c:func:"
@@ -1296,8 +1296,8 @@ msgid ""
 "Decode a null-terminated string from the :term:`filesystem encoding and "
 "error handler`."
 msgstr ""
-"Avkoda en nollavslutad sträng från :term:`filsystemets kodning och "
-"felhantering`."
+"Avkoda en nollavslutad sträng från :term:`filesystem encoding and error "
+"handler`."
 
 msgid ""
 "If the string length is known, use :c:func:"
