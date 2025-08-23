@@ -883,13 +883,13 @@ msgstr ""
 "attribut; de viktigaste är:"
 
 msgid "``group()``"
-msgstr "``group()```"
+msgstr "``group()``"
 
 msgid "Return the string matched by the RE"
 msgstr "Returnera den sträng som matchas av RE"
 
 msgid "``start()``"
-msgstr "``start()```"
+msgstr "``start()``"
 
 msgid "Return the starting position of the match"
 msgstr "Returnera startpositionen för matchen"
@@ -2533,7 +2533,7 @@ msgstr ""
 "första argumentet.  Mönstret kan anges som ett objekt eller som en sträng; "
 "om du behöver ange flaggor för reguljära uttryck måste du antingen använda "
 "ett mönsterobjekt som första parameter eller använda inbäddade modifierare i "
-"mönstersträngen, t.ex. ``sub(\"(?i)b+\", \"x\", \"bbbb BBBB\")``` returnerar "
+"mönstersträngen, t.ex. ``sub(\"(?i)b+\", \"x\", \"bbbb BBBB\")`` returnerar "
 "``'x x'``."
 
 msgid "Common Problems"

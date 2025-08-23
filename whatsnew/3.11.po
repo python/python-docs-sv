@@ -2462,7 +2462,7 @@ msgid "``f(arg)``"
 msgstr "``f(arg)``"
 
 msgid "``C(arg)``"
-msgstr "``C(arg)```"
+msgstr "``C(arg)``"
 
 msgid ""
 "Calls to common builtin (C) functions and types such as :func:`len` and :"

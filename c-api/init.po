@@ -1212,7 +1212,7 @@ msgstr ""
 "versionen, till exempel"
 
 msgid "``'Copyright 1991-1995 Stichting Mathematisch Centrum, Amsterdam'``"
-msgstr "``'Copyright 1991-1995 Stichting Mathematisch Centrum, Amsterdam'```"
+msgstr "``'Copyright 1991-1995 Stichting Mathematisch Centrum, Amsterdam'``"
 
 msgid ""
 "The returned string points into static storage; the caller should not modify "
