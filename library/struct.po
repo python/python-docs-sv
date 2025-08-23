@@ -467,7 +467,7 @@ msgid "``l``"
 msgstr "``l``"
 
 msgid ":c:expr:`long`"
-msgstr ":c:expr:`lång`"
+msgstr ":c:expr:`long`"
 
 msgid "``L``"
 msgstr "``L``"

@@ -4619,7 +4619,7 @@ msgid ":c:func:`PyObject_VectorcallMethod`"
 msgstr ":c:func:`PyObject_VectorcallMethod`"
 
 msgid ":c:macro:`PY_VECTORCALL_ARGUMENTS_OFFSET`"
-msgstr ":c:makro:`PY_VECTORCALL_ARGUMENTS_OFFSET`"
+msgstr ":c:macro:`PY_VECTORCALL_ARGUMENTS_OFFSET`"
 
 msgid ""
 "This means that both the incoming and outgoing ends of the vector call "
@@ -5116,30 +5116,30 @@ msgid "Deprecate global configuration variable:"
 msgstr "Utgå från den globala konfigurationsvariabeln:"
 
 msgid ":c:var:`Py_DebugFlag`: use :c:member:`PyConfig.parser_debug`"
-msgstr ":c:var:`Py_DebugFlag`: använda :c:medlem:`PyConfig.parser_debug`"
+msgstr ":c:var:`Py_DebugFlag`: använd:c:member:`PyConfig.parser_debug`"
 
 msgid ":c:var:`Py_VerboseFlag`: use :c:member:`PyConfig.verbose`"
 msgstr ":c:var:`Py_VerboseFlag`: använd :c:member:`PyConfig.verbose`"
 
 msgid ":c:var:`Py_QuietFlag`: use :c:member:`PyConfig.quiet`"
-msgstr ":c:var:`Py_QuietFlag`: använda :c:medlem:`PyConfig.quiet`"
+msgstr ":c:var:`Py_QuietFlag`: använd :c:member:`PyConfig.quiet`"
 
 msgid ":c:var:`Py_InteractiveFlag`: use :c:member:`PyConfig.interactive`"
-msgstr ":c:var:`Py_InteractiveFlag`: använda :c:medlem:`PyConfig.interactive`"
+msgstr ":c:var:`Py_InteractiveFlag`: använd :c:member:`PyConfig.interactive`"
 
 msgid ":c:var:`Py_InspectFlag`: use :c:member:`PyConfig.inspect`"
 msgstr ":c:var:`Py_InspectFlag`: använd :c:member:`PyConfig.inspect`"
 
 msgid ":c:var:`Py_OptimizeFlag`: use :c:member:`PyConfig.optimization_level`"
 msgstr ""
-":c:var:`Py_OptimizeFlag`: använda :c:medlem:`PyConfig.optimization_level`"
+":c:var:`Py_OptimizeFlag`: använd :c:member:`PyConfig.optimization_level`"
 
 msgid ":c:var:`Py_NoSiteFlag`: use :c:member:`PyConfig.site_import`"
 msgstr ":c:var:`Py_NoSiteFlag`: använd :c:member:`PyConfig.site_import`"
 
 msgid ":c:var:`Py_BytesWarningFlag`: use :c:member:`PyConfig.bytes_warning`"
 msgstr ""
-":c:var:`Py_BytesWarningFlag`: använda :c:medlem:`PyConfig.bytes_warning`"
+":c:var:`Py_BytesWarningFlag`: använd :c:member:`PyConfig.bytes_warning`"
 
 msgid ":c:var:`Py_FrozenFlag`: use :c:member:`PyConfig.pathconfig_warnings`"
 msgstr ""
@@ -5175,7 +5175,7 @@ msgstr ""
 "och :c:member:`PyConfig.hash_seed`"
 
 msgid ":c:var:`Py_IsolatedFlag`: use :c:member:`PyConfig.isolated`"
-msgstr ":c:var:`Py_IsolatedFlag`: använda :c:medlem:`PyConfig.isolated`"
+msgstr ":c:var:`Py_IsolatedFlag`: använd :c:member:`PyConfig.isolated`"
 
 msgid ""
 ":c:var:`Py_LegacyWindowsFSEncodingFlag`: use :c:member:`PyPreConfig."
@@ -5272,7 +5272,7 @@ msgid "Several items are not exposed from :file:`Python.h`:"
 msgstr "Flera objekt är inte exponerade från :file:`Python.h`:"
 
 msgid ":c:macro:`T_OBJECT` (use :c:macro:`Py_T_OBJECT_EX`)"
-msgstr ":c:makro:`T_OBJECT` (använd :c:makro:`Py_T_OBJECT_EX`)"
+msgstr ":c:macro:`T_OBJECT` (använd :c:macro:`Py_T_OBJECT_EX`)"
 
 msgid ":c:macro:`T_NONE` (previously undocumented, and pretty quirky)"
 msgstr ":c:macro:`T_NONE` (tidigare odokumenterad, och ganska knasig)"
@@ -5798,7 +5798,7 @@ msgid "Legacy Unicode APIs have been removed. See :pep:`623` for detail."
 msgstr "Äldre Unicode API:er har tagits bort. Se :pep:`623` för detaljer."
 
 msgid ":c:macro:`!PyUnicode_WCHAR_KIND`"
-msgstr ":c:makro:`!PyUnicode_WCHAR_KIND`"
+msgstr ":c:macro:`!PyUnicode_WCHAR_KIND`"
 
 msgid ":c:func:`!PyUnicode_AS_UNICODE`"
 msgstr ":c:func:`!PyUnicode_AS_UNICODE`"

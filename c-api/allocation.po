@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-19 14:18+0000\n"
+"POT-Creation-Date: 2025-08-21 14:19+0000\n"
 "PO-Revision-Date: 2025-08-02 17:33+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
@@ -152,13 +152,13 @@ msgid ":c:func:`PyObject_Free`"
 msgstr ":c:func:`PyObject_Free`"
 
 msgid ":c:macro:`PyObject_GC_New`"
-msgstr ":c:makro:`PyObject_GC_New`"
+msgstr ":c:macro:`PyObject_GC_New`"
 
 msgid ":c:func:`PyType_GenericAlloc`"
 msgstr ":c:func:`PyType_GenericAlloc`"
 
 msgid ":c:member:`~PyTypeObject.tp_alloc`"
-msgstr ":c:medlem:`~PyTypeObject.tp_alloc`"
+msgstr ":c:member:`~PyTypeObject.tp_alloc`"
 
 msgid "Like :c:macro:`PyObject_New` except:"
 msgstr "Som :c:macro:`PyObject_New` utom:"
@@ -208,7 +208,7 @@ msgstr ""
 "PyObject *list_instance = PyObject_CallNoArgs((PyObject *)&PyList_Type);"
 
 msgid ":c:macro:`PyObject_GC_NewVar`"
-msgstr ":c:makro:`PyObject_GC_NewVar`"
+msgstr ":c:macro:`PyObject_GC_NewVar`"
 
 msgid "Same as :c:func:`PyObject_Free`."
 msgstr "Samma som :c:func:`PyObject_Free`."

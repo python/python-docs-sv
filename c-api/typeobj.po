@@ -2282,7 +2282,7 @@ msgid ""
 "Group: :c:macro:`Py_TPFLAGS_HAVE_GC`, :c:member:`~PyTypeObject."
 "tp_traverse`, :c:member:`~PyTypeObject.tp_clear`"
 msgstr ""
-"Grupp: :c:makro:`Py_TPFLAGS_HAVE_GC`, :c:member:`~PyTypeObject."
+"Grupp: :c:macro:`Py_TPFLAGS_HAVE_GC`, :c:member:`~PyTypeObject."
 "tp_traverse`, :c:member:`~PyTypeObject.tp_clear`"
 
 msgid ""

@@ -1005,7 +1005,7 @@ msgid "explanation"
 msgstr "förklaring"
 
 msgid ":c:macro:`!DBL_EPSILON`"
-msgstr ":c:makro:`!DBL_EPSILON`"
+msgstr ":c:macro:`!DBL_EPSILON`"
 
 msgid ""
 "difference between 1.0 and the least value greater than 1.0 that is "
@@ -1076,7 +1076,7 @@ msgstr ""
 "*denormaliserade* representerbara flottören."
 
 msgid ":c:macro:`!DBL_MIN_EXP`"
-msgstr ":c:makro:`!DBL_MIN_EXP`"
+msgstr ":c:macro:`!DBL_MIN_EXP`"
 
 msgid ""
 "The minimum integer *e* such that ``radix**(e-1)`` is a normalized float."
@@ -1085,7 +1085,7 @@ msgstr ""
 "flyttal."
 
 msgid ":c:macro:`!DBL_MIN_10_EXP`"
-msgstr ":c:makro:`!DBL_MIN_10_EXP`"
+msgstr ":c:macro:`!DBL_MIN_10_EXP`"
 
 msgid "The minimum integer *e* such that ``10**e`` is a normalized float."
 msgstr ""

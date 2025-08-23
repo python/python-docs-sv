@@ -4868,7 +4868,7 @@ msgid ":c:func:`!_PyUnicode_AsUnicode`"
 msgstr ":c:func:`!_PyUnicode_AsUnicode`"
 
 msgid ":c:macro:`!PyUnicode_WCHAR_KIND`"
-msgstr ":c:makro:`!PyUnicode_WCHAR_KIND`"
+msgstr ":c:macro:`!PyUnicode_WCHAR_KIND`"
 
 msgid ":c:type:`PyUnicodeObject`"
 msgstr ":c:type:`PyUnicodeObject`"

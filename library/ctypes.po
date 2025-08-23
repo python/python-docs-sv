@@ -549,7 +549,7 @@ msgid ":class:`c_long`"
 msgstr ":class:`c_long`"
 
 msgid ":c:expr:`long`"
-msgstr ":c:expr:`lång`"
+msgstr ":c:expr:`long`"
 
 msgid ":class:`c_ulong`"
 msgstr ":class:`c_ulong`"
