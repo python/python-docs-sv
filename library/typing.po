@@ -7024,7 +7024,7 @@ msgid "3.12"
 msgstr "3.12"
 
 msgid ":gh:`94309`"
-msgstr ":gh:`94309``"
+msgstr ":gh:`94309`"
 
 msgid ":data:`typing.TypeAlias`"
 msgstr ":data:`typing.TypeAlias`"
