@@ -2503,7 +2503,7 @@ msgstr ""
 "Anropa :c:func:`PyObject_Repr` på *obj* och skriv utdata till *writer*."
 
 msgid "Write the substring ``str[start:end]`` into *writer*."
-msgstr "Skriv in delsträngen ``str[start:slut]`` i *writer*."
+msgstr "Skriv in delsträngen ``str[start:end]`` i *writer*."
 
 msgid ""
 "*str* must be Python :class:`str` object. *start* must be greater than or "
