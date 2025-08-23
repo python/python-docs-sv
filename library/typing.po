@@ -7042,7 +7042,7 @@ msgid "3.15"
 msgstr "3.15"
 
 msgid ":gh:`106309`"
-msgstr ":gh:`106309``"
+msgstr ":gh:`106309`"
 
 msgid ":data:`typing.AnyStr`"
 msgstr ":data:`typning.AnyStr`"
@@ -7051,4 +7051,4 @@ msgid "3.18"
 msgstr "3.18"
 
 msgid ":gh:`105578`"
-msgstr ":gh:`105578``"
+msgstr ":gh:`105578`"
