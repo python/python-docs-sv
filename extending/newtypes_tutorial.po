@@ -1517,7 +1517,7 @@ msgstr ""
 "])"
 
 msgid "and then we re-install so that we can ``import custom2``:"
-msgstr "och sedan installerar vi om så att vi kan ``importera custom2``:"
+msgstr "och sedan installerar vi om så att vi kan ``import custom2``:"
 
 msgid "Providing finer control over data attributes"
 msgstr "Tillhandahåller finare kontroll över dataattribut"
