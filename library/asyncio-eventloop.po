@@ -187,7 +187,7 @@ msgstr ""
 msgid ""
 "The `Examples`_ section showcases how to work with some event loop APIs."
 msgstr ""
-"Avsnittet \"Exempel\" visar hur man arbetar med vissa API:er för "
+"Avsnittet `Examples`_ visar hur man arbetar med vissa API:er för "
 "händelseslingor."
 
 msgid "Event Loop Methods"

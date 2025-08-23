@@ -104,8 +104,8 @@ msgstr ""
 "Observera att satser alltid avslutas med en ``NEWLINE``, eventuellt följd av "
 "en ``DEDENT``.  Observera också att valfria fortsättningssatser alltid "
 "börjar med ett nyckelord som inte kan börja en sats, så det finns inga "
-"tvetydigheter (problemet med \"dinglande :nyckelord:`else`\" löses i Python "
-"genom att kräva att nästlade :nyckelord:`if`-satser är indragna)."
+"tvetydigheter (problemet med \"dinglande :keyword:`else`\" löses i Python "
+"genom att kräva att nästlade :keyword:`if`-satser är indragna)."
 
 msgid ""
 "The formatting of the grammar rules in the following sections places each "
@@ -166,7 +166,7 @@ msgstr ""
 "tillbaka till att testa uttrycket."
 
 msgid "The :keyword:`!for` statement"
-msgstr ":nyckelord:`!for`-satsen"
+msgstr ":keyword:`!for`-satsen"
 
 msgid ""
 "The :keyword:`for` statement is used to iterate over the elements of a "
@@ -243,7 +243,7 @@ msgid "Starred elements are now allowed in the expression list."
 msgstr "Stjärnmärkta element är nu tillåtna i uttrycksförteckningen."
 
 msgid "The :keyword:`!try` statement"
-msgstr ":nyckelord:`!try`-satsen"
+msgstr ":keyword:`!try`-satsen"
 
 msgid ""
 "The :keyword:`!try` statement specifies exception handlers and/or cleanup "
@@ -269,7 +269,7 @@ msgstr ""
 "undantagstyper används. Se :pep:`758`."
 
 msgid ":keyword:`!except` clause"
-msgstr ":nyckelord:`!except` klausul"
+msgstr ":keyword:`!except` klausul"
 
 msgid ""
 "The :keyword:`!except` clause(s) specify one or more exception handlers. "
@@ -440,7 +440,7 @@ msgstr ""
 "None"
 
 msgid ":keyword:`!except*` clause"
-msgstr ":nyckelord:`!except*` klausul"
+msgstr ":keyword:`!except*` klausul"
 
 msgid ""
 "The :keyword:`!except*` clause(s) are used for handling :exc:"
@@ -552,7 +552,7 @@ msgstr ""
 "`return` kan inte förekomma i en :keyword:`!except*`-sats."
 
 msgid ":keyword:`!else` clause"
-msgstr ":nyckelord:`!else` klausul"
+msgstr ":keyword:`!else` klausul"
 
 msgid ""
 "The optional :keyword:`!else` clause is executed if the control flow leaves "
@@ -568,7 +568,7 @@ msgstr ""
 "keyword:`except`-klausulerna."
 
 msgid ":keyword:`!finally` clause"
-msgstr ":nyckelord:`!finally` klausul"
+msgstr ":keyword:`!finally` klausul"
 
 msgid ""
 "If :keyword:`!finally` is present, it specifies a 'cleanup' handler.  The :"
@@ -666,7 +666,7 @@ msgstr ""
 "finally`\\ -block (se :pep:`765`)."
 
 msgid "The :keyword:`!with` statement"
-msgstr ":nyckelord:`!med`-satsen"
+msgstr ":keyword:`!with`-satsen"
 
 msgid ""
 "The :keyword:`with` statement is used to wrap the execution of a block with "
@@ -870,7 +870,7 @@ msgid ""
 msgstr "Specifikation, bakgrund och exempel för Pythons :keyword:`with`-sats."
 
 msgid "The :keyword:`!match` statement"
-msgstr ":nyckelord:`!match`-satsen"
+msgstr ":keyword:`!match`-satsen"
 
 msgid "The match statement is used for pattern matching.  Syntax:"
 msgstr "Match-satsen används för mönstermatchning.  Syntax:"
@@ -1033,7 +1033,7 @@ msgid ""
 "expression."
 msgstr ""
 "En ``guard`` (som är en del av ``case``) måste lyckas för att koden i "
-"``case``-blocket ska kunna exekveras.  Den har formen: :nyckelord:`if` följt "
+"``case``-blocket ska kunna exekveras.  Den har formen: :keyword:`if` följt "
 "av ett uttryck."
 
 msgid "The logical flow of a ``case`` block with a ``guard`` follows:"

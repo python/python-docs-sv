@@ -95,7 +95,7 @@ msgstr ""
 "information se :ref:`tut-match`."
 
 msgid ":keyword:`!for` Statements"
-msgstr ":nyckelord:`!för` Uttalanden"
+msgstr ":keyword:`!for` Uttalanden"
 
 msgid ""
 "The :keyword:`for` statement in Python differs a bit from what you may be "
@@ -504,7 +504,7 @@ msgstr ""
 "och undantag, se :ref:`tut-handling`."
 
 msgid ":keyword:`!pass` Statements"
-msgstr ":nyckelord:`!pass` Uttalanden"
+msgstr ":keyword:`!pass` Uttalanden"
 
 msgid ""
 "The :keyword:`pass` statement does nothing. It can be used when a statement "
@@ -555,7 +555,7 @@ msgstr ""
 "..."
 
 msgid ":keyword:`!match` Statements"
-msgstr ":nyckelord:`!match` Uttalanden"
+msgstr ":keyword:`!match` Uttalanden"
 
 msgid ""
 "A :keyword:`match` statement takes an expression and compares its value to "

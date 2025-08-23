@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-17 14:16+0000\n"
+"POT-Creation-Date: 2025-08-21 14:19+0000\n"
 "PO-Revision-Date: 2025-08-02 17:33+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
@@ -233,25 +233,25 @@ msgid "Networking and IPC"
 msgstr "Nätverk och IPC"
 
 msgid "``await`` :meth:`loop.create_connection`"
-msgstr "``await`` :meth:`loop.skapa_anslutning`"
+msgstr "``await`` :meth:`loop.create_connection`"
 
 msgid "Open a TCP connection."
 msgstr "Öppna en TCP-anslutning."
 
 msgid "``await`` :meth:`loop.create_server`"
-msgstr "``await`` :meth:`loop.skapa_server`"
+msgstr "``await`` :meth:`loop.create_server`"
 
 msgid "Create a TCP server."
 msgstr "Skapa en TCP-server."
 
 msgid "``await`` :meth:`loop.create_unix_connection`"
-msgstr "``await`` :meth:`loop.skapa_unix_connection`"
+msgstr "``await`` :meth:`loop.create_unix_connection`"
 
 msgid "Open a Unix socket connection."
 msgstr "Öppna en Unix-socketanslutning."
 
 msgid "``await`` :meth:`loop.create_unix_server`"
-msgstr "``await`` :meth:`loop.skapa_unix_server`"
+msgstr "``await`` :meth:`loop.create_unix_server`"
 
 msgid "Create a Unix socket server."
 msgstr "Skapa en Unix-socket-server."
@@ -264,7 +264,7 @@ msgstr ""
 "Packa in en :class:`~socket.socket` till ett ``(transport, protocol)`` -par."
 
 msgid "``await`` :meth:`loop.create_datagram_endpoint`"
-msgstr "``await`` :meth:`loop.skapa_datagram_ändpunkt`"
+msgstr "``await`` :meth:`loop.create_datagram_endpoint`"
 
 msgid "Open a datagram (UDP) connection."
 msgstr "Öppna en UDP-anslutning (datagram)."
@@ -299,7 +299,7 @@ msgid "Sockets"
 msgstr "Uttag"
 
 msgid "``await`` :meth:`loop.sock_recv`"
-msgstr "``await`` :meth:`loop.sock_recv`` :meth:`loop.sock_recv`"
+msgstr "``await`` :meth:`loop.sock_recv`"
 
 msgid "Receive data from the :class:`~socket.socket`."
 msgstr "Ta emot data från :class:`~socket.socket`."
@@ -311,25 +311,25 @@ msgid "Receive data from the :class:`~socket.socket` into a buffer."
 msgstr "Ta emot data från :class:`~socket.socket` till en buffert."
 
 msgid "``await`` :meth:`loop.sock_recvfrom`"
-msgstr "``await`` :meth:`loop.sock_recvfrom`` :meth:`loop.sock_recvfrom`"
+msgstr "``await`` :meth:`loop.sock_recvfrom`"
 
 msgid "Receive a datagram from the :class:`~socket.socket`."
 msgstr "Ta emot ett datagram från :class:`~socket.socket`."
 
 msgid "``await`` :meth:`loop.sock_recvfrom_into`"
-msgstr "``await`` :meth:`loop.sock_recvvfrom_into`"
+msgstr "``await`` :meth:`loop.sock_recvfrom_into`"
 
 msgid "Receive a datagram from the :class:`~socket.socket` into a buffer."
 msgstr "Ta emot ett datagram från :class:`~socket.socket` till en buffert."
 
 msgid "``await`` :meth:`loop.sock_sendall`"
-msgstr "``await`` :meth:`loop.sock_sendall`` :meth:`loop.sock_sendall`"
+msgstr "``await`` :meth:`loop.sock_sendall`"
 
 msgid "Send data to the :class:`~socket.socket`."
 msgstr "Skicka data till :class:`~socket.socket`."
 
 msgid "``await`` :meth:`loop.sock_sendto`"
-msgstr "``await`` :meth:`loop.sock_sendto`` :meth:`loop.sock_sendto`"
+msgstr "``await`` :meth:`loop.sock_sendto`"
 
 msgid "Send a datagram via the :class:`~socket.socket` to the given address."
 msgstr ""

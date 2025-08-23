@@ -27,7 +27,7 @@ msgid ":mod:`!re` --- Regular expression operations"
 msgstr ":mod:`!re` --- Operationer med reguljära uttryck"
 
 msgid "**Source code:** :source:`Lib/re/`"
-msgstr "**Källkod:** :källa:`Lib/re/`"
+msgstr "**Källkod:** :source:`Lib/re/`"
 
 msgid ""
 "This module provides regular expression matching operations similar to those "

@@ -27,7 +27,7 @@ msgid ":mod:`!pathlib` --- Object-oriented filesystem paths"
 msgstr ":mod:`!pathlib` --- Objektorienterade sökvägar i filsystemet"
 
 msgid "**Source code:** :source:`Lib/pathlib/`"
-msgstr "**Källkod:** :källa:`Lib/pathlib/`"
+msgstr "**Källkod:** :source:`Lib/pathlib/`"
 
 msgid ""
 "This module offers classes representing filesystem paths with semantics "

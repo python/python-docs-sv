@@ -29,7 +29,7 @@ msgstr ""
 ":mod:`!compression.zstd` --- Komprimering kompatibel med Zstandard-formatet"
 
 msgid "**Source code:** :source:`Lib/compression/zstd/__init__.py`"
-msgstr "**Källkod:** :källa:`Lib/compression/zstd/__init__.py`"
+msgstr "**Källkod:** :source:`Lib/compression/zstd/__init__.py`"
 
 msgid ""
 "This module provides classes and functions for compressing and decompressing "

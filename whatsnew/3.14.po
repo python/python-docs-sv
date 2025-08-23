@@ -445,7 +445,7 @@ msgstr ""
 "<whatsnew314-concurrent-futures-interp-pool>`."
 
 msgid ":pep:`734`."
-msgstr ":pep:`734``."
+msgstr ":pep:`734`."
 
 msgid "PEP 750: Template strings"
 msgstr "PEP 750: Strängar för mallar"

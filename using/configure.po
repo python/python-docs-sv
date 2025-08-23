@@ -1446,7 +1446,7 @@ msgid "macOS Options"
 msgstr "macOS-alternativ"
 
 msgid "See :source:`Mac/README.rst`."
-msgstr "Se :källa:`Mac/README.rst`."
+msgstr "Se :source:`Mac/README.rst`."
 
 msgid ""
 "Create a universal binary build. *SDKDIR* specifies which macOS SDK should "

@@ -983,7 +983,7 @@ msgstr ""
 "För att en metod ska få sin \"definierande klass\" måste den använda :ref:"
 "`METH_METHOD | METH_FASTCALL | METH_KEYWORDS <METH_METHOD-METH_FASTCALL-"
 "METH_KEYWORDS>` :c:type:`calling convention <PyMethodDef>` och motsvarande :"
-"c:type:`PyCMethod`-signatur::"
+"c:type:`PyCMethod`\\-signatur::"
 
 msgid ""
 "PyObject *PyCMethod(\n"

@@ -479,16 +479,16 @@ msgid "New structures:"
 msgstr "Nya strukturer:"
 
 msgid ":c:type:`PyConfig`"
-msgstr ":c:typ:`PyConfig`"
+msgstr ":c:type:`PyConfig`"
 
 msgid ":c:type:`PyPreConfig`"
-msgstr ":c:typ:`PyPreConfig`"
+msgstr ":c:type:`PyPreConfig`"
 
 msgid ":c:type:`PyStatus`"
-msgstr ":c:typ:`PyStatus`"
+msgstr ":c:type:`PyStatus`"
 
 msgid ":c:type:`PyWideStringList`"
-msgstr ":c:typ:`PyWideStringList`"
+msgstr ":c:type:`PyWideStringList`"
 
 msgid "New functions:"
 msgstr "Nya funktioner:"

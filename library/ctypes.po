@@ -450,13 +450,13 @@ msgid ":c:expr:`char`"
 msgstr ":c:expr:`char`"
 
 msgid "1-character bytes object"
-msgstr "1-teckens bytes objekt"
+msgstr "1-teckens byte-objekt"
 
 msgid ":class:`c_wchar`"
 msgstr ":class:`c_wchar`"
 
 msgid ":c:type:`wchar_t`"
-msgstr ":c:typ:`wchar_t`"
+msgstr ":c:type:`wchar_t`"
 
 msgid "1-character string"
 msgstr "1-teckens sträng"
@@ -495,25 +495,25 @@ msgid ":class:`c_int8`"
 msgstr ":class:`c_int8`"
 
 msgid ":c:type:`int8_t`"
-msgstr ":c:typ:`int8_t`"
+msgstr ":c:type:`int8_t`"
 
 msgid ":class:`c_int16`"
 msgstr ":class:`c_int16`"
 
 msgid ":c:type:`int16_t`"
-msgstr ":c:typ:`int16_t`"
+msgstr ":c:type:`int16_t`"
 
 msgid ":class:`c_int32`"
 msgstr ":class:`c_int32`"
 
 msgid ":c:type:`int32_t`"
-msgstr ":c:typ:`int32_t`"
+msgstr ":c:type:`int32_t`"
 
 msgid ":class:`c_int64`"
 msgstr ":class:`c_int64`"
 
 msgid ":c:type:`int64_t`"
-msgstr ":c:typ:`int64_t`"
+msgstr ":c:type:`int64_t`"
 
 msgid ":class:`c_uint`"
 msgstr ":class:`c_uint`"
@@ -525,25 +525,25 @@ msgid ":class:`c_uint8`"
 msgstr ":class:`c_uint8`"
 
 msgid ":c:type:`uint8_t`"
-msgstr ":c:typ:`uint8_t`"
+msgstr ":c:type:`uint8_t`"
 
 msgid ":class:`c_uint16`"
 msgstr ":class:`c_uint16`"
 
 msgid ":c:type:`uint16_t`"
-msgstr ":c:typ:`uint16_t`"
+msgstr ":c:type:`uint16_t`"
 
 msgid ":class:`c_uint32`"
 msgstr ":class:`c_uint32`"
 
 msgid ":c:type:`uint32_t`"
-msgstr ":c:typ:`uint32_t`"
+msgstr ":c:type:`uint32_t`"
 
 msgid ":class:`c_uint64`"
 msgstr ":class:`c_uint64`"
 
 msgid ":c:type:`uint64_t`"
-msgstr ":c:typ:`uint64_t`"
+msgstr ":c:type:`uint64_t`"
 
 msgid ":class:`c_long`"
 msgstr ":class:`c_long`"
@@ -573,7 +573,7 @@ msgid ":class:`c_size_t`"
 msgstr ":class:`c_size_t`"
 
 msgid ":c:type:`size_t`"
-msgstr ":c:typ:`storlek_t`"
+msgstr ":c:type:`size_t`"
 
 msgid ":class:`c_ssize_t`"
 msgstr ":class:`c_ssize_t`"
@@ -585,7 +585,7 @@ msgid ":class:`c_time_t`"
 msgstr ":class:`c_time_t`"
 
 msgid ":c:type:`time_t`"
-msgstr ":c:typ:`time_t`"
+msgstr ":c:type:`time_t`"
 
 msgid ":class:`c_float`"
 msgstr ":class:`c_float`"

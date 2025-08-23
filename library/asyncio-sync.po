@@ -88,7 +88,7 @@ msgstr ""
 
 msgid "The preferred way to use a Lock is an :keyword:`async with` statement::"
 msgstr ""
-"Det föredragna sättet att använda ett Lock är en :nyckelord:`async with`-"
+"Det föredragna sättet att använda ett Lock är en :keyword:`async with`\\-"
 "sats::"
 
 msgid ""
@@ -302,7 +302,7 @@ msgstr ""
 msgid ""
 "The preferred way to use a Condition is an :keyword:`async with` statement::"
 msgstr ""
-"Det föredragna sättet att använda ett villkor är en :nyckelord:`async with`-"
+"Det föredragna sättet att använda ett villkor är en :keyword:`async with`-"
 "sats::"
 
 msgid ""

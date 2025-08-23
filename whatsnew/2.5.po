@@ -1113,7 +1113,7 @@ msgid ""
 "The ':keyword:`with`' statement is a new control-flow structure whose basic "
 "structure is::"
 msgstr ""
-"':nyckelord:`med`' är en ny kontrollflödesstruktur vars grundstruktur är::"
+"':keyword:`with`' är en ny kontrollflödesstruktur vars grundstruktur är::"
 
 msgid ""
 "with expression [as variable]:\n"

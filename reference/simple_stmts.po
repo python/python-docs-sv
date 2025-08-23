@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-19 14:18+0000\n"
+"POT-Creation-Date: 2025-08-21 14:19+0000\n"
 "PO-Revision-Date: 2025-08-02 17:35+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
@@ -596,7 +596,7 @@ msgstr ""
 "variabeln bestäms när tolken startar."
 
 msgid "The :keyword:`!pass` statement"
-msgstr ":nyckelord:`!pass`-satsen"
+msgstr ":keyword:`!pass`-satsen"
 
 msgid ""
 ":keyword:`pass` is a null operation --- when it is executed, nothing "
@@ -617,7 +617,7 @@ msgstr ""
 "class C: pass # en klass som inte har några metoder (ännu)"
 
 msgid "The :keyword:`!del` statement"
-msgstr ":nyckelord:`!del`-satsen"
+msgstr ":keyword:`!del`-satsen"
 
 msgid ""
 "Deletion is recursively defined very similar to the way assignment is "
@@ -718,7 +718,7 @@ msgstr ""
 "syntaxfel i en asynkron generatorfunktion."
 
 msgid "The :keyword:`!yield` statement"
-msgstr ":nyckelord:`!yield`-satsen"
+msgstr ":keyword:`!yield`-satsen"
 
 msgid ""
 "A :keyword:`yield` statement is semantically equivalent to a :ref:`yield "
@@ -769,7 +769,7 @@ msgstr ""
 "`yieldexpr`."
 
 msgid "The :keyword:`!raise` statement"
-msgstr ":nyckelord:`!raise`-satsen"
+msgstr ":keyword:`!raise`-satsen"
 
 msgid ""
 "If no expressions are present, :keyword:`raise` re-raises the exception that "
@@ -979,7 +979,7 @@ msgstr ""
 "traceback som det hade när det fångades."
 
 msgid "The :keyword:`!break` statement"
-msgstr ":nyckelord:`!break`-satsen"
+msgstr ":keyword:`!break`-satsen"
 
 msgid ""
 ":keyword:`break` may only occur syntactically nested in a :keyword:`for` or :"
@@ -1410,7 +1410,7 @@ msgid "The original proposal for the __future__ mechanism."
 msgstr "Det ursprungliga förslaget till mekanismen __future__."
 
 msgid "The :keyword:`!global` statement"
-msgstr ":nyckelord:`!global`-satsen"
+msgstr ":keyword:`!global`-satsen"
 
 msgid ""
 "The :keyword:`global` statement causes the listed identifiers to be "
@@ -1452,7 +1452,7 @@ msgstr ""
 "func:`eval` och :func:`compile`."
 
 msgid "The :keyword:`!nonlocal` statement"
-msgstr ":nyckelord:`!nonlocal`-satsen"
+msgstr ":keyword:`!nonlocal`-satsen"
 
 msgid ""
 "When the definition of a function or class is nested (enclosed) within the "
@@ -1554,7 +1554,7 @@ msgstr ""
 "aliases` för mer information."
 
 msgid ":keyword:`!type` is a :ref:`soft keyword <soft-keywords>`."
-msgstr ":nyckelord:`!typ` är ett :ref:`mjukt nyckelord <soft-keywords>`."
+msgstr ":keyword:`!type` är ett :ref:`mjukt nyckelord <soft-keywords>`."
 
 msgid ":pep:`695` - Type Parameter Syntax"
 msgstr ":pep:`695` - Typ Parameter Syntax"

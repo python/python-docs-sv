@@ -2891,7 +2891,7 @@ msgid ":opcode:`!BEFORE_WITH`"
 msgstr ":opcode:`!BEFORE_WITH`"
 
 msgid ":keyword:`with` block setup"
-msgstr ":nyckelord:`med` blockuppsättning"
+msgstr ":keyword:`with` blockuppsättning"
 
 msgid ""
 "All jump opcodes are now relative, including the existing :opcode:`!"
@@ -4476,7 +4476,7 @@ msgstr ""
 "detaljer i den gamla implementeringen."
 
 msgid ":c:type:`PyFrameObject` fields:"
-msgstr ":c:type:`PyFrameObject` fields:"
+msgstr ":c:type:`PyFrameObject`\\-fält :"
 
 msgid "``f_back``: use :c:func:`PyFrame_GetBack`."
 msgstr "``f_back``: använd :c:func:`PyFrame_GetBack`."

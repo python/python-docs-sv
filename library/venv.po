@@ -27,7 +27,7 @@ msgid ":mod:`!venv` --- Creation of virtual environments"
 msgstr ":mod:`!venv` --- Skapande av virtuella miljöer"
 
 msgid "**Source code:** :source:`Lib/venv/`"
-msgstr "**Källkod:** :källa:`Lib/venv/`"
+msgstr "**Källkod:** :source:`Lib/venv/`"
 
 msgid ""
 "The :mod:`!venv` module supports creating lightweight \"virtual "

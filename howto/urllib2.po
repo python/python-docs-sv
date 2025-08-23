@@ -1077,7 +1077,7 @@ msgid ""
 "For details of more HTTP request headers, see `Quick Reference to HTTP "
 "Headers`_."
 msgstr ""
-"För mer information om HTTP-rubriker, se Snabbreferens till HTTP-rubriker."
+"För mer information om HTTP-rubriker, se `Quick Reference to HTTP Headers`_."
 
 msgid ""
 "In my case I have to use a proxy to access the internet at work. If you "

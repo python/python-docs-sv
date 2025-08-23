@@ -27,7 +27,7 @@ msgid ":mod:`!importlib` --- The implementation of :keyword:`!import`"
 msgstr ":mod:`!importlib` --- Implementeringen av :keyword:`!import`"
 
 msgid "**Source code:** :source:`Lib/importlib/__init__.py`"
-msgstr "**Källkod:** :källa:`Lib/importlib/__init__.py`"
+msgstr "**Källkod:** :source:`Lib/importlib/__init__.py`"
 
 msgid "Introduction"
 msgstr "Introduktion"
@@ -1770,7 +1770,7 @@ msgid ":mod:`importlib.util` -- Utility code for importers"
 msgstr ":mod:`importlib.util` -- Verktygskod för importörer"
 
 msgid "**Source code:** :source:`Lib/importlib/util.py`"
-msgstr "**Källkod:** :källa:`Lib/importlib/util.py`"
+msgstr "**Källkod:** :source:`Lib/importlib/util.py`"
 
 msgid ""
 "This module contains the various objects that help in the construction of "

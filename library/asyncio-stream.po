@@ -83,7 +83,7 @@ msgstr ""
 "asyncio.run(tcp_echo_client('Hello World!'))"
 
 msgid "See also the `Examples`_ section below."
-msgstr "Se även avsnittet `Exempel` nedan."
+msgstr "Se även avsnittet `Examples`_ nedan."
 
 msgid "Stream Functions"
 msgstr "Strömfunktioner"

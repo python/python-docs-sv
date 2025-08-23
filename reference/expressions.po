@@ -2952,7 +2952,7 @@ msgid "Subscription, slicing, call, attribute reference"
 msgstr "Prenumeration, slicing, samtal, attributreferens"
 
 msgid ":keyword:`await x <await>`"
-msgstr ":nyckelord:`await x <await>`"
+msgstr ":keyword:`await x <await>`"
 
 msgid "``**``"
 msgstr "``**``"
@@ -3016,19 +3016,19 @@ msgid "Comparisons, including membership tests and identity tests"
 msgstr "Jämförelser, inklusive medlemstester och identitetstester"
 
 msgid ":keyword:`not x <not>`"
-msgstr ":nyckelord:`inte x <not>`"
+msgstr ":keyword:`not x <not>`"
 
 msgid "Boolean NOT"
 msgstr "Boolean NOT"
 
 msgid ":keyword:`and`"
-msgstr ":nyckelord:`och`"
+msgstr ":keyword:`and`"
 
 msgid "Boolean AND"
 msgstr "Booleansk AND"
 
 msgid ":keyword:`or`"
-msgstr ":nyckelord:`eller`"
+msgstr ":keyword:`or`"
 
 msgid "Boolean OR"
 msgstr "Booleansk OR"
@@ -3040,7 +3040,7 @@ msgid "Conditional expression"
 msgstr "Villkorligt uttryck"
 
 msgid ":keyword:`lambda`"
-msgstr ":nyckelord:`lambda`"
+msgstr ":keyword:`lambda`"
 
 msgid "Lambda expression"
 msgstr "Lambda-uttryck"

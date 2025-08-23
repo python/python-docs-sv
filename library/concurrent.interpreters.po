@@ -5,15 +5,16 @@
 #
 # Translators:
 # python-doc bot, 2025
+# Daniel Nylander <po@danielnylander.se>, 2025
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-07 20:38+0000\n"
+"POT-Creation-Date: 2025-08-21 14:19+0000\n"
 "PO-Revision-Date: 2025-08-02 17:33+0000\n"
-"Last-Translator: python-doc bot, 2025\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
 "sv/)\n"
 "MIME-Version: 1.0\n"
@@ -27,7 +28,7 @@ msgid ""
 msgstr ":mod:`!concurrent.interpreters` --- Flera tolkar i samma process"
 
 msgid "**Source code:** :source:`Lib/concurrent/interpreters`"
-msgstr "**Källkod:** :källa:`Lib/concurrent/interpreters`"
+msgstr "**Källkod:** :source:`Lib/concurrent/interpreters`"
 
 msgid ""
 "The :mod:`!concurrent.interpreters` module constructs higher-level "
@@ -71,13 +72,13 @@ msgid "how to update an extension module to support multiple interpreters"
 msgstr "så här uppdaterar du en tilläggsmodul för att stödja flera tolkar"
 
 msgid ":pep:`554`"
-msgstr ":pep:`554``"
+msgstr ":pep:`554`"
 
 msgid ":pep:`734`"
-msgstr ":pep:`734``"
+msgstr ":pep:`734`"
 
 msgid ":pep:`684`"
-msgstr ":pep:`684``"
+msgstr ":pep:`684`"
 
 msgid "Availability"
 msgstr "Tillgänglighet"

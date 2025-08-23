@@ -494,7 +494,7 @@ msgid "``n``"
 msgstr "``n``"
 
 msgid ":c:type:`ssize_t`"
-msgstr ":c:typ:`ssize_t`"
+msgstr ":c:type:`ssize_t`"
 
 msgid "\\(3)"
 msgstr "\\(3)"
@@ -503,7 +503,7 @@ msgid "``N``"
 msgstr "``N``"
 
 msgid ":c:type:`size_t`"
-msgstr ":c:typ:`storlek_t`"
+msgstr ":c:type:`size_t`"
 
 msgid "``e``"
 msgstr "``e``"
