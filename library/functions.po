@@ -184,7 +184,7 @@ msgid ":func:`len`"
 msgstr ":func:`len`"
 
 msgid "|func-list|_"
-msgstr "|func-lista|_"
+msgstr "|func-list|_"
 
 msgid ":func:`locals`"
 msgstr ":func:`lokal`"
@@ -241,7 +241,7 @@ msgid "**R**"
 msgstr "**R**"
 
 msgid "|func-range|_"
-msgstr "|func-område|_"
+msgstr "|func-range|_"
 
 msgid ":func:`repr`"
 msgstr ":func:`repr`"

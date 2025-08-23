@@ -572,7 +572,7 @@ msgid "``P``"
 msgstr "``P``"
 
 msgid ":c:expr:`void \\*`"
-msgstr ":c:expr:`void \\*``"
+msgstr ":c:expr:`void \\*`"
 
 msgid "\\(5)"
 msgstr "\\(5)"
