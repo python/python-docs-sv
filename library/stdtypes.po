@@ -8245,7 +8245,7 @@ msgstr ""
 "är en container, kommer argumenten till en prenumeration av klassen ofta att "
 "ange returtypen/returtyperna för en eller flera metoder som definieras på "
 "ett objekt. Exempelvis kan :mod:`reguljära uttryck <re>` användas på både "
-"datatypen :class:`str` och datatypen :class:`bytes`:"
+"datatypen :class:`str` och :class:`bytes`:"
 
 msgid ""
 "If ``x = re.search('foo', 'foo')``, ``x`` will be a :ref:`re.Match <match-"
