@@ -390,7 +390,7 @@ msgid ""
 "case *name* is deleted from the sys module. Returns ``0`` on success, ``-1`` "
 "on error."
 msgstr ""
-"Sätter *namn* i modulen :mod:`sys` till *v* såvida inte *v* är ``NULL``, i "
+"Sätter *name* i modulen :mod:`sys` till *v* såvida inte *v* är ``NULL``, i "
 "vilket fall *namn* tas bort från sys-modulen. Returnerar ``0`` vid framgång, "
 "``-1`` vid fel."
 
