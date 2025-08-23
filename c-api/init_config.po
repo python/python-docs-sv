@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-21 14:19+0000\n"
+"POT-Creation-Date: 2025-08-23 14:15+0000\n"
 "PO-Revision-Date: 2025-08-02 17:33+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
@@ -241,7 +241,7 @@ msgid ""
 "*\\*value* can be set to ``NULL`` if the option is an optional string and "
 "the option is unset."
 msgstr ""
-"*\\*värde* kan sättas till ``NULL`` om alternativet är en valfri sträng och "
+"*\\*value* kan sättas till ``NULL`` om alternativet är en valfri sträng och "
 "alternativet inte är inställt."
 
 msgid ""
@@ -360,7 +360,7 @@ msgid "Visibility"
 msgstr "Synlighet"
 
 msgid "``\"allocator\"``"
-msgstr "``\"fördelare\"``"
+msgstr "``\"allocator\"``"
 
 msgid ":c:member:`allocator <PyPreConfig.allocator>`"
 msgstr ":c:member:`allokator <PyPreConfig.allokator>`"
@@ -399,13 +399,13 @@ msgid ":c:member:`base_executable <PyConfig.base_executable>`"
 msgstr ":c:member:`base_executable <PyConfig.base_executable>`"
 
 msgid "``\"base_prefix\"``"
-msgstr "``\"basprefix\"``"
+msgstr "``\"base_prefix\"``"
 
 msgid ":c:member:`base_prefix <PyConfig.base_prefix>`"
 msgstr ":c:member:`base_prefix <PyConfig.base_prefix>`"
 
 msgid "``\"buffered_stdio\"``"
-msgstr "``\"buffrad_stdio\"``"
+msgstr "``\"buffered_stdio\"``"
 
 msgid ":c:member:`buffered_stdio <PyConfig.buffered_stdio>`"
 msgstr ":c:member:`buffered_stdio <PyConfig.buffered_stdio>`"
@@ -414,7 +414,7 @@ msgid "``bool``"
 msgstr "``bool``"
 
 msgid "``\"bytes_warning\"``"
-msgstr "``\"bytes_varning\"``"
+msgstr "``\"bytes_warning\"``"
 
 msgid ":c:member:`bytes_warning <PyConfig.bytes_warning>`"
 msgstr ":c:member:`bytes_warning <PyConfig.bytes_warning>`"
@@ -438,13 +438,13 @@ msgid ":c:member:`coerce_c_locale <PyPreConfig.coerce_c_locale>`"
 msgstr ":c:member:`coerce_c_locale <PyPreConfig.coerce_c_locale>`"
 
 msgid "``\"coerce_c_locale_warn\"``"
-msgstr "``\"tvinga_c_lokal_varning\"``"
+msgstr "``\"coerce_c_locale_warn\"``"
 
 msgid ":c:member:`coerce_c_locale_warn <PyPreConfig.coerce_c_locale_warn>`"
-msgstr ":c:member:`coerce_c_locale_warn <PyPreConfig.coerce_c_locale_warn>``"
+msgstr ":c:member:`coerce_c_locale_warn <PyPreConfig.coerce_c_locale_warn>`"
 
 msgid "``\"configure_c_stdio\"``"
-msgstr "``\"konfigurera_c_stdio\"``"
+msgstr "``\"configure_c_stdio\"``"
 
 msgid ":c:member:`configure_c_stdio <PyConfig.configure_c_stdio>`"
 msgstr ":c:member:`configure_c_stdio <PyConfig.configure_c_stdio>`"
@@ -516,7 +516,7 @@ msgid ":c:member:`hash_seed <PyConfig.hash_seed>`"
 msgstr ":c:member:`hash_seed <PyConfig.hash_seed>`"
 
 msgid "``\"home\"``"
-msgstr "``\"hem\"``"
+msgstr "``\"home\"``"
 
 msgid ":c:member:`home <PyConfig.home>`"
 msgstr ":c:member:`hem <PyConfig.hem>`"
@@ -534,7 +534,7 @@ msgid ":c:member:`inspect <PyConfig.inspect>`"
 msgstr ":c:member:`inspektera <PyConfig.inspektera>`"
 
 msgid "``\"install_signal_handlers\"``"
-msgstr "``\"installera_signal_handläggare\"``"
+msgstr "``\"install_signal_handlers\"``"
 
 msgid ":c:member:`install_signal_handlers <PyConfig.install_signal_handlers>`"
 msgstr ":c:member:`install_signal_handlers <PyConfig.install_signal_handlers>`"
@@ -546,7 +546,7 @@ msgid ":c:member:`int_max_str_digits <PyConfig.int_max_str_digits>`"
 msgstr ":c:member:`int_max_str_digits <PyConfig.int_max_str_digits>`"
 
 msgid "``\"interactive\"``"
-msgstr "``\"interaktiv\"``"
+msgstr "``\"interactive\"``"
 
 msgid ":c:member:`interactive <PyConfig.interactive>`"
 msgstr ":c:member:`interaktiv <PyConfig.interaktiv>`"
@@ -580,13 +580,13 @@ msgid ":c:member:`malloc_stats <PyConfig.malloc_stats>`"
 msgstr ":c:member:`malloc_stats <PyConfig.malloc_stats>`"
 
 msgid "``\"module_search_paths\"``"
-msgstr "``\"modul_search_paths\"``"
+msgstr "``\"module_search_paths\"``"
 
 msgid ":c:member:`module_search_paths <PyConfig.module_search_paths>`"
 msgstr ":c:member:`modul_search_paths <PyConfig.module_search_paths>`"
 
 msgid "``\"optimization_level\"``"
-msgstr "``\"optimeringsnivå\"``"
+msgstr "``\"optimization_level\"``"
 
 msgid ":c:member:`optimization_level <PyConfig.optimization_level>`"
 msgstr ":c:member:`optimering_nivå <PyConfig.optimering_nivå>`"
@@ -634,7 +634,7 @@ msgid ":c:member:`prefix <PyConfig.prefix>`"
 msgstr ":c:member:`prefix <PyConfig.prefix>`"
 
 msgid "``\"program_name\"``"
-msgstr "``\"program_namn\"``"
+msgstr "``\"program_name\"``"
 
 msgid ":c:member:`program_name <PyConfig.program_name>`"
 msgstr ":c:member:`program_namn <PyConfig.program_namn>`"
@@ -658,7 +658,7 @@ msgid ":c:member:`run_command <PyConfig.run_command>`"
 msgstr ":c:member:`run_command <PyConfig.run_command>`"
 
 msgid "``\"run_filename\"``"
-msgstr "``\"run_filnamn\"``"
+msgstr "``\"run_filename\"``"
 
 msgid ":c:member:`run_filename <PyConfig.run_filename>`"
 msgstr ":c:member:`run_filename <PyConfig.run_filename>`"
@@ -685,7 +685,7 @@ msgid "``\"show_ref_count\"``"
 msgstr "``\"show_ref_count\"``"
 
 msgid ":c:member:`show_ref_count <PyConfig.show_ref_count>`"
-msgstr ":c:member:`show_ref_count <PyConfig.show_ref_count>``"
+msgstr ":c:member:`show_ref_count <PyConfig.show_ref_count>`"
 
 msgid "``\"site_import\"``"
 msgstr "``\"site_import\"``"
@@ -706,7 +706,7 @@ msgid ":c:member:`stdio_encoding <PyConfig.stdio_encoding>`"
 msgstr ":c:member:`stdio_encoding <PyConfig.stdio_encoding>`"
 
 msgid "``\"stdio_errors\"``"
-msgstr "``\"stdio_fel\"``"
+msgstr "``\"stdio_errors\"``"
 
 msgid ":c:member:`stdio_errors <PyConfig.stdio_errors>`"
 msgstr ":c:member:`stdio_errors <PyConfig.stdio_errors>`"
@@ -1767,7 +1767,7 @@ msgid "Set by the :envvar:`__PYVENV_LAUNCHER__` environment variable."
 msgstr "Ställs in av miljövariabeln :envvar:`__PYVENV_LAUNCHER__`."
 
 msgid "Set from :c:member:`PyConfig.executable` if ``NULL``."
-msgstr "Set från :c:member:`PyConfig.executable` if ``NULL``."
+msgstr "Ställ in från :c:member:`PyConfig.executable` om ``NULL``."
 
 msgid "See also :c:member:`PyConfig.executable`."
 msgstr "Se även :c:member:`PyConfig.executable`."
@@ -1854,17 +1854,17 @@ msgid ""
 "``L\"always\"``: Hash the source file for invalidation regardless of value "
 "of the 'check_source' flag."
 msgstr ""
-"``L\"alltid\"``: Hashar källfilen för ogiltigförklaring oavsett värdet på "
+"``L\"always\"``: Hashar källfilen för ogiltigförklaring oavsett värdet på "
 "flaggan \"check_source\"."
 
 msgid "``L\"never\"``: Assume that hash-based pycs always are valid."
-msgstr "``L\"aldrig\"``: Anta att hash-baserade pycs alltid är giltiga."
+msgstr "``L\"never\"``: Anta att hash-baserade pycs alltid är giltiga."
 
 msgid ""
 "``L\"default\"``: The 'check_source' flag in hash-based pycs determines "
 "invalidation."
 msgstr ""
-"``L\"standard\"``: Flaggan \"check_source\" i hash-baserade pycs avgör "
+"``L\"default\"``: Flaggan \"check_source\" i hash-baserade pycs avgör "
 "ogiltighet."
 
 msgid "Default: ``L\"default\"``."
@@ -2039,10 +2039,10 @@ msgid "Supported error handlers:"
 msgstr "Felhanterare som stöds:"
 
 msgid "``\"strict\"``"
-msgstr "``\"strikt\"``"
+msgstr "``\"strict\"``"
 
 msgid "``\"surrogateescape\"``"
-msgstr "``\"surrogatlandskap\"``"
+msgstr "``\"surrogateescape\"``"
 
 msgid "``\"surrogatepass\"`` (only supported with the UTF-8 encoding)"
 msgstr "``\"surrogatepass\"`` (stöds endast med UTF-8-kodning)"
