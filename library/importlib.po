@@ -131,55 +131,55 @@ msgid "New Import Hooks"
 msgstr "Hooks för ny import"
 
 msgid ":pep:`328`"
-msgstr ":pep:`328``"
+msgstr ":pep:`328`"
 
 msgid "Imports: Multi-Line and Absolute/Relative"
 msgstr "Import: Multi-Line och Absolut/Relativ"
 
 msgid ":pep:`366`"
-msgstr ":pep:`366``"
+msgstr ":pep:`366`"
 
 msgid "Main module explicit relative imports"
 msgstr "Huvudmodulens explicita relativa import"
 
 msgid ":pep:`420`"
-msgstr ":pep:`420``"
+msgstr ":pep:`420`"
 
 msgid "Implicit namespace packages"
 msgstr "Implicita namnrymdspaket"
 
 msgid ":pep:`451`"
-msgstr ":pep:`451``"
+msgstr ":pep:`451`"
 
 msgid "A ModuleSpec Type for the Import System"
 msgstr "En ModuleSpec-typ för importsystemet"
 
 msgid ":pep:`488`"
-msgstr ":pep:`488``"
+msgstr ":pep:`488`"
 
 msgid "Elimination of PYO files"
 msgstr "Eliminering av PYO-filer"
 
 msgid ":pep:`489`"
-msgstr ":pep:`489``"
+msgstr ":pep:`489`"
 
 msgid "Multi-phase extension module initialization"
 msgstr "Initialisering av förlängningsmodul i flera faser"
 
 msgid ":pep:`552`"
-msgstr ":pep:`552``"
+msgstr ":pep:`552`"
 
 msgid "Deterministic pycs"
 msgstr "Deterministisk pycs"
 
 msgid ":pep:`3120`"
-msgstr ":pep:`3120``"
+msgstr ":pep:`3120`"
 
 msgid "Using UTF-8 as the Default Source Encoding"
 msgstr "Använda UTF-8 som standardkodning för källkod"
 
 msgid ":pep:`3147`"
-msgstr ":pep:`3147``"
+msgstr ":pep:`3147`"
 
 msgid "PYC Repository Directories"
 msgstr "Kataloger för PYC-förvar"
@@ -603,7 +603,7 @@ msgid ":attr:`module.__name__`"
 msgstr ":attr:`modul.__name__`"
 
 msgid ":attr:`module.__file__`"
-msgstr ":attr:`modul.__fil__`` :attr:`modul.__fil__`"
+msgstr ":attr:`module.__file__`"
 
 msgid ":attr:`module.__cached__` *(deprecated)*"
 msgstr ":attr:`modul.__cached__` *(föråldrad)*"
@@ -1131,9 +1131,9 @@ msgid ""
 "also supplies ResourceReader."
 msgstr ""
 "En abstrakt basklass för resursläsare som kan hantera :meth:`importlib."
-"resources.files`-gränssnittet. Underklassar :class:`importlib.resources.abc."
-"ResourceReader` och tillhandahåller konkreta implementationer av :class:"
-"`importlib.resources.abc.ResourceReader`s abstrakta metoder. Därför "
+"resources.files`\\-gränssnittet. Underklassar :class:`importlib.resources."
+"abc.ResourceReader` och tillhandahåller konkreta implementationer av :class:"
+"`importlib.resources.abc.ResourceReader`\\s abstrakta metoder. Därför "
 "tillhandahåller alla laddare som tillhandahåller :class:`importlib.abc."
 "TraversableResources` också ResourceReader."
 
@@ -1597,11 +1597,11 @@ msgid ""
 "there is not one (like for namespace packages), it should be set to ``None``."
 msgstr ""
 "Den plats som :term:`loader` ska använda för att ladda modulen (se :attr:"
-"`module.__file__`). För moduler som laddas från en ``.py``-fil är detta till "
-"exempel filnamnet. :term:`finder` bör alltid sätta detta attribut till ett "
-"meningsfullt värde som :term:`loader` kan använda.  I det ovanliga fallet "
-"att det inte finns något sådant (som för namnrymdspaket), bör det sättas "
-"till ``None``."
+"`module.__file__`). För moduler som läsas in från en ``.py``\\-fil är detta "
+"till exempel filnamnet. :term:`finder` ska alltid ange detta attribut till "
+"ett meningsfullt värde som :term:`loader` kan använda. I det ovanliga fallet "
+"att det inte finns något (som för namnområdespaket) ska det ställas in på "
+"``None``."
 
 msgid ""
 "A (possibly empty) :term:`sequence` of strings enumerating the locations in "
