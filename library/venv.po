@@ -612,7 +612,7 @@ msgid "Added the ``upgrade_deps`` parameter"
 msgstr "Lagt till parametern ``upgrade_deps``"
 
 msgid "Added the ``scm_ignore_files`` parameter"
-msgstr "Lagt till parametern ```cm_ignore_files``"
+msgstr "Lagt till parametern ``scm_ignore_files``"
 
 msgid ":class:`EnvBuilder` may be used as a base class."
 msgstr ":class:`EnvBuilder` kan användas som basklass."

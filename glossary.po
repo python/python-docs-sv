@@ -1846,7 +1846,7 @@ msgid ""
 msgstr ""
 "Ett kompakt sätt att bearbeta alla eller delar av elementen i en sekvens och "
 "returnera en lista med resultaten.  ``result = ['{:#04x}'.format(x) for x in "
-"range(256) if x % 2 == 0]``` genererar en lista med strängar som innehåller "
+"range(256) if x % 2 == 0]`` genererar en lista med strängar som innehåller "
 "jämna hextal (0x...) i intervallet 0 till 255. Klausulen :keyword:`if` är "
 "valfri.  Om den utelämnas bearbetas alla element i ``range(256)``."
 

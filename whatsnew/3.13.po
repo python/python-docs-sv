@@ -1993,8 +1993,8 @@ msgid ""
 "Gale and Jon Foster in :gh:`44626`.)"
 msgstr ""
 "I Windows anser :func:`~os.path.isabs` inte längre att sökvägar som börjar "
-"med exakt ett snedstreck (```` eller ``/``) är absoluta. (Bidrag från Barney "
-"Gale och Jon Foster i :gh:`44626`.)"
+"med exakt ett snedstreck (``\\``eller ``/``) är absoluta. (Bidrag från "
+"Barney Gale och Jon Foster i :gh:`44626`.)"
 
 msgid ""
 ":func:`~os.path.realpath` now resolves MS-DOS style file names even if the "
@@ -3718,7 +3718,7 @@ msgid "``master_open()``: use :func:`pty.openpty`."
 msgstr "``master_open()``: använd :func:`pty.openpty`."
 
 msgid "``slave_open()``: use :func:`pty.openpty`."
-msgstr "```slave_open()``: använd :func:`pty.openpty`."
+msgstr "``slave_open()``: använd :func:`pty.openpty`."
 
 msgid ":data:`!version` and :data:`!version_info`."
 msgstr ":data:`!version` och :data:`!version_info`."
@@ -4455,7 +4455,7 @@ msgid "``splitattr()``"
 msgstr "``splitattr()``"
 
 msgid "``splithost()``"
-msgstr "``splithost()```"
+msgstr "``splithost()``"
 
 msgid "``splitnport()``"
 msgstr "``splitnport()``"
@@ -4464,25 +4464,25 @@ msgid "``splitpasswd()``"
 msgstr "``splitpasswd()``"
 
 msgid "``splitport()``"
-msgstr "``splitport()```"
+msgstr "``splitport()``"
 
 msgid "``splitquery()``"
-msgstr "```splitquery()```"
+msgstr "``splitquery()``"
 
 msgid "``splittag()``"
 msgstr "``splittag()``"
 
 msgid "``splittype()``"
-msgstr "```splittype()```"
+msgstr "``splittype()``"
 
 msgid "``splituser()``"
-msgstr "``splituser()```"
+msgstr "``splituser()``"
 
 msgid "``splitvalue()``"
 msgstr "``splitvärde()``"
 
 msgid "``to_bytes()``"
-msgstr "``to_bytes()```"
+msgstr "``to_bytes()``"
 
 msgid ""
 ":mod:`wsgiref`: ``SimpleHandler.stdout.write()`` should not do partial "

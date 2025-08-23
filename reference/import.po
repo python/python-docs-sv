@@ -1715,7 +1715,7 @@ msgid ""
 "__spec__`` is set to ``None``, as the code used to populate the :mod:"
 "`__main__` does not correspond directly with an importable module:"
 msgstr ""
-"I :ref:`de återstående fallen <using-on-interface-options>```__main__."
+"I :ref:`de återstående fallen <using-on-interface-options>``__main__."
 "__spec__`` sätts till ``None``, eftersom den kod som används för att fylla "
 "i :mod:`__main__` inte direkt motsvarar en importerbar modul:"
 

@@ -55,13 +55,13 @@ msgstr ""
 "ett filliknande objekt.  *mode* kan vara:"
 
 msgid "``'rb'``"
-msgstr "``'rb'```"
+msgstr "``'rb'``"
 
 msgid "Read only mode."
 msgstr "Endast läsläge."
 
 msgid "``'wb'``"
-msgstr "``'wb'```"
+msgstr "``'wb'``"
 
 msgid "Write only mode."
 msgstr "Endast skrivläge."

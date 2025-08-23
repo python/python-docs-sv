@@ -831,7 +831,7 @@ msgstr ""
 "standard är true."
 
 msgid "``shebang_can_run_anything``"
-msgstr "```hebang_kan_köra_allt``"
+msgstr "``shebang_can_run_anything``"
 
 msgid "``PYTHON_MANAGER_SHEBANG_CAN_RUN_ANYTHING``"
 msgstr "``PYTHON_MANAGER_SHEBANG_CAN_RUN_ANYTHING``"
@@ -1405,7 +1405,7 @@ msgstr ""
 "detektering."
 
 msgid "``shebang_can_run_anything_silently``"
-msgstr "```hebang_kan_köra_något_tyst``"
+msgstr "``shebang_can_run_anything_silently``"
 
 msgid ""
 "True to suppress visible warnings when a shebang launches an application "

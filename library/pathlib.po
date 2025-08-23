@@ -2861,7 +2861,7 @@ msgid "Matches one non-separator character."
 msgstr "Matchar ett tecken utan separator."
 
 msgid "``[seq]``"
-msgstr "``[seq]```"
+msgstr "``[seq]``"
 
 msgid ""
 "Matches one character in *seq*, where *seq* is a sequence of characters. "
@@ -2875,7 +2875,7 @@ msgstr ""
 "siffror eller understreck."
 
 msgid "``[!seq]``"
-msgstr "``[!seq]```"
+msgstr "``[!seq]``"
 
 msgid ""
 "Matches one character not in *seq*, where *seq* follows the same rules as "

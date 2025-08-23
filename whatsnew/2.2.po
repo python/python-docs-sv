@@ -369,8 +369,7 @@ msgstr ""
 "``__get__(object)`` är en metod som hämtar attributvärdet från *object*."
 
 msgid "``__set__(object, value)`` sets the attribute on *object* to *value*."
-msgstr ""
-"``__set__(objekt, värde)``` sätter attributet på *objekt* till *värde*."
+msgstr "``__set__(object, value)`` sätter attributet på *objekt* till *värde*."
 
 msgid ""
 "``__delete__(object, value)`` deletes the *value*  attribute of *object*."

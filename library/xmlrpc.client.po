@@ -227,7 +227,7 @@ msgstr ""
 "attr:`~object.__dict__`-attribut överförs."
 
 msgid "``dateTime.iso8601``"
-msgstr "``dateTime.iso8601```"
+msgstr "``dateTime.iso8601``"
 
 msgid ""
 ":class:`DateTime` or :class:`datetime.datetime`. Returned type depends on "

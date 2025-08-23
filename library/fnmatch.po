@@ -57,13 +57,13 @@ msgid "matches any single character"
 msgstr "matchar alla enskilda tecken"
 
 msgid "``[seq]``"
-msgstr "``[seq]```"
+msgstr "``[seq]``"
 
 msgid "matches any character in *seq*"
 msgstr "matchar alla tecken i *seq*"
 
 msgid "``[!seq]``"
-msgstr "``[!seq]```"
+msgstr "``[!seq]``"
 
 msgid "matches any character not in *seq*"
 msgstr "matchar alla tecken som inte finns i *seq*"

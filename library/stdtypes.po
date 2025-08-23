@@ -417,7 +417,7 @@ msgid "quotient of *x* and *y*"
 msgstr "kvot av *x* och *y*"
 
 msgid "``x // y``"
-msgstr "``x // y```"
+msgstr "``x // y``"
 
 msgid "floored quotient of *x* and *y*"
 msgstr "golvad kvot av *x* och *y*"
@@ -444,7 +444,7 @@ msgid "*x* unchanged"
 msgstr "*x* oförändrad"
 
 msgid "``abs(x)``"
-msgstr "``abs(x)```"
+msgstr "``abs(x)``"
 
 msgid "absolute value or magnitude of *x*"
 msgstr "absolut värde eller magnitud av *x*"
@@ -453,7 +453,7 @@ msgid ":func:`abs`"
 msgstr ":func:`abs`"
 
 msgid "``int(x)``"
-msgstr "``int(x)```"
+msgstr "``int(x)``"
 
 msgid "*x* converted to integer"
 msgstr "*x* omvandlad till heltal"
@@ -493,7 +493,7 @@ msgid ":func:`complex`"
 msgstr ":func:`komplex`"
 
 msgid "``c.conjugate()``"
-msgstr "``c.konjugat()```"
+msgstr "``c.conjugate()``"
 
 msgid "conjugate of the complex number *c*"
 msgstr "konjugat av det komplexa talet *c*"
@@ -502,7 +502,7 @@ msgid "``divmod(x, y)``"
 msgstr "``divmod(x, y)``"
 
 msgid "the pair ``(x // y, x % y)``"
-msgstr "paret ``(x // y, x % y)```"
+msgstr "paret ``(x // y, x % y)``"
 
 msgid ":func:`divmod`"
 msgstr ":func:`divmod`"
@@ -676,7 +676,7 @@ msgid "bitwise :dfn:`and` of *x* and *y*"
 msgstr "bitvis :dfn:`och` av *x* och *y*"
 
 msgid "``x << n``"
-msgstr "``x << n```"
+msgstr "``x << n``"
 
 msgid "*x* shifted left by *n* bits"
 msgstr "*x* vänsterförskjutet med *n* bitar"
@@ -685,7 +685,7 @@ msgid "(1)(2)"
 msgstr "(1)(2)"
 
 msgid "``x >> n``"
-msgstr "``x >> n```"
+msgstr "``x >> n``"
 
 msgid "*x* shifted right by *n* bits"
 msgstr "*x* högerförskjutet med *n* bitar"
@@ -1565,13 +1565,13 @@ msgstr ""
 "(repetition) har samma prioritet som motsvarande numeriska operationer. [3]_"
 
 msgid "``x in s``"
-msgstr "``x i s```"
+msgstr "``x in s``"
 
 msgid "``True`` if an item of *s* is equal to *x*, else ``False``"
 msgstr "``True`` om ett objekt i *s* är lika med *x*, annars ``False``"
 
 msgid "``x not in s``"
-msgstr "``x inte i s```"
+msgstr "``x not in s``"
 
 msgid "``False`` if an item of *s* is equal to *x*, else ``True``"
 msgstr "``False`` om ett objekt i *s* är lika med *x*, annars ``True``"
@@ -1622,19 +1622,19 @@ msgid "(3)(5)"
 msgstr "(3)(5)"
 
 msgid "``len(s)``"
-msgstr "``len(s)```"
+msgstr "``len(s)``"
 
 msgid "length of *s*"
 msgstr "längd på *s*"
 
 msgid "``min(s)``"
-msgstr "``min(s)```"
+msgstr "``min(s)``"
 
 msgid "smallest item of *s*"
 msgstr "minsta delen av *s*"
 
 msgid "``max(s)``"
-msgstr "``max(s)```"
+msgstr "``max(s)``"
 
 msgid "largest item of *s*"
 msgstr "största posten av *s*"
@@ -1931,7 +1931,7 @@ msgid "item *i* of *s* is replaced by *x*"
 msgstr "post *i* i *s* ska ersättas med *x*"
 
 msgid "``del s[i]``"
-msgstr "``del s[i]```"
+msgstr "``del s[i]``"
 
 msgid "removes item *i* of *s*"
 msgstr "tar bort objekt *i* av *s*"
@@ -1994,7 +1994,7 @@ msgstr ""
 "len(s)] = t``)"
 
 msgid "``s *= n``"
-msgstr "``s *= n```"
+msgstr "``s *= n``"
 
 msgid "updates *s* with its contents repeated *n* times"
 msgstr "uppdaterar *s* med dess innehåll upprepade *n* gånger"
@@ -2792,8 +2792,7 @@ msgstr ""
 "kodpunkter.  Stränglitteraler skrivs på en mängd olika sätt:"
 
 msgid "Single quotes: ``'allows embedded \"double\" quotes'``"
-msgstr ""
-"Enkla citattecken: ``'tillåter inbäddade \"dubbla\" citationstecken'```"
+msgstr "Enkla citattecken: ``'allows embedded \"double\" quotes'``"
 
 msgid "Double quotes: ``\"allows embedded 'single' quotes\"``"
 msgstr "Dubbla citattecken: ``\"tillåter inbäddade 'enkla' citationstecken\"``"
@@ -4824,14 +4823,10 @@ msgstr ""
 "för sträng-litteraler, förutom att prefixet ``b`` läggs till:"
 
 msgid "Single quotes: ``b'still allows embedded \"double\" quotes'``"
-msgstr ""
-"Enkla citattecken: ``b'tillåter fortfarande inbäddade \"dubbla\" "
-"citationstecken'```"
+msgstr "Enkla citattecken: ``b'still allows embedded \"double\" quotes'``"
 
 msgid "Double quotes: ``b\"still allows embedded 'single' quotes\"``"
-msgstr ""
-"Dubbla citattecken: ``b\"tillåter fortfarande inbäddade 'enkla' "
-"citattecken\"```"
+msgstr "Dubbla citattecken: ``b\"still allows embedded 'single' quotes\"``"
 
 msgid ""
 "Triple quoted: ``b'''3 single quotes'''``, ``b\"\"\"3 double quotes\"\"\"``"
@@ -4894,7 +4889,7 @@ msgstr "Från en iterabel av heltal: ``bytes(range(20))``"
 
 msgid "Copying existing binary data via the buffer protocol:  ``bytes(obj)``"
 msgstr ""
-"Kopiering av befintliga binära data via buffertprotokollet:  ``bytes(obj)```"
+"Kopiering av befintliga binära data via buffertprotokollet:  ``bytes(obj)``"
 
 msgid "Also see the :ref:`bytes <func-bytes>` built-in."
 msgstr "Se även den inbyggda :ref:`bytes <func-bytes>`."
@@ -7334,9 +7329,9 @@ msgid ""
 "return the type of the first operand.  For example: ``frozenset('ab') | "
 "set('bc')`` returns an instance of :class:`frozenset`."
 msgstr ""
-"Binära operationer som blandar :class:`set`-instanser med :class:`frozenset` "
-"returnerar typen av den första operanden.  Till exempel: ```frozenset('ab') "
-"| set('bc')`` returnerar en instans av :class:`frozenset`."
+"Binära operationer som blandar :class:`set`\\ -instanser med :class:"
+"`frozenset` returnerar typen av den första operanden.  Till exempel: "
+"``frozenset('ab') | set('bc')`` returnerar en instans av :class:`frozenset`."
 
 msgid ""
 "The following table lists operations available for :class:`set` that do not "
@@ -9434,7 +9429,7 @@ msgid ""
 "int_max_str_digits=640``"
 msgstr ""
 ":option:`-X int_max_str_digits <-X>`, t.ex. ``python3 -X "
-"int_max_str_digits=640```"
+"int_max_str_digits=640``"
 
 msgid ""
 ":data:`sys.flags.int_max_str_digits` contains the value of :envvar:"

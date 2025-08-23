@@ -756,7 +756,7 @@ msgid "Meaning"
 msgstr "Betydelse"
 
 msgid "``'calls'``"
-msgstr "```samtal```"
+msgstr "``'calls'``"
 
 msgid "SortKey.CALLS"
 msgstr "SortKey.CALLS"
@@ -765,7 +765,7 @@ msgid "call count"
 msgstr "antal samtal"
 
 msgid "``'cumulative'``"
-msgstr "``'kumulativ'```"
+msgstr "``'cumulative'``"
 
 msgid "SortKey.CUMULATIVE"
 msgstr "SortKey.KUMULATIV"
@@ -774,31 +774,31 @@ msgid "cumulative time"
 msgstr "kumulativ tid"
 
 msgid "``'cumtime'``"
-msgstr "``'cumtime'```"
+msgstr "``'cumtime'``"
 
 msgid "N/A"
 msgstr "N/A"
 
 msgid "``'file'``"
-msgstr "``'fil'```"
+msgstr "``'file'``"
 
 msgid "file name"
 msgstr "filnamn"
 
 msgid "``'filename'``"
-msgstr "``'filnamn'```"
+msgstr "``'filename'``"
 
 msgid "SortKey.FILENAME"
 msgstr "SortKey.FILENAME"
 
 msgid "``'module'``"
-msgstr "``'modul'```"
+msgstr "``'module'``"
 
 msgid "``'ncalls'``"
-msgstr "``'ncalls'```"
+msgstr "``'ncalls'``"
 
 msgid "``'pcalls'``"
-msgstr "``'pcalls'```"
+msgstr "``'pcalls'``"
 
 msgid "SortKey.PCALLS"
 msgstr "Sorteringsnyckel.PCALLS"
@@ -807,7 +807,7 @@ msgid "primitive call count"
 msgstr "antal primitiva samtal"
 
 msgid "``'line'``"
-msgstr "``'linje'```"
+msgstr "``'line'``"
 
 msgid "SortKey.LINE"
 msgstr "Sorteringsnyckel.LINJE"
@@ -816,7 +816,7 @@ msgid "line number"
 msgstr "radnummer"
 
 msgid "``'name'``"
-msgstr "``'namn'```"
+msgstr "``'name'``"
 
 msgid "SortKey.NAME"
 msgstr "Sorteringsnyckel.namn"
@@ -825,7 +825,7 @@ msgid "function name"
 msgstr "funktionsnamn"
 
 msgid "``'nfl'``"
-msgstr "``'nfl'```"
+msgstr "``'nfl'``"
 
 msgid "SortKey.NFL"
 msgstr "Sorteringsnyckel.NFL"
@@ -834,7 +834,7 @@ msgid "name/file/line"
 msgstr "namn/fil/rad"
 
 msgid "``'stdname'``"
-msgstr "``'stdname'```"
+msgstr "``'stdname'``"
 
 msgid "SortKey.STDNAME"
 msgstr "SortKey.STDNAME"
@@ -843,7 +843,7 @@ msgid "standard name"
 msgstr "standardnamn"
 
 msgid "``'time'``"
-msgstr "``'tid'```"
+msgstr "``'time'``"
 
 msgid "SortKey.TIME"
 msgstr "Sorteringsnyckel.TIME"
@@ -852,7 +852,7 @@ msgid "internal time"
 msgstr "intern tid"
 
 msgid "``'tottime'``"
-msgstr "``'tottime'```"
+msgstr "``'tottime'``"
 
 msgid ""
 "Note that all sorts on statistics are in descending order (placing most time "

@@ -707,7 +707,7 @@ msgstr ""
 "En sträng med ett tecken som används för att citera fält som innehåller "
 "specialtecken, t.ex. *delimiter* eller *quotechar*, eller som innehåller "
 "tecken för ny rad (``'\\r'``, ``'\\n'`` eller något av tecknen i "
-"*lineterminator*). Standardvärdet är ```\"'``. Kan sättas till ``None`` för "
+"*lineterminator*). Standardvärdet är ``'\"'``. Kan sättas till ``None`` för "
 "att förhindra escaping av ``'\"'`` om *quoting* är satt till :const:"
 "`QUOTE_NONE`."
 

@@ -499,13 +499,13 @@ msgid "``PyMem_MALLOC(size)``"
 msgstr "``PyMem_MALLOC(storlek)``"
 
 msgid "``PyMem_NEW(type, size)``"
-msgstr "``PyMem_NEW(typ, storlek)```"
+msgstr "``PyMem_NEW(type, size)``"
 
 msgid "``PyMem_REALLOC(ptr, size)``"
-msgstr "``PyMem_REALLOC(ptr, storlek)```"
+msgstr "``PyMem_REALLOC(ptr, size)``"
 
 msgid "``PyMem_RESIZE(ptr, type, size)``"
-msgstr "``PyMem_RESIZE(ptr, typ, storlek)```"
+msgstr "``PyMem_RESIZE(ptr, type, size)``"
 
 msgid "``PyMem_FREE(ptr)``"
 msgstr "``PyMem_FREE(ptr)``"
@@ -745,25 +745,25 @@ msgid "user context passed as first argument"
 msgstr "användarkontext som skickas som första argument"
 
 msgid "``void* malloc(void *ctx, size_t size)``"
-msgstr "``void* malloc(void *ctx, size_t size)```"
+msgstr "``void* malloc(void *ctx, size_t size)``"
 
 msgid "allocate a memory block"
 msgstr "allokera ett minnesblock"
 
 msgid "``void* calloc(void *ctx, size_t nelem, size_t elsize)``"
-msgstr "``void* calloc(void *ctx, size_t nelem, size_t elsize)```"
+msgstr "``void* calloc(void *ctx, size_t nelem, size_t elsize)``"
 
 msgid "allocate a memory block initialized with zeros"
 msgstr "allokera ett minnesblock som initieras med nollor"
 
 msgid "``void* realloc(void *ctx, void *ptr, size_t new_size)``"
-msgstr "``void* realloc(void *ctx, void *ptr, size_t new_size)```"
+msgstr "``void* realloc(void *ctx, void *ptr, size_t new_size)``"
 
 msgid "allocate or resize a memory block"
 msgstr "allokera eller ändra storlek på ett minnesblock"
 
 msgid "``void free(void *ctx, void *ptr)``"
-msgstr "``void free(void *ctx, void *ptr)```"
+msgstr "``void free(void *ctx, void *ptr)``"
 
 msgid "free a memory block"
 msgstr "frigöra ett minnesblock"
@@ -990,7 +990,7 @@ msgstr ""
 "skiljer sig från en Python-skiva):"
 
 msgid "``p[-2*S:-S]``"
-msgstr "``p[-2*S:-S]```"
+msgstr "``p[-2*S:-S]``"
 
 msgid ""
 "Number of bytes originally asked for.  This is a size_t, big-endian (easier "
@@ -1000,7 +1000,7 @@ msgstr ""
 "(lättare att läsa i en minnesdump)."
 
 msgid "``p[-S]``"
-msgstr "``p[-S]```"
+msgstr "``p[-S]``"
 
 msgid "API identifier (ASCII character):"
 msgstr "API-identifierare (ASCII-tecken):"
@@ -1023,7 +1023,7 @@ msgstr ""
 "underlästa filer."
 
 msgid "``p[0:N]``"
-msgstr "``p[0:N]```"
+msgstr "``p[0:N]``"
 
 msgid ""
 "The requested memory, filled with copies of PYMEM_CLEANBYTE, used to catch "
@@ -1190,13 +1190,13 @@ msgstr ""
 "fält:"
 
 msgid "``void* alloc(void *ctx, size_t size)``"
-msgstr "``void* alloc(void *ctx, size_t size)```"
+msgstr "``void* alloc(void *ctx, size_t size)``"
 
 msgid "allocate an arena of size bytes"
 msgstr "allokera en arena av storleken bytes"
 
 msgid "``void free(void *ctx, void *ptr, size_t size)``"
-msgstr "``void free(void *ctx, void *ptr, size_t size)```"
+msgstr "``void free(void *ctx, void *ptr, size_t size)``"
 
 msgid "free an arena"
 msgstr "frigöra en arena"

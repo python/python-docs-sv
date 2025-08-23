@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-19 14:18+0000\n"
+"POT-Creation-Date: 2025-08-21 14:19+0000\n"
 "PO-Revision-Date: 2025-08-02 17:33+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
@@ -378,7 +378,7 @@ msgid ":c:member:`argv <PyConfig.argv>`"
 msgstr ":c:member:`argv <PyConfig.argv>`"
 
 msgid "``list[str]``"
-msgstr "``list[str]```"
+msgstr "``list[str]``"
 
 msgid "Public"
 msgstr "Offentlig"
@@ -486,7 +486,7 @@ msgid ":c:member:`exec_prefix <PyConfig.exec_prefix>`"
 msgstr ":c:member:`exec_prefix <PyConfig.exec_prefix>`"
 
 msgid "``\"executable\"``"
-msgstr "``\"körbar\"```"
+msgstr "``\"executable\"``"
 
 msgid ":c:member:`executable <PyConfig.executable>`"
 msgstr ":c:member:`exekverbar <PyConfig.exekverbar>`"
@@ -498,19 +498,19 @@ msgid ":c:member:`faulthandler <PyConfig.faulthandler>`"
 msgstr ":c:member:`faulthandler <PyConfig.faulthandler>`"
 
 msgid "``\"filesystem_encoding\"``"
-msgstr "``\"filesystem_encoding\"```"
+msgstr "``\"filesystem_encoding\"``"
 
 msgid ":c:member:`filesystem_encoding <PyConfig.filesystem_encoding>`"
 msgstr ":c:member:`filesystem_encoding <PyConfig.filesystem_encoding>`"
 
 msgid "``\"filesystem_errors\"``"
-msgstr "``\"filesystem_errors\"```"
+msgstr "``\"filesystem_errors\"``"
 
 msgid ":c:member:`filesystem_errors <PyConfig.filesystem_errors>`"
 msgstr ":c:member:`filesystem_errors <PyConfig.filesystem_errors>`"
 
 msgid "``\"hash_seed\"``"
-msgstr "``\"hash_seed\"```"
+msgstr "``\"hash_seed\"``"
 
 msgid ":c:member:`hash_seed <PyConfig.hash_seed>`"
 msgstr ":c:member:`hash_seed <PyConfig.hash_seed>`"
@@ -522,13 +522,13 @@ msgid ":c:member:`home <PyConfig.home>`"
 msgstr ":c:member:`hem <PyConfig.hem>`"
 
 msgid "``\"import_time\"``"
-msgstr "``\"import_tid\"```"
+msgstr "``\"import_time\"``"
 
 msgid ":c:member:`import_time <PyConfig.import_time>`"
 msgstr ":c:member:`import_time <PyConfig.import_time>`"
 
 msgid "``\"inspect\"``"
-msgstr "``\"inspektera\"```"
+msgstr "``\"inspect\"``"
 
 msgid ":c:member:`inspect <PyConfig.inspect>`"
 msgstr ":c:member:`inspektera <PyConfig.inspektera>`"
@@ -574,7 +574,7 @@ msgid ":c:member:`legacy_windows_stdio <PyConfig.legacy_windows_stdio>`"
 msgstr ":c:member:`legacy_windows_stdio <PyConfig.legacy_windows_stdio>`"
 
 msgid "``\"malloc_stats\"``"
-msgstr "``\"malloc_stats\"```"
+msgstr "``\"malloc_stats\"``"
 
 msgid ":c:member:`malloc_stats <PyConfig.malloc_stats>`"
 msgstr ":c:member:`malloc_stats <PyConfig.malloc_stats>`"
@@ -592,7 +592,7 @@ msgid ":c:member:`optimization_level <PyConfig.optimization_level>`"
 msgstr ":c:member:`optimering_nivå <PyConfig.optimering_nivå>`"
 
 msgid "``\"orig_argv\"``"
-msgstr "``\"orig_argv\"```"
+msgstr "``\"orig_argv\"``"
 
 msgid ":c:member:`orig_argv <PyConfig.orig_argv>`"
 msgstr ":c:member:`orig_argv <PyConfig.orig_argv>`"
@@ -628,7 +628,7 @@ msgid ":c:member:`platlibdir <PyConfig.platlibdir>`"
 msgstr ":c:member:`platlibdir <PyConfig.platlibdir>`"
 
 msgid "``\"prefix\"``"
-msgstr "``\"prefix\"```"
+msgstr "``\"prefix\"``"
 
 msgid ":c:member:`prefix <PyConfig.prefix>`"
 msgstr ":c:member:`prefix <PyConfig.prefix>`"
@@ -664,7 +664,7 @@ msgid ":c:member:`run_filename <PyConfig.run_filename>`"
 msgstr ":c:member:`run_filename <PyConfig.run_filename>`"
 
 msgid "``\"run_module\"``"
-msgstr "``\"run_module\"```"
+msgstr "``\"run_module\"``"
 
 msgid ":c:member:`run_module <PyConfig.run_module>`"
 msgstr ":c:member:`run_module <PyConfig.run_module>`"
@@ -688,7 +688,7 @@ msgid ":c:member:`show_ref_count <PyConfig.show_ref_count>`"
 msgstr ":c:member:`show_ref_count <PyConfig.show_ref_count>``"
 
 msgid "``\"site_import\"``"
-msgstr "``\"site_import\"```"
+msgstr "``\"site_import\"``"
 
 msgid ":c:member:`site_import <PyConfig.site_import>`"
 msgstr ":c:member:`site_import <PyConfig.site_import>`"
@@ -736,7 +736,7 @@ msgid ":c:member:`use_frozen_modules <PyConfig.use_frozen_modules>`"
 msgstr ":c:member:`använd_frozen_modules <PyConfig.use_frozen_modules>`"
 
 msgid "``\"use_hash_seed\"``"
-msgstr "``\"use_hash_seed\"```"
+msgstr "``\"use_hash_seed\"``"
 
 msgid ":c:member:`use_hash_seed <PyConfig.use_hash_seed>`"
 msgstr ":c:member:`använd_hash_seed <PyConfig.use_hash_seed>`"
@@ -784,7 +784,7 @@ msgid ":c:member:`write_bytecode <PyConfig.write_bytecode>`"
 msgstr ":c:member:`write_bytecode <PyConfig.write_bytecode>`"
 
 msgid "``\"xoptions\"``"
-msgstr "``\"xoptions\"```"
+msgstr "``\"xoptions\"``"
 
 msgid ":c:member:`xoptions <PyConfig.xoptions>`"
 msgstr ":c:member:`xoptions <PyConfig.xoptions>`"
@@ -793,7 +793,7 @@ msgid "``dict[str, str]``"
 msgstr "``dict[str, str]``"
 
 msgid "``\"_pystats\"``"
-msgstr "``\"_pystats\"```"
+msgstr "``\"_pystats\"``"
 
 msgid ":c:member:`_pystats <PyConfig._pystats>`"
 msgstr ":c:member:`_pystats <PyConfig._pystats>`"

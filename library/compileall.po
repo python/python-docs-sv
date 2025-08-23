@@ -415,7 +415,7 @@ msgid ""
 "getrecursionlimit()``"
 msgstr ""
 "Argumenten *stripdir*, *prependdir*, *limit_sl_dest* och *hardlink_dupes* "
-"lades till. Standardvärdet för *maxlevels* ändrades från ``10`` till ```sys."
+"lades till. Standardvärdet för *maxlevels* ändrades från ``10`` till ``sys."
 "getrecursionlimit()``"
 
 msgid ""

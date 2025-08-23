@@ -1546,7 +1546,7 @@ msgid ":meth:`assertEqual(a, b) <TestCase.assertEqual>`"
 msgstr ":meth:`assertEqual(a, b) <TestCase.assertEqual>`"
 
 msgid "``a == b``"
-msgstr "``a == b```"
+msgstr "``a == b``"
 
 msgid ":meth:`assertNotEqual(a, b) <TestCase.assertNotEqual>`"
 msgstr ":meth:`assertNotEqual(a, b) <TestCase.assertNotEqual>`"
@@ -1753,7 +1753,7 @@ msgstr ""
 
 msgid "``fun(*args, **kwds)`` raises *exc* and the message matches regex *r*"
 msgstr ""
-"``fun(*args, **kwds)``` ger upphov till *exc* och meddelandet matchar regex "
+"``fun(*args, **kwds)`` ger upphov till *exc* och meddelandet matchar regex "
 "*r*"
 
 msgid ":meth:`assertWarns(warn, fun, *args, **kwds) <TestCase.assertWarns>`"
@@ -2115,25 +2115,25 @@ msgid ":meth:`assertGreaterEqual(a, b) <TestCase.assertGreaterEqual>`"
 msgstr ":meth:`assertGreaterEqual(a, b) <TestCase.assertGreaterEqual>`"
 
 msgid "``a >= b``"
-msgstr "``a >= b```"
+msgstr "``a >= b``"
 
 msgid ":meth:`assertLess(a, b) <TestCase.assertLess>`"
 msgstr ":meth:`assertLess(a, b) <TestCase.assertLess>`"
 
 msgid "``a < b``"
-msgstr "``a < b```"
+msgstr "``a < b``"
 
 msgid ":meth:`assertLessEqual(a, b) <TestCase.assertLessEqual>`"
 msgstr ":meth:`assertLessEqual(a, b) <TestCase.assertLessEqual>`"
 
 msgid "``a <= b``"
-msgstr "``a <= b```"
+msgstr "``a <= b``"
 
 msgid ":meth:`assertRegex(s, r) <TestCase.assertRegex>`"
 msgstr ":meth:`assertRegex(s, r) <TestCase.assertRegex>`"
 
 msgid "``r.search(s)``"
-msgstr "``r.sök(s)```"
+msgstr "``r.search(s)``"
 
 msgid ":meth:`assertNotRegex(s, r) <TestCase.assertNotRegex>`"
 msgstr ":meth:`assertNotRegex(s, r) <TestCase.assertNotRegex>`"

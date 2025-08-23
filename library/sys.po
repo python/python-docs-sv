@@ -488,10 +488,10 @@ msgid ""
 "handler (which is probably ``'strict'``), encode it to ``sys.stdout."
 "encoding`` with ``'backslashreplace'`` error handler."
 msgstr ""
-"Om *värde* inte är ``None``, skriver denna funktion ut ``repr(värde)`` till "
-"``sys.stdout``, och sparar *värde* i ``builtins._``. Om ``repr(värde)`` inte "
-"kan kodas till ```sys.stdout.encoding`` med ```sys.stdout.errors`` "
-"felhanterare (som förmodligen är ``'strict'``), kodas det till ```sys.stdout."
+"Om *värde* inte är ``None``, skriver denna funktion ut ``repr(value)`` till "
+"``sys.stdout``, och sparar *värde* i ``builtins._``. Om ``repr(value)`` inte "
+"kan kodas till ``sys.stdout.encoding`` med ``sys.stdout.errors`` "
+"felhanterare (som förmodligen är ``'strict'``), kodas det till ``sys.stdout."
 "encoding`` med ``'backslashreplace'`` felhanterare."
 
 msgid ""
@@ -1137,11 +1137,11 @@ msgid ""
 "float_info.dig` significant digits, then converting ``s`` to a float and "
 "back again will recover a string representing the same decimal value::"
 msgstr ""
-"Attributet :attr:`sys.float_info.dig` behöver ytterligare förklaring.  Om "
-"```` är en sträng som representerar ett decimaltal med högst :attr:`!sys."
-"float_info.dig` signifikanta siffror, så kommer konvertering av ```` till en "
-"float och tillbaka igen att återskapa en sträng som representerar samma "
-"decimalvärde::"
+"Attributet :attr:`sys.float_info.dig` behöver ytterligare förklaring. Om "
+"``s`` är en sträng som representerar ett decimaltal med högst :attr:`!sys."
+"float_info.dig` signifikanta siffror, kommer konvertering av ``s`` till ett "
+"float-tal och tillbaka igen att återställa en sträng som representerar samma "
+"decimaltal::"
 
 msgid ""
 ">>> import sys\n"
@@ -2277,31 +2277,31 @@ msgid "AIX"
 msgstr "AIX"
 
 msgid "``'aix'``"
-msgstr "``'aix'```"
+msgstr "``'aix'``"
 
 msgid "Android"
 msgstr "Android"
 
 msgid "``'android'``"
-msgstr "``'android'```"
+msgstr "``'android'``"
 
 msgid "Emscripten"
 msgstr "Emscripten"
 
 msgid "``'emscripten'``"
-msgstr "``'emscripten'```"
+msgstr "``'emscripten'``"
 
 msgid "FreeBSD"
 msgstr "FreeBSD"
 
 msgid "``'freebsd'``"
-msgstr "``'freebsd'```"
+msgstr "``'freebsd'``"
 
 msgid "iOS"
 msgstr "iOS"
 
 msgid "``'ios'``"
-msgstr "``'ios'```"
+msgstr "``'ios'``"
 
 msgid "Linux"
 msgstr "Linux"
@@ -2319,19 +2319,19 @@ msgid "Windows"
 msgstr "Fönster"
 
 msgid "``'win32'``"
-msgstr "``'win32'```"
+msgstr "``'win32'``"
 
 msgid "Windows/Cygwin"
 msgstr "Windows/Cygwin"
 
 msgid "``'cygwin'``"
-msgstr "``'cygwin'```"
+msgstr "``'cygwin'``"
 
 msgid "WASI"
 msgstr "WASI"
 
 msgid "``'wasi'``"
-msgstr "``'wasi'```"
+msgstr "``'wasi'``"
 
 msgid ""
 "On Unix systems not listed in the table, the value is the lowercased OS name "
@@ -2566,7 +2566,7 @@ msgstr ""
 "Profilfunktionen anropas; *arg* är ``None``."
 
 msgid "``'return'``"
-msgstr "``'retur'```"
+msgstr "``'return'``"
 
 msgid ""
 "A function (or other code block) is about to return.  The profile function "
@@ -2578,7 +2578,7 @@ msgstr ""
 "eller ``None`` om händelsen orsakas av att ett undantag tas upp."
 
 msgid "``'c_call'``"
-msgstr "``'c_call'```"
+msgstr "``'c_call'``"
 
 msgid ""
 "A C function is about to be called.  This may be an extension function or a "
@@ -2588,13 +2588,13 @@ msgstr ""
 "eller en inbyggd funktion.  *arg* är C-funktionens objekt."
 
 msgid "``'c_return'``"
-msgstr "``'c_return'```"
+msgstr "``'c_return'``"
 
 msgid "A C function has returned. *arg* is the C function object."
 msgstr "En C-funktion har returnerats. *arg* är C-funktionens objekt."
 
 msgid "``'c_exception'``"
-msgstr "``'c_exception'```"
+msgstr "``'c_exception'``"
 
 msgid "A C function has raised an exception.  *arg* is the C function object."
 msgstr ""
@@ -2723,7 +2723,7 @@ msgstr ""
 "spårningsfunktionen."
 
 msgid "``'line'``"
-msgstr "``'linje'```"
+msgstr "``'line'``"
 
 msgid ""
 "The interpreter is about to execute a new line of code or re-execute the "
@@ -2752,7 +2752,7 @@ msgstr ""
 "funktionens returvärde ignoreras."
 
 msgid "``'exception'``"
-msgstr "``'undantag'```"
+msgstr "``'exception'``"
 
 msgid ""
 "An exception has occurred.  The local trace function is called; *arg* is a "
@@ -2764,7 +2764,7 @@ msgstr ""
 "lokala spårningsfunktionen."
 
 msgid "``'opcode'``"
-msgstr "``'opcode'```"
+msgstr "``'opcode'``"
 
 msgid ""
 "The interpreter is about to execute a new opcode (see :mod:`dis` for opcode "

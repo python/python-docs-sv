@@ -3992,7 +3992,7 @@ msgid ""
 "<platform>.pyd``:"
 msgstr ""
 "I Windows slutar filnamnen för tilläggsmoduler med ``<debug>."
-"cp<major><minor>-<platform>.pyd```:"
+"cp<major><minor>-<platform>.pyd``:"
 
 msgid ""
 "``<platform>`` is the platform the extension module was built for, either "

@@ -1800,7 +1800,7 @@ msgid "Four input formats are allowed:"
 msgstr "Fyra inmatningsformat är tillåtna:"
 
 msgid "``pencolor()``"
-msgstr "``penfärg()```"
+msgstr "``pencolor()``"
 
 msgid ""
 "Return the current pencolor as color specification string or as a tuple (see "
@@ -1977,7 +1977,7 @@ msgstr ""
 "följande:"
 
 msgid "``color()``"
-msgstr "``färg()```"
+msgstr "``color()``"
 
 msgid ""
 "Return the current pencolor and the current fillcolor as a pair of color "
@@ -3624,7 +3624,7 @@ msgid "``k * a`` and ``a * k`` multiplication with scalar"
 msgstr "multiplikation av ``k * a`` och ``a * k`` med skalär"
 
 msgid "``abs(a)`` absolute value of a"
-msgstr "``abs(a)``` absolut värde av a"
+msgstr "``abs(a)`` absolut värde av a"
 
 msgid "``a.rotate(angle)`` rotation"
 msgstr "``a.rotera(vinkel)`` rotation"

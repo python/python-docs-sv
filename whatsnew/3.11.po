@@ -2421,7 +2421,7 @@ msgid "Subscript"
 msgstr "Nedsänkt"
 
 msgid "``a[i]``"
-msgstr "``a[i]```"
+msgstr "``a[i]``"
 
 msgid ""
 "Subscripting container types such as :class:`list`, :class:`tuple` and :"
@@ -2459,7 +2459,7 @@ msgid "Calls"
 msgstr "Calls"
 
 msgid "``f(arg)``"
-msgstr "``f(arg)```"
+msgstr "``f(arg)``"
 
 msgid "``C(arg)``"
 msgstr "``C(arg)```"
@@ -2523,7 +2523,7 @@ msgid "Load methods for call"
 msgstr "Ladda metoder för anrop"
 
 msgid "``o.meth()``"
-msgstr "``o.meth()```"
+msgstr "``o.meth()``"
 
 msgid ""
 "The actual address of the method is cached. Method loading now has no "

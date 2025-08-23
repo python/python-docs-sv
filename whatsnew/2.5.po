@@ -3571,25 +3571,25 @@ msgid "Result"
 msgstr "Resultat"
 
 msgid "``elem[n]``"
-msgstr "``elem[n]```"
+msgstr "``elem[n]``"
 
 msgid "Returns n'th child element."
 msgstr "Returnerar det n:te underordnade elementet."
 
 msgid "``elem[m:n]``"
-msgstr "``elem[m:n]```"
+msgstr "``elem[m:n]``"
 
 msgid "Returns list of m'th through n'th child elements."
 msgstr "Returnerar listan med m'th till n'th underordnade element."
 
 msgid "``len(elem)``"
-msgstr "``len(elem)```"
+msgstr "``len(elem)``"
 
 msgid "Returns number of child elements."
 msgstr "Returnerar antalet underordnade element."
 
 msgid "``list(elem)``"
-msgstr "``list(elem)```"
+msgstr "``list(elem)``"
 
 msgid "Returns list of child elements."
 msgstr "Returnerar en lista med underordnade element."
@@ -3607,7 +3607,7 @@ msgid "Inserts *elem2* at the specified location."
 msgstr "Infogar *elem2* på den angivna platsen."
 
 msgid "``del elem[n]``"
-msgstr "``del elem[n]```"
+msgstr "``del elem[n]``"
 
 msgid "Deletes n'th child element."
 msgstr "Raderar det n:te underordnade elementet."

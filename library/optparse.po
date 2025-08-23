@@ -438,8 +438,8 @@ msgid ""
 "also use the term \"word\"."
 msgstr ""
 "en sträng som anges på kommandoraden och som skickas av skalet till "
-"``execl()`` eller ``execv()``.  I Python är argument element i ```sys."
-"argv[1:]`` (```sys.argv[0]`` är namnet på det program som körs).  Unix-skal "
+"``execl()`` eller ``execv()``.  I Python är argument element i ``sys."
+"argv[1:]`` (``sys.argv[0]`` är namnet på det program som körs).  Unix-skal "
 "använder också termen \"word\"."
 
 msgid ""
@@ -1041,7 +1041,7 @@ msgid "Some other actions supported by :mod:`optparse` are:"
 msgstr "Några andra åtgärder som stöds av :mod:`optparse` är:"
 
 msgid "``\"store_const\"``"
-msgstr "``\"store_const\"```"
+msgstr "``\"store_const\"``"
 
 msgid "store a constant value, pre-set via :attr:`Option.const`"
 msgstr "lagra ett konstant värde, förinställt via :attr:`Option.const`"
@@ -2052,19 +2052,19 @@ msgid "store this option's argument (default)"
 msgstr "lagra argumentet för detta alternativ (standard)"
 
 msgid "``\"store_true\"``"
-msgstr "``\"store_true\"```"
+msgstr "``\"store_true\"``"
 
 msgid "store ``True``"
 msgstr "lagra ``True``"
 
 msgid "``\"store_false\"``"
-msgstr "``\"store_false\"```"
+msgstr "``\"store_false\"``"
 
 msgid "store ``False``"
 msgstr "lagra ``False``"
 
 msgid "``\"append_const\"``"
-msgstr "``\"append_const\"```"
+msgstr "``\"append_const\"``"
 
 msgid "append a constant value to a list, pre-set via :attr:`Option.const`"
 msgstr ""

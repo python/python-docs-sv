@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-19 14:18+0000\n"
+"POT-Creation-Date: 2025-08-21 14:19+0000\n"
 "PO-Revision-Date: 2025-08-02 17:33+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
@@ -348,7 +348,7 @@ msgid "``splitattr()``"
 msgstr "``splitattr()``"
 
 msgid "``splithost()``"
-msgstr "``splithost()```"
+msgstr "``splithost()``"
 
 msgid "``splitnport()``"
 msgstr "``splitnport()``"
@@ -357,25 +357,25 @@ msgid "``splitpasswd()``"
 msgstr "``splitpasswd()``"
 
 msgid "``splitport()``"
-msgstr "``splitport()```"
+msgstr "``splitport()``"
 
 msgid "``splitquery()``"
-msgstr "```splitquery()```"
+msgstr "``splitquery()``"
 
 msgid "``splittag()``"
 msgstr "``splittag()``"
 
 msgid "``splittype()``"
-msgstr "```splittype()```"
+msgstr "``splittype()``"
 
 msgid "``splituser()``"
-msgstr "``splituser()```"
+msgstr "``splituser()``"
 
 msgid "``splitvalue()``"
 msgstr "``splitvärde()``"
 
 msgid "``to_bytes()``"
-msgstr "``to_bytes()```"
+msgstr "``to_bytes()``"
 
 msgid ""
 ":mod:`wsgiref`: ``SimpleHandler.stdout.write()`` should not do partial "

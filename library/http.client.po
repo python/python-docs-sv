@@ -283,7 +283,7 @@ msgstr ""
 "fjärranslutningen har stängt anslutningen."
 
 msgid "Previously, :exc:`BadStatusLine`\\ ``('')`` was raised."
-msgstr "Tidigare skapades :exc:`BadStatusLine```('')``."
+msgstr "Tidigare uppstod :exc:`BadStatusLine`\\ ``('')``."
 
 msgid "The constants defined in this module are:"
 msgstr "De konstanter som definieras i denna modul är:"

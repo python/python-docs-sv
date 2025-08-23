@@ -659,7 +659,7 @@ msgstr ""
 "*kan* inte hämtas efter en matchning eller refereras till senare i mönstret."
 
 msgid "``(?aiLmsux-imsx:...)``"
-msgstr "``(?aiLmsux-imsx:...)```"
+msgstr "``(?aiLmsux-imsx:...)``"
 
 msgid ""
 "(Zero or more letters from the set ``'a'``, ``'i'``, ``'L'``, ``'m'``, "
@@ -884,7 +884,7 @@ msgstr ""
 "lookbehind-assertions kan matcha i början av den sträng som söks."
 
 msgid "``(?(id/name)yes-pattern|no-pattern)``"
-msgstr "``(?(id/namn)ja-mönster|nej-mönster)```"
+msgstr "``(?(id/name)yes-pattern|no-pattern)``"
 
 msgid ""
 "Will try to match with ``yes-pattern`` if the group with given *id* or "
@@ -1806,8 +1806,8 @@ msgid ""
 "Unknown escapes in *pattern* consisting of ``'\\'`` and an ASCII letter now "
 "are errors."
 msgstr ""
-"Okända escapes i *mönster* som består av ``'\\'``` och en ASCII-bokstav är "
-"nu fel."
+"Okända escapes i *mönster* som består av ``'\\'`` och en ASCII-bokstav är nu "
+"fel."
 
 msgid ""
 "Unknown escapes in *repl* consisting of ``'\\'`` and an ASCII letter now are "

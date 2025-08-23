@@ -219,13 +219,13 @@ msgid ":class:`Container` [1]_"
 msgstr ":class:`Container` [1]_"
 
 msgid "``__contains__``"
-msgstr "``__innehåller__```"
+msgstr "``__contains__``"
 
 msgid ":class:`Hashable` [1]_"
 msgstr ":class:`Hashable` [1]_"
 
 msgid "``__hash__``"
-msgstr "``__hash__```"
+msgstr "``__hash__``"
 
 msgid ":class:`Iterable` [1]_ [2]_"
 msgstr ":class:`Iterable` [1]_ [2]_"
@@ -240,13 +240,13 @@ msgid ":class:`Iterable`"
 msgstr ":class:`Iterable`"
 
 msgid "``__next__``"
-msgstr "``__nästa__```"
+msgstr "``__next__``"
 
 msgid ":class:`Reversible` [1]_"
 msgstr ":class:`Reversibel` [1]_"
 
 msgid "``__reversed__``"
-msgstr "``__vända__```"
+msgstr "``__reversed__``"
 
 msgid ":class:`Generator`  [1]_"
 msgstr ":class:`Generator`  [1]_"
@@ -264,13 +264,13 @@ msgid ":class:`Sized`  [1]_"
 msgstr ":class:`Sized` [1]_"
 
 msgid "``__len__``"
-msgstr "``__len__```"
+msgstr "``__len__``"
 
 msgid ":class:`Callable`  [1]_"
 msgstr ":class:`Callable` [1]_"
 
 msgid "``__call__``"
-msgstr "``__anrop__```"
+msgstr "``__call__``"
 
 msgid ":class:`Collection`  [1]_"
 msgstr ":class:`Collection` [1]_"
@@ -412,7 +412,7 @@ msgid ":class:`AsyncIterable` [1]_"
 msgstr ":class:`AsyncIterable` [1]_"
 
 msgid "``__aiter__``"
-msgstr "``__aiter__```"
+msgstr "``__aiter__``"
 
 msgid ":class:`AsyncIterator` [1]_"
 msgstr ":class:`AsyncIterator` [1]_"
@@ -421,7 +421,7 @@ msgid ":class:`AsyncIterable`"
 msgstr ":class:`AsyncIterable`"
 
 msgid "``__anext__``"
-msgstr "``__anext__```"
+msgstr "``__anext__``"
 
 msgid ":class:`AsyncGenerator` [1]_"
 msgstr ":class:`AsyncGenerator` [1]_"
@@ -439,7 +439,7 @@ msgid ":class:`Buffer` [1]_"
 msgstr ":class:`Buffer` [1]_"
 
 msgid "``__buffer__``"
-msgstr "``__buffer__```"
+msgstr "``__buffer__``"
 
 msgid "Footnotes"
 msgstr "Fotnoter"

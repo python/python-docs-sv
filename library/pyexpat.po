@@ -662,7 +662,7 @@ msgid ""
 "leading ``'<!-``\\ ``-'`` and trailing ``'-``\\ ``->'``."
 msgstr ""
 "Anropas för kommentarer.  *data* är texten i kommentaren, exklusive den "
-"inledande ``'<!-``` ``-'``` och den efterföljande ``'-``` ``->'```."
+"inledande ``'<!-``\\ ``-'`` och den efterföljande ``'-``\\ ``->'``."
 
 msgid ""
 "Called at the start of a CDATA section.  This and :attr:"

@@ -2425,7 +2425,7 @@ msgstr ""
 "``'surrogateescape'`` kommer att representera alla felaktiga byte som låga "
 "surrogatkodsenheter från U+DC80 till U+DCFF. Dessa surrogatkodsenheter "
 "kommer sedan att omvandlas tillbaka till samma byte när felhanteraren "
-"```surrogateescape`` används vid skrivning av data.  Detta är användbart för "
+"``surrogateescape`` används vid skrivning av data.  Detta är användbart för "
 "att bearbeta filer i en okänd kodning."
 
 msgid ""

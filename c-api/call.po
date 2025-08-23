@@ -339,7 +339,7 @@ msgid ":c:func:`PyObject_Call`"
 msgstr ":c:func:`PyObject_Call`"
 
 msgid "``PyObject *``"
-msgstr "``PyObject *```"
+msgstr "``PyObject *``"
 
 msgid "tuple"
 msgstr "tupel"

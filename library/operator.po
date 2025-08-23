@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-13 14:19+0000\n"
+"POT-Creation-Date: 2025-08-21 14:19+0000\n"
 "PO-Revision-Date: 2025-08-02 17:34+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
@@ -419,7 +419,7 @@ msgid "Addition"
 msgstr "Addition"
 
 msgid "``a + b``"
-msgstr "``a + b```"
+msgstr "``a + b``"
 
 msgid "``add(a, b)``"
 msgstr "``add(a, b)``"
@@ -452,7 +452,7 @@ msgid "``truediv(a, b)``"
 msgstr "``truediv(a, b)``"
 
 msgid "``a // b``"
-msgstr "``a // b```"
+msgstr "``a // b``"
 
 msgid "``floordiv(a, b)``"
 msgstr "``floordiv(a, b)``"
@@ -473,7 +473,7 @@ msgid "``a ^ b``"
 msgstr "``a ^ b``"
 
 msgid "``xor(a, b)``"
-msgstr "``xor(a, b)```"
+msgstr "``xor(a, b)``"
 
 msgid "Bitwise Inversion"
 msgstr "Bitvis invertering"
@@ -488,7 +488,7 @@ msgid "Bitwise Or"
 msgstr "Bitvis eller"
 
 msgid "``a | b``"
-msgstr "``a | b```"
+msgstr "``a | b``"
 
 msgid "``or_(a, b)``"
 msgstr "``eller_(a, b)``"
@@ -497,7 +497,7 @@ msgid "Exponentiation"
 msgstr "Potens"
 
 msgid "``a ** b``"
-msgstr "``a ** b```"
+msgstr "``a ** b``"
 
 msgid "``pow(a, b)``"
 msgstr "``pow(a, b)``"
@@ -551,7 +551,7 @@ msgid "Indexing"
 msgstr "Indexering"
 
 msgid "``obj[k]``"
-msgstr "``obj[k]```"
+msgstr "``obj[k]``"
 
 msgid "``getitem(obj, k)``"
 msgstr "``getitem(obj, k)``"
@@ -560,7 +560,7 @@ msgid "Left Shift"
 msgstr "Vänster skift"
 
 msgid "``a << b``"
-msgstr "``a << b```"
+msgstr "``a << b``"
 
 msgid "``lshift(a, b)``"
 msgstr "``lshift(a, b)``"
@@ -569,7 +569,7 @@ msgid "Modulo"
 msgstr "Modulo"
 
 msgid "``a % b``"
-msgstr "``a % b```"
+msgstr "``a % b``"
 
 msgid "``mod(a, b)``"
 msgstr "``mod(a, b)``"
@@ -578,7 +578,7 @@ msgid "Multiplication"
 msgstr "Multiplikation"
 
 msgid "``a * b``"
-msgstr "``a * b```"
+msgstr "``a * b``"
 
 msgid "``mul(a, b)``"
 msgstr "``mul(a, b)``"
@@ -599,7 +599,7 @@ msgid "``- a``"
 msgstr "``- a``"
 
 msgid "``neg(a)``"
-msgstr "``neg(a)```"
+msgstr "``neg(a)``"
 
 msgid "Negation (Logical)"
 msgstr "Negation (logisk)"
@@ -608,7 +608,7 @@ msgid "``not a``"
 msgstr "``inte en``"
 
 msgid "``not_(a)``"
-msgstr "``inte_(a)```"
+msgstr "``not_(a)``"
 
 msgid "Positive"
 msgstr "Positiv"
@@ -617,13 +617,13 @@ msgid "``+ a``"
 msgstr "``+ a``"
 
 msgid "``pos(a)``"
-msgstr "``pos(a)```"
+msgstr "``pos(a)``"
 
 msgid "Right Shift"
 msgstr "Höger skift"
 
 msgid "``a >> b``"
-msgstr "``a >> b```"
+msgstr "``a >> b``"
 
 msgid "``rshift(a, b)``"
 msgstr "``rshift(a, b)``"
@@ -686,13 +686,13 @@ msgid "Ordering"
 msgstr "Ordning"
 
 msgid "``a < b``"
-msgstr "``a < b```"
+msgstr "``a < b``"
 
 msgid "``lt(a, b)``"
 msgstr "``lt(a, b)``"
 
 msgid "``a <= b``"
-msgstr "``a <= b```"
+msgstr "``a <= b``"
 
 msgid "``le(a, b)``"
 msgstr "``le(a, b)``"
@@ -701,7 +701,7 @@ msgid "Equality"
 msgstr "Jämlikhet"
 
 msgid "``a == b``"
-msgstr "``a == b```"
+msgstr "``a == b``"
 
 msgid "``eq(a, b)``"
 msgstr "``eq(a, b)``"
@@ -716,10 +716,10 @@ msgid "``ne(a, b)``"
 msgstr "``ne(a, b)``"
 
 msgid "``a >= b``"
-msgstr "``a >= b```"
+msgstr "``a >= b``"
 
 msgid "``ge(a, b)``"
-msgstr "``ge(a, b)```"
+msgstr "``ge(a, b)``"
 
 msgid "``a > b``"
 msgstr "``a > b``"

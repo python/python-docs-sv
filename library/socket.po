@@ -2778,12 +2778,10 @@ msgid ""
 msgstr "Denna metod är en kortform för vissa :meth:`~socket.settimeout`-anrop:"
 
 msgid "``sock.setblocking(True)`` is equivalent to ``sock.settimeout(None)``"
-msgstr ""
-"```sock.setblocking(True)`` är likvärdigt med ```sock.settimeout(None)``"
+msgstr "``sock.setblocking(True)`` är likvärdigt med ``sock.settimeout(None)``"
 
 msgid "``sock.setblocking(False)`` is equivalent to ``sock.settimeout(0.0)``"
-msgstr ""
-"```sock.setblocking(False)`` är likvärdigt med ```sock.settimeout(0.0)``"
+msgstr "``sock.setblocking(False)`` är likvärdigt med ``sock.settimeout(0.0)``"
 
 msgid ""
 "The method no longer applies :const:`SOCK_NONBLOCK` flag on :attr:`socket."

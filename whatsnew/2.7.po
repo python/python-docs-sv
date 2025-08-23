@@ -787,7 +787,7 @@ msgstr ""
 "skicka ``'*'``, 1 eller fler genom att skicka ``'+'``, eller ett valfritt "
 "argument med ``'?'``.  En parser på högsta nivån kan innehålla underparsers "
 "för att definiera underkommandon som har olika uppsättningar av switchar, "
-"som i ```svn commit``, ``vn checkout``, etc.  Du kan ange ett arguments typ "
+"som i ``svn commit``, ``svn checkout``, etc.  Du kan ange ett arguments typ "
 "som :class:`~argparse.FileType`, vilket automatiskt öppnar filer åt dig och "
 "förstår att ``'-'`` betyder standardinmatning eller -utmatning."
 

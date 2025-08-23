@@ -3114,7 +3114,7 @@ msgid "TrueType: ``font/ttf``"
 msgstr "TrueType: ``font/ttf``"
 
 msgid "WOFF 1.0 ``font/woff``"
-msgstr "WOFF 1.0 ``font/woff```"
+msgstr "WOFF 1.0 ``font/woff``"
 
 msgid "WOFF 2.0 ``font/woff2``"
 msgstr "WOFF 2.0 ``font/woff2``"
@@ -5740,7 +5740,7 @@ msgid "``splitattr()``"
 msgstr "``splitattr()``"
 
 msgid "``splithost()``"
-msgstr "``splithost()```"
+msgstr "``splithost()``"
 
 msgid "``splitnport()``"
 msgstr "``splitnport()``"
@@ -5749,25 +5749,25 @@ msgid "``splitpasswd()``"
 msgstr "``splitpasswd()``"
 
 msgid "``splitport()``"
-msgstr "``splitport()```"
+msgstr "``splitport()``"
 
 msgid "``splitquery()``"
-msgstr "```splitquery()```"
+msgstr "``splitquery()``"
 
 msgid "``splittag()``"
 msgstr "``splittag()``"
 
 msgid "``splittype()``"
-msgstr "```splittype()```"
+msgstr "``splittype()``"
 
 msgid "``splituser()``"
-msgstr "``splituser()```"
+msgstr "``splituser()``"
 
 msgid "``splitvalue()``"
 msgstr "``splitvärde()``"
 
 msgid "``to_bytes()``"
-msgstr "``to_bytes()```"
+msgstr "``to_bytes()``"
 
 msgid ""
 ":mod:`wsgiref`: ``SimpleHandler.stdout.write()`` should not do partial "

@@ -3111,7 +3111,7 @@ msgid ""
 "``bytes % args`` is now up to 2 times faster. (Contributed by Victor Stinner "
 "in :issue:`25349`)."
 msgstr ""
-"```bytes % args`` är nu upp till 2 gånger snabbare. (Bidrag från Victor "
+"``bytes % args`` är nu upp till 2 gånger snabbare. (Bidrag från Victor "
 "Stinner i :issue:`25349`)."
 
 msgid ""

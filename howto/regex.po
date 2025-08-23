@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-19 14:18+0000\n"
+"POT-Creation-Date: 2025-08-21 14:19+0000\n"
 "PO-Revision-Date: 2025-08-02 17:33+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
@@ -733,10 +733,10 @@ msgid "Raw string"
 msgstr "Rå sträng"
 
 msgid "``\"ab*\"``"
-msgstr "``\"ab*\"```"
+msgstr "``\"ab*\"``"
 
 msgid "``r\"ab*\"``"
-msgstr "``r\"ab*\"```"
+msgstr "``r\"ab*\"``"
 
 msgid "``r\"\\\\section\"``"
 msgstr "``r\"\\\\section\"``"
@@ -768,13 +768,13 @@ msgid "Purpose"
 msgstr "Syfte"
 
 msgid "``match()``"
-msgstr "``match()```"
+msgstr "``match()``"
 
 msgid "Determine if the RE matches at the beginning of the string."
 msgstr "Avgör om RE matchar i början av strängen."
 
 msgid "``search()``"
-msgstr "``search()```"
+msgstr "``search()``"
 
 msgid "Scan through a string, looking for any location where this RE matches."
 msgstr ""
@@ -787,7 +787,7 @@ msgid "Find all substrings where the RE matches, and returns them as a list."
 msgstr "Hitta alla delsträngar där RE matchar och returnera dem som en lista."
 
 msgid "``finditer()``"
-msgstr "``finditer()```"
+msgstr "``finditer()``"
 
 msgid ""
 "Find all substrings where the RE matches, and returns them as an :term:"
@@ -895,13 +895,13 @@ msgid "Return the starting position of the match"
 msgstr "Returnera startpositionen för matchen"
 
 msgid "``end()``"
-msgstr "``slut()```"
+msgstr "``end()``"
 
 msgid "Return the ending position of the match"
 msgstr "Returnera slutpositionen för matchen"
 
 msgid "``span()``"
-msgstr "``span()```"
+msgstr "``span()``"
 
 msgid "Return a tuple containing the (start, end) positions  of the match"
 msgstr ""
@@ -1146,7 +1146,7 @@ msgid ":const:`DOTALL`, :const:`S`"
 msgstr ":const:`DOTALL`, :const:`S`"
 
 msgid "Make ``.`` match any character, including newlines."
-msgstr "Låt ``.``` matcha alla tecken, inklusive nya rader."
+msgstr "Låt ``.`` matcha alla tecken, inklusive nya rader."
 
 msgid ":const:`IGNORECASE`, :const:`I`"
 msgstr ":const:`IGNORECASE`, :const:`I`"
@@ -2155,7 +2155,7 @@ msgid "A negative lookahead cuts through all this confusion:"
 msgstr "En negativ framåtblickande prognos skär igenom all denna förvirring:"
 
 msgid "``.*[.](?!bat$)[^.]*$``"
-msgstr "``.*[.](?!bat$)[^.]*$```"
+msgstr "``.*[.](?!bat$)[^.]*$``"
 
 msgid ""
 "The negative lookahead means: if the expression ``bat`` doesn't match at "
@@ -2182,7 +2182,7 @@ msgstr ""
 "slutar på antingen ``bat`` eller ``exe``:"
 
 msgid "``.*[.](?!bat$|exe$)[^.]*$``"
-msgstr "``.*[.](?!bat$|exe$)[^.]*$```"
+msgstr "``.*[.](?!bat$|exe$)[^.]*$``"
 
 msgid "Modifying Strings"
 msgstr "Modifiera strängar"
@@ -2197,13 +2197,13 @@ msgstr ""
 "hjälp av följande mönstermetoder:"
 
 msgid "``split()``"
-msgstr "``split()```"
+msgstr "``split()``"
 
 msgid "Split the string into a list, splitting it wherever the RE matches"
 msgstr "Dela upp strängen i en lista och dela upp den där RE matchar"
 
 msgid "``sub()``"
-msgstr "```sub()```"
+msgstr "``sub()``"
 
 msgid ""
 "Find all substrings where the RE matches, and replace them with a different "
@@ -2212,7 +2212,7 @@ msgstr ""
 "Hitta alla delsträngar där RE matchar och ersätt dem med en annan sträng"
 
 msgid "``subn()``"
-msgstr "```subn()```"
+msgstr "``subn()``"
 
 msgid ""
 "Does the same thing as :meth:`!sub`,  but returns the new string and the "

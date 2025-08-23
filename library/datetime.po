@@ -315,7 +315,7 @@ msgid "``t.tzinfo`` is not ``None``"
 msgstr "``t.tzinfo`` är inte ``None``"
 
 msgid "``t.tzinfo.utcoffset(None)`` does not return ``None``."
-msgstr "```t.tzinfo.utcoffset(None)`` returnerar inte ``None``."
+msgstr "``t.tzinfo.utcoffset(None)`` returnerar inte ``None``."
 
 msgid "Otherwise, ``t`` is naive."
 msgstr "Annars är ``t`` naivt."
@@ -371,7 +371,7 @@ msgstr ""
 "representationen blir unik, med"
 
 msgid "``0 <= microseconds < 1000000``"
-msgstr "``0 <= mikrosekunder < 1000000```"
+msgstr "``0 <= microseconds < 1000000``"
 
 msgid "``0 <= seconds < 3600*24`` (the number of seconds in one day)"
 msgstr "``0 <= sekunder < 3600*24`` (antalet sekunder på en dag)"
@@ -676,7 +676,7 @@ msgstr ""
 "Motsvarar ``+t`` när ``t.days >= 0``, och ``-t`` när ``t.days < 0``. (2)"
 
 msgid "``str(t)``"
-msgstr "``str(t)```"
+msgstr "``str(t)``"
 
 msgid ""
 "Returns a string in the form ``[D day[s], ][H]H:MM:SS[.UUUUUU]``, where D is "
@@ -686,7 +686,7 @@ msgstr ""
 "negativ för negativ ``t``. (5)"
 
 msgid "``repr(t)``"
-msgstr "``repr(t)```"
+msgstr "``repr(t)``"
 
 msgid ""
 "Returns a string representation of the :class:`timedelta` object as a "
@@ -879,7 +879,7 @@ msgid "``MINYEAR <= year <= MAXYEAR``"
 msgstr "``MINYEAR <= år <= MAXYEAR``"
 
 msgid "``1 <= month <= 12``"
-msgstr "``1 <= månad <= 12```"
+msgstr "``1 <= month <= 12``"
 
 msgid "``1 <= day <= number of days in the given month and year``"
 msgstr "``1 <= dag <= antal dagar i den angivna månaden och året``"
@@ -3168,14 +3168,14 @@ msgid ""
 "``HH:MM:SS.ffffff+HH:MM[:SS[.ffffff]]``, if :meth:`utcoffset` does not "
 "return ``None``"
 msgstr ""
-"```HH:MM:SS.ffffff+HH:MM[:SS[.ffffff]]``, om :meth:`utcoffset` inte "
+"``HH:MM:SS.ffffff+HH:MM[:SS[.ffffff]]``, om :meth:`utcoffset` inte "
 "returnerar ``None``"
 
 msgid ""
 "``HH:MM:SS+HH:MM[:SS[.ffffff]]``, if :attr:`microsecond` is 0 and :meth:"
 "`utcoffset` does not return ``None``"
 msgstr ""
-"```HH:MM:SS+HH:MM[:SS[.ffffff]]``, om :attr:`microsecond` är 0 och :meth:"
+"``HH:MM:SS+HH:MM[:SS[.ffffff]]``, om :attr:`microsecond` är 0 och :meth:"
 "`utcoffset` inte returnerar ``None``"
 
 msgid ":exc:`ValueError` will be raised on an invalid *timespec* argument."
@@ -4365,7 +4365,7 @@ msgid "Signature"
 msgstr "Underskrift"
 
 msgid "``strftime(format)``"
-msgstr "``strftime(format)```"
+msgstr "``strftime(format)``"
 
 msgid "``strptime(date_string, format)``"
 msgstr "``strptime(datum_sträng, format)``"
