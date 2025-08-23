@@ -7015,7 +7015,7 @@ msgid "Undecided"
 msgstr "Väntande"
 
 msgid ":gh:`92332`"
-msgstr ":gh:`92332``"
+msgstr ":gh:`92332`"
 
 msgid ":class:`typing.Hashable` and :class:`typing.Sized`"
 msgstr ":class:`typing.Hashable` och :class:`typing.Sized`"
