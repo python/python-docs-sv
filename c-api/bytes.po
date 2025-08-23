@@ -136,7 +136,7 @@ msgid "``%ld``"
 msgstr "``%ld``"
 
 msgid "long"
-msgstr "longitud"
+msgstr "long"
 
 msgid "Equivalent to ``printf(\"%ld\")``. [1]_"
 msgstr "Motsvarar ``printf(\"%ld\")``. [1]_"
@@ -145,7 +145,7 @@ msgid "``%lu``"
 msgstr "``%lu``"
 
 msgid "unsigned long"
-msgstr "osignerad lång"
+msgstr "unsigned long"
 
 msgid "Equivalent to ``printf(\"%lu\")``. [1]_"
 msgstr "Motsvarar ``printf(\"%lu\")``. [1]_"

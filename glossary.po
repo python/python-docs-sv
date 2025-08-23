@@ -960,7 +960,7 @@ msgid ""
 "\"dunder init\"."
 msgstr ""
 "En informell förkortning för \"double underscore\", som används när man "
-"talar om en :term:`specialmetod`. Till exempel uttalas ``__init__`` ofta "
+"talar om en :term:`special method`. Till exempel uttalas ``__init__`` ofta "
 "\"dunder init\"."
 
 msgid "EAFP"

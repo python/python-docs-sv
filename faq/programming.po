@@ -1679,7 +1679,7 @@ msgstr ""
 "konvertera strängar till tal. :func:`eval` blir betydligt långsammare och "
 "det innebär en säkerhetsrisk: någon kan skicka ett Python-uttryck till dig "
 "som kan ha oönskade bieffekter.  Till exempel skulle någon kunna skicka "
-"```__import__('os').system(\"rm -rf $HOME\")`` vilket skulle radera din "
+"``__import__('os').system(\"rm -rf $HOME\")`` vilket skulle radera din "
 "hemkatalog."
 
 msgid ""

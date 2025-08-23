@@ -437,7 +437,7 @@ msgid "``h``"
 msgstr "``h``"
 
 msgid ":c:expr:`short`"
-msgstr ":c:expr:`kort`"
+msgstr ":c:expr:`short`"
 
 msgid "2"
 msgstr "2"

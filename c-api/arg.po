@@ -565,7 +565,7 @@ msgstr ""
 "lagrat i en C :c:expr:`unsigned char`."
 
 msgid "``h`` (:class:`int`) [short int]"
-msgstr "``h`` (:class:`int`) [kort int]"
+msgstr "``h`` (:class:`int`) [short int]"
 
 msgid "Convert a Python integer to a C :c:expr:`short int`."
 msgstr "Konvertera ett heltal i Python till ett C :c:expr:`short int`."
@@ -616,13 +616,13 @@ msgid "Use :meth:`~object.__index__` if available."
 msgstr "Använd :meth:`~object.__index__` om det finns tillgängligt."
 
 msgid "``L`` (:class:`int`) [long long]"
-msgstr "``L`` (:class:`int`) [lång lång]"
+msgstr "``L`` (:class:`int`) [long long]"
 
 msgid "Convert a Python integer to a C :c:expr:`long long`."
 msgstr "Konvertera ett heltal i Python till ett C :c:expr:`long long`."
 
 msgid "``K`` (:class:`int`) [unsigned long long]"
-msgstr "``K`` (:class:`int`) [osignerad lång lång]"
+msgstr "``K`` (:class:`int`) [unsigned long long]"
 
 msgid ""
 "Convert a Python integer to a C :c:expr:`unsigned long long` without "

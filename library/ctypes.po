@@ -477,7 +477,7 @@ msgid ":class:`c_short`"
 msgstr ":class:`c_short`"
 
 msgid ":c:expr:`short`"
-msgstr ":c:expr:`kort`"
+msgstr ":c:expr:`short`"
 
 msgid ":class:`c_ushort`"
 msgstr ":class:`c_ushort`"
