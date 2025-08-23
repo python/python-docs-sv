@@ -1598,7 +1598,7 @@ msgid ""
 msgstr ""
 "Observera att om ett snedstreck (/) visas i parameterlistan för en funktion "
 "vid anrop av :func:`help`, betyder det att parametrarna före snedstrecket är "
-"enbart positionella. För mer information, se :ref:` FAQ-posten om endast "
+"enbart positionella. För mer information, se :ref:`FAQ-posten om endast "
 "positionella parametrar <faq-positional-only-arguments>`."
 
 msgid ""

@@ -127,7 +127,7 @@ msgstr ""
 "implicit av konstruktören."
 
 msgid "|param_doc_passwd|"
-msgstr "|param_doc_passwd"
+msgstr "|param_doc_passwd|"
 
 msgid "|param_doc_acct|"
 msgstr "|param_doc_acct|"

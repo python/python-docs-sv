@@ -533,7 +533,7 @@ msgid "``F``"
 msgstr "``F``"
 
 msgid ":c:expr:`float complex`"
-msgstr ":c:expr:`flöde komplex`"
+msgstr ":c:expr:`float complex`"
 
 msgid "complex"
 msgstr "komplex"
@@ -545,7 +545,7 @@ msgid "``D``"
 msgstr "``D``"
 
 msgid ":c:expr:`double complex`"
-msgstr ":c:expr:`dubbel komplex`"
+msgstr ":c:expr:`double complex`"
 
 msgid "16"
 msgstr "16"
