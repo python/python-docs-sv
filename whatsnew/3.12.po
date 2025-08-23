@@ -5116,7 +5116,7 @@ msgid "Deprecate global configuration variable:"
 msgstr "Utgå från den globala konfigurationsvariabeln:"
 
 msgid ":c:var:`Py_DebugFlag`: use :c:member:`PyConfig.parser_debug`"
-msgstr ":c:var:`Py_DebugFlag`: använd:c:member:`PyConfig.parser_debug`"
+msgstr ":c:var:`Py_DebugFlag`: använd :c:member:`PyConfig.parser_debug`"
 
 msgid ":c:var:`Py_VerboseFlag`: use :c:member:`PyConfig.verbose`"
 msgstr ":c:var:`Py_VerboseFlag`: använd :c:member:`PyConfig.verbose`"
