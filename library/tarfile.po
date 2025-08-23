@@ -1399,7 +1399,7 @@ msgstr ""
 "inspektion. Se även :ref:`tarfile-further-verification`."
 
 msgid ":pep:`706`"
-msgstr ":pep:`706``"
+msgstr ":pep:`706`"
 
 msgid "Contains further motivation and rationale behind the design."
 msgstr "Innehåller ytterligare motivering och skälen bakom designen."

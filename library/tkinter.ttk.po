@@ -611,7 +611,7 @@ msgid ""
 msgstr ""
 "Anger ett namn vars värde är kopplat till widgetens värde. När värdet som "
 "associeras med namnet ändras, uppdateras widgetens värde och vice versa. Se :"
-"klass:`tkinter.StringVar`."
+"class:`tkinter.StringVar`."
 
 msgid "values"
 msgstr "values"

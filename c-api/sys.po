@@ -661,7 +661,7 @@ msgstr ""
 
 msgid ":c:func:`PyUnstable_AtExit` for passing a ``void *data`` argument."
 msgstr ""
-":c:func:`PyUnstable_AtExit` för att skicka ett ``void *data`` argument."
+":c:func:`PyUnstable_AtExit` för att skicka ett ``void *data``\\ -argument."
 
 msgid "USE_STACKCHECK (C macro)"
 msgstr "USE_STACKCHECK (C-makro)"

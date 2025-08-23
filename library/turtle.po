@@ -37,7 +37,7 @@ msgid ""
 "introduced in Logo <https://en.wikipedia.org/wiki/Turtle_ (robot)>`_, "
 "developed by Wally Feurzeig, Seymour Papert and Cynthia Solomon in 1967."
 msgstr ""
-"Turtle graphics är en implementation av \"de populära geometriska ritverktyg "
+"Turtle graphics är en implementation av `de populära geometriska ritverktyg "
 "som introducerades i Logo <https://en.wikipedia.org/wiki/Turtle_ (robot)>`_, "
 "utvecklad av Wally Feurzeig, Seymour Papert och Cynthia Solomon 1967."
 

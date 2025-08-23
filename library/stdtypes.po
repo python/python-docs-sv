@@ -8692,7 +8692,7 @@ msgid "Introducing Python's framework for type annotations."
 msgstr "Introduktion till Pythons ramverk för typannoteringar."
 
 msgid ":pep:`585` - Type Hinting Generics In Standard Collections"
-msgstr ":pep:`585` - Typhintning av generiska gener i standardsamlingar"
+msgstr ":pep:`585` - Typhintning av generiska i standardsamlingar"
 
 msgid ""
 "Introducing the ability to natively parameterize standard-library classes, "
