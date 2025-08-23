@@ -4764,7 +4764,7 @@ msgstr ""
 "tillgängliga i minst fem år).  Om du använder Unicode API:er på låg nivå för "
 "att konstruera och komma åt Unicode-objekt och du vill dra nytta av den "
 "minskning av minnesavtrycket som :pep:`393` ger, måste du konvertera din kod "
-"till den nya :doc:`Unicode API &lt;../c-api/unicode&gt;`."
+"till den nya :doc:`Unicode API <../c-api/unicode>`."
 
 msgid ""
 "However, if you only have been using high-level functions such as :c:func:"

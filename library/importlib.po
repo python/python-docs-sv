@@ -125,7 +125,7 @@ msgid "Defining Python Source Code Encodings"
 msgstr "Definiera kodning av Python-källkod"
 
 msgid ":pep:`302`"
-msgstr ":pep:`302``"
+msgstr ":pep:`302`"
 
 msgid "New Import Hooks"
 msgstr "Hooks för ny import"

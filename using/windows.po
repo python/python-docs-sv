@@ -444,7 +444,7 @@ msgid ""
 "$> py list [-f=|--format=<FMT>] [-1|--one] [--online|-s=|--source=<URL>] "
 "[<TAG>...]"
 msgstr ""
-"$&gt; py list [-f=|--format=<FMT>] [-1|--one] [--online|-s=|--source=<URL>] "
+"$> py list [-f=|--format=<FMT>] [-1|--one] [--online|-s=|--source=<URL>] "
 "[<TAG>...]"
 
 msgid ""
@@ -526,7 +526,7 @@ msgid ""
 "$> py install [-s=|--source=<URL>] [-f|--force] [-u|--update] [--dry-run] "
 "[<TAG>...]"
 msgstr ""
-"$&gt; py install [-s=|--source=<URL>] [-f|--force] [-u|--update] [--dry-run] "
+"$> py install [-s=|--source=<URL>] [-f|--force] [-u|--update] [--dry-run] "
 "[<TAG>...]"
 
 msgid ""
@@ -588,7 +588,7 @@ msgstr ""
 "applikationer."
 
 msgid "$> py install ... [-t=|--target=<PATH>] <TAG>"
-msgstr "$&gt; py installera ... [-t=|--target=<PATH>] <TAG>"
+msgstr "$> py install ... [-t=|--target=<PATH>] <TAG>"
 
 msgid "Offline Installs"
 msgstr "Offline-installationer"
@@ -601,7 +601,7 @@ msgstr ""
 "offlineindex på en maskin som har nätverksåtkomst."
 
 msgid "$> py install --download=<PATH> ... <TAG>..."
-msgstr "$&gt; py install --download=<PATH>... <TAG>..."
+msgstr "$> py install --download=<PATH> ... <TAG>..."
 
 msgid ""
 "The ``--download=<PATH>`` option will download the packages for the listed "
@@ -616,7 +616,7 @@ msgstr ""
 "medföljande körtiderna:"
 
 msgid "$> py install --source=\"<PATH>\\index.json\" <TAG>..."
-msgstr "$&gt; py install --source=\"<PATH>\\index.json\" <TAG>..."
+msgstr "$> py install --source=\"<PATH>\\index.json\" <TAG>..."
 
 msgid ""
 "The Python install manager can be installed by downloading its installer and "
@@ -652,7 +652,7 @@ msgid "Uninstalling Runtimes"
 msgstr "Avinstallation av Runtimes"
 
 msgid "$> py uninstall [-y|--yes] <TAG>..."
-msgstr "$&gt; py avinstallera [-y|--yes] <TAG>..."
+msgstr "$> py uninstall [-y|--yes] <TAG>..."
 
 msgid ""
 "Runtimes may be removed using the ``py uninstall`` command. One or more tags "
