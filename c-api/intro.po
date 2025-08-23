@@ -324,7 +324,7 @@ msgid "Usage::"
 msgstr "Användning::"
 
 msgid "Py_NO_INLINE static int random(void) { return 4; }"
-msgstr "Py_NO_INLINE statisk int random(void) { return 4; }"
+msgstr "Py_NO_INLINE static int random(void) { return 4; }"
 
 msgid ""
 "Convert ``x`` to a C string.  E.g. ``Py_STRINGIFY(123)`` returns ``\"123\"``."
