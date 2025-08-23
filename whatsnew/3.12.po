@@ -5348,7 +5348,7 @@ msgid ""
 "(:pep:`699`; :gh:`101193`)."
 msgstr ""
 "Fältet ``ma_version_tag`` i :c:type:`PyDictObject` för tilläggsmoduler (:pep:"
-"`699`; :gh:`101193``)."
+"`699`; :gh:`101193`)."
 
 msgid ""
 "Creating :c:data:`immutable types <Py_TPFLAGS_IMMUTABLETYPE>` with mutable "
