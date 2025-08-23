@@ -862,40 +862,40 @@ msgstr ""
 "bör endast nås via namn och inte via index.  Attributen är skrivskyddade."
 
 msgid ":option:`-d`"
-msgstr ":alternativ:`-d`"
+msgstr ":option:`-d`"
 
 msgid ":option:`-i`"
-msgstr ":alternativ:`-i`"
+msgstr ":option:`-i`"
 
 msgid ":option:`-I`"
-msgstr ":alternativ:`-I`"
+msgstr ":option:`-I`"
 
 msgid ":option:`-O` or :option:`-OO`"
 msgstr ":option:`-O` eller :option:`-OO`"
 
 msgid ":option:`-B`"
-msgstr ":alternativ:`-B`"
+msgstr ":option:`-B`"
 
 msgid ":option:`-s`"
-msgstr ":alternativ:`-s`"
+msgstr ":option:`-s`"
 
 msgid ":option:`-S`"
-msgstr ":alternativ:`-S`"
+msgstr ":option:`-S`"
 
 msgid ":option:`-E`"
-msgstr ":alternativ:`-E`"
+msgstr ":option:`-E`"
 
 msgid ":option:`-v`"
-msgstr ":alternativ:`-v`"
+msgstr ":option:`-v`"
 
 msgid ":option:`-b`"
-msgstr ":alternativ:`-b`"
+msgstr ":option:`-b`"
 
 msgid ":option:`-q`"
-msgstr ":alternativ:`-q`"
+msgstr ":option:`-q`"
 
 msgid ":option:`-R`"
-msgstr ":alternativ:`-R`"
+msgstr ":option:`-R`"
 
 msgid ":option:`-X dev <-X>` (:ref:`Python Development Mode <devmode>`)"
 msgstr ":option:`-X dev <-X>` (:ref:`Python Development Mode <devmode>` )"
@@ -904,7 +904,7 @@ msgid ":option:`-X utf8 <-X>`"
 msgstr ":option:`-X utf8 <-X>`"
 
 msgid ":option:`-P`"
-msgstr ":alternativ:`-P`"
+msgstr ":option:`-P`"
 
 msgid ""
 ":option:`-X int_max_str_digits <-X>` (:ref:`integer string conversion length "

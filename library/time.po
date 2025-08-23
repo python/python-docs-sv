@@ -1140,7 +1140,7 @@ msgid ""
 msgstr ""
 "Returnerar tiden i sekunder sedan epoch_ som ett flyttal. Hanteringen av "
 "`leap seconds`_ är plattformsberoende. På Windows och de flesta Unix-system "
-"räknas inte skottsekunderna in i tiden i sekunder sedan epok_. Detta kallas "
+"räknas inte skottsekunderna in i tiden i sekunder sedan epoch_. Detta kallas "
 "vanligen för `Unix-tid <https://en.wikipedia.org/wiki/Unix_time>`_."
 
 msgid ""
