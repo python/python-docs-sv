@@ -606,7 +606,7 @@ msgid ":class:`c_longdouble`"
 msgstr ":class:`c_longdouble`"
 
 msgid ":c:expr:`long double`"
-msgstr ":c:expr:`lång dubbel`"
+msgstr ":c:expr:`long double`"
 
 msgid ":class:`c_char_p`"
 msgstr ":class:`c_char_p`"
@@ -665,7 +665,7 @@ msgid ":class:`c_longdouble_complex`"
 msgstr ":class:`c_longdouble_complex`"
 
 msgid ":c:expr:`long double complex`"
-msgstr ":c:expr:`lång dubbel komplex`"
+msgstr ":c:expr:`long double complex`"
 
 msgid ""
 "All these types can be created by calling them with an optional initializer "

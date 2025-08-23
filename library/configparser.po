@@ -2470,7 +2470,7 @@ msgid ""
 msgstr ""
 "Config-parsers tillåter omfattande anpassningar.  Om du är intresserad av "
 "att ändra det beteende som beskrivs i fotnotens referens, se avsnittet "
-"\"Anpassa parserbeteendet\"."
+"`Customizing Parser Behaviour`_."
 
 msgid ".ini"
 msgstr ".ini"
