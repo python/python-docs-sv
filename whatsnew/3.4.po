@@ -4625,7 +4625,7 @@ msgstr ""
 "en sträng som allokerats av :c:func:`PyMem_RawMalloc` eller :c:func:"
 "`PyMem_RawRealloc`, eller ``NULL`` om ett fel inträffade, istället för en "
 "sträng som allokerats av :c:func:`PyMem_Malloc` eller :c:func:"
-"`PyMem_Realloc` (:issue:`16742``)"
+"`PyMem_Realloc` (:issue:`16742`)"
 
 msgid ""
 ":c:func:`PyThread_set_key_value` now always set the value. In Python 3.3, "
