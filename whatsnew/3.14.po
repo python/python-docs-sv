@@ -2655,7 +2655,7 @@ msgid ""
 "term:`generic type`. (Contributed by Brian Schubert in :gh:`132168`.)"
 msgstr ""
 "Typen :class:`ctypes.py_object` har nu stöd för prenumeration, vilket gör "
-"den till en :term:`generisk typ`. (Bidrag från Brian Schubert i :gh:"
+"den till en :term:`generic type`. (Bidrag från Brian Schubert i :gh:"
 "`132168`.)"
 
 msgid ""
