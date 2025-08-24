@@ -111,7 +111,7 @@ msgstr ""
 "standard men som används ofta."
 
 msgid "Added support for *url* being a :term:`path-like object`."
-msgstr "Lagt till stöd för att *url* är ett :term:`path-liknande objekt`."
+msgstr "Lagt till stöd för att *url* är ett :term:`path-like object`."
 
 msgid ""
 "Passing a file path instead of URL is :term:`soft deprecated`. Use :func:"

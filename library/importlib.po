@@ -1844,7 +1844,7 @@ msgstr ""
 "tagits bort."
 
 msgid "Accepts a :term:`path-like object`."
-msgstr "Accepterar en :term:`path-liknande objekt`."
+msgstr "Accepterar en :term:`path-like object`."
 
 msgid ""
 "Given the *path* to a :pep:`3147` file name, return the associated source "

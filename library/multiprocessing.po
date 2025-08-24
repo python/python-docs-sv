@@ -2155,7 +2155,7 @@ msgid "Now supported on POSIX when the ``'spawn'`` start method is used."
 msgstr "Stödjs nu på POSIX när startmetoden ``'spawn'`` används."
 
 msgid "Accepts a :term:`path-like object`."
-msgstr "Accepterar en :term:`path-liknande objekt`."
+msgstr "Accepterar en :term:`path-like object`."
 
 msgid ""
 "Set a list of module names for the forkserver main process to attempt to "

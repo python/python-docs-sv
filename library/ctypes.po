@@ -2984,7 +2984,7 @@ msgstr ""
 "och spårningsverktyg."
 
 msgid "The *name* parameter can now be a :term:`path-like object`."
-msgstr "Parametern *namn* kan nu vara en :term:`path-liknande objekt`."
+msgstr "Parametern *namn* kan nu vara en :term:`path-like object`."
 
 msgid ""
 "`Microsoft DUMPBIN tool <https://docs.microsoft.com/cpp/build/reference/"

@@ -125,7 +125,7 @@ msgid "Added support for the ``'x'``, ``'xb'`` and ``'xt'`` modes."
 msgstr "Lagt till stöd för lägena ``'x'``, ``'xb'`` och ``'xt'``."
 
 msgid "Accepts a :term:`path-like object`."
-msgstr "Accepterar en :term:`path-liknande objekt`."
+msgstr "Accepterar en :term:`path-like object`."
 
 msgid ""
 "An exception raised for invalid gzip files.  It inherits from :exc:"

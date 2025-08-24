@@ -1233,7 +1233,7 @@ msgstr ""
 "variabel som refereras av *result* och returnerar ``1``."
 
 msgid "Accepts a :term:`path-like object`."
-msgstr "Accepterar en :term:`path-liknande objekt`."
+msgstr "Accepterar en :term:`path-like object`."
 
 msgid ""
 "To decode file names to :class:`str` during argument parsing, the ``\"O&\"`` "

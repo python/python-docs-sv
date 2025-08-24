@@ -403,7 +403,7 @@ msgid "The ``'x'`` (exclusive creation) mode was added."
 msgstr "Läget ``'x'`` (exklusivt skapande) lades till."
 
 msgid "The *name* parameter accepts a :term:`path-like object`."
-msgstr "Parametern *namn* accepterar en :term:`path-liknande objekt`."
+msgstr "Parametern *name* accepterar en :term:`path-like object`."
 
 msgid "The *compresslevel* keyword argument also works for streams."
 msgstr "Nyckelordsargumentet *compresslevel* fungerar också för strömmar."

@@ -1071,7 +1071,7 @@ msgstr ""
 "False"
 
 msgid "The *pattern* parameter accepts a :term:`path-like object`."
-msgstr "Parametern *mönster* accepterar en :term:`path-liknande objekt`."
+msgstr "Parametern *pattern* accepterar en :term:`path-like object`."
 
 msgid "The *case_sensitive* parameter was added."
 msgstr "Parametern *case_sensitive* har lagts till."

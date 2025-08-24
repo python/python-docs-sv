@@ -1659,7 +1659,7 @@ msgstr ""
 "förklaringen)."
 
 msgid "Accepts a :term:`path-like object`."
-msgstr "Accepterar en :term:`path-liknande objekt`."
+msgstr "Accepterar en :term:`path-like object`."
 
 msgid ""
 "The following constants are options for the *flags* parameter to the :func:"
@@ -2783,7 +2783,7 @@ msgstr ""
 "tillägg till numeriska id:n."
 
 msgid "Supports a :term:`path-like object`."
-msgstr "Stöder en :term:`path-liknande objekt`."
+msgstr "Stöder en :term:`path-like object`."
 
 msgid "Change the root directory of the current process to *path*."
 msgstr "Ändra rotkatalogen för den aktuella processen till *path*."
@@ -3458,7 +3458,7 @@ msgstr ""
 "filen."
 
 msgid "Accepts a :term:`path-like object` for *old* and *new*."
-msgstr "Accepterar en :term:`path-liknande objekt` för *gammal* och *ny*."
+msgstr "Accepterar en :term:`path-like object` för *old* och *new*."
 
 msgid ""
 "Rename the file or directory *src* to *dst*.  If *dst* is a non-empty "
@@ -3614,7 +3614,7 @@ msgstr ""
 "destruktor."
 
 msgid "The function accepts a :term:`path-like object`."
-msgstr "Funktionen accepterar en :term:`path-liknande objekt`."
+msgstr "Funktionen accepterar en :term:`path-like object`."
 
 msgid "Added support for :ref:`file descriptors <path_fd>` on Unix."
 msgstr "Lagt till stöd för :ref:`file descriptors <path_fd>` på Unix."
