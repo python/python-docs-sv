@@ -1985,7 +1985,7 @@ msgid ""
 "__fspath__` method which just returns the *path* argument.  If *path* is an "
 "exception, it will be raised in :meth:`!__fspath__`."
 msgstr ""
-"Enkelt :term:`path-liknande objekt`.  Det implementerar metoden :meth:`~os."
+"Enkelt :term:`path-like object`.  Det implementerar metoden :meth:`~os."
 "PathLike.__fspath__` som bara returnerar argumentet *path*.  Om *path* är "
 "ett undantag kommer det att tas upp i :meth:`!__fspath__`."
 

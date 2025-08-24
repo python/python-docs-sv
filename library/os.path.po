@@ -493,8 +493,7 @@ msgstr ""
 "\\foo`."
 
 msgid "Accepts a :term:`path-like object` for *path* and *paths*."
-msgstr ""
-"Accepterar en :term:`sökvägsliknande objekt` för *sökväg* och *sökvägar*."
+msgstr "Accepterar en :term:`path-like object` för *path* och *paths*."
 
 msgid ""
 "Normalize the case of a pathname.  On Windows, convert all characters in the "

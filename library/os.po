@@ -5434,8 +5434,7 @@ msgstr ""
 "``path``, ``attribute``."
 
 msgid "Accepts a :term:`path-like object` for *path* and *attribute*."
-msgstr ""
-"Accepterar en :term:`sökvägsliknande objekt` för *sökväg* och *attribut*."
+msgstr "Accepterar en :term:`path-like object` för *path* och *attribute*."
 
 msgid ""
 "Return a list of the extended filesystem attributes on *path*.  The "

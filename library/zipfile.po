@@ -226,7 +226,7 @@ msgid ""
 "like object or a :term:`path-like object`."
 msgstr ""
 "Öppna en ZIP-fil, där *fil* kan vara en sökväg till en fil (en sträng), ett "
-"filliknande objekt eller en :term:`sökvägsliknande objekt`."
+"filliknande objekt eller en :term:`path-like object`."
 
 msgid ""
 "The *mode* parameter should be ``'r'`` to read an existing file, ``'w'`` to "
@@ -396,7 +396,7 @@ msgstr ""
 "komprimeringsvärden."
 
 msgid "The *file* parameter accepts a :term:`path-like object`."
-msgstr "Parametern *file* accepterar en :term:`path-liknande objekt`."
+msgstr "Parametern *file* accepterar en :term:`path-like object`."
 
 msgid "Add the *compresslevel* parameter."
 msgstr "Lägg till parametern *compresslevel*."
@@ -597,7 +597,7 @@ msgstr ""
 "`ValueError`.  Tidigare gavs ett :exc:`RuntimeError`."
 
 msgid "The *path* parameter accepts a :term:`path-like object`."
-msgstr "Parametern *sökväg* accepterar en :term:`sökvägsliknande objekt`."
+msgstr "Parametern *path* accepterar en :term:`path-like object`."
 
 msgid ""
 "Extract all members from the archive to the current working directory.  "
@@ -1165,7 +1165,7 @@ msgstr ""
 "eventuella enhetsbeteckningar och inledande sökvägsavgränsare borttagna."
 
 msgid "The *filename* parameter accepts a :term:`path-like object`."
-msgstr "Parametern *filnamn* accepterar en :term:`path-liknande objekt`."
+msgstr "Parametern *filename* accepterar en :term:`path-like object`."
 
 msgid "Added the *strict_timestamps* keyword-only parameter."
 msgstr "Parametern *strict_timestamps* (endast nyckelord) har lagts till."
