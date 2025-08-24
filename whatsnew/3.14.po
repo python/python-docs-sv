@@ -5999,7 +5999,7 @@ msgid ":c:func:`PyLong_FromInt32`"
 msgstr ":c:func:`PyLong_FromInt32`"
 
 msgid ":c:func:`PyLong_FromInt64`"
-msgstr ":c:func:`PyLong_FrånInt64`"
+msgstr ":c:func:`PyLong_FromInt64`"
 
 msgid ":c:func:`PyLong_FromUInt32`"
 msgstr ":c:func:`PyLong_FromUInt32`"

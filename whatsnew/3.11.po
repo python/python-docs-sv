@@ -4509,7 +4509,7 @@ msgstr ""
 "istället; det kan vara snabbare."
 
 msgid "``f_lineno``: use :c:func:`PyFrame_GetLineNumber`"
-msgstr "``f_lineno``: Använd :c:func:`PyFrame_GetLineNumber``"
+msgstr "``f_lineno``: använd :c:func:`PyFrame_GetLineNumber`"
 
 msgid "``f_locals``: use :c:func:`PyFrame_GetLocals`."
 msgstr "``f_locals``: använd :c:func:`PyFrame_GetLocals`."

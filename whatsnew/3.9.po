@@ -1988,7 +1988,7 @@ msgid ""
 msgstr ""
 "Parametern *buffring* i :class:`bz2.BZ2File` har tagits bort. Sedan Python "
 "3.0 ignorerades den och att använda den gav en :exc:`DeprecationWarning`. "
-"Skicka ett open file-objekt för att kontrollera hur filen öppnas. (Bidrag "
+"Skicka ett open file object för att kontrollera hur filen öppnas. (Bidrag "
 "från Victor Stinner i :issue:`39357`.)"
 
 msgid ""

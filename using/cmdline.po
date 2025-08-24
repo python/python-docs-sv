@@ -1564,7 +1564,7 @@ msgid ""
 "allocators>`."
 msgstr ""
 "``default``: använd :ref:`standardminnesallokatorer <default-memory-"
-"allocators>``."
+"allocators>`."
 
 msgid ""
 "``malloc``: use the :c:func:`malloc` function of the C library for all "

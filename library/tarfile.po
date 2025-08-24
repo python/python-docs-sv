@@ -416,7 +416,7 @@ msgid ""
 "use :func:`tarfile.open` instead. See :ref:`tarfile-objects`."
 msgstr ""
 "Klass för att läsa och skriva tar-arkiv. Använd inte denna klass direkt: "
-"använd :func:`tarfile.open` istället. Se :ref:`tarfile-objekt`."
+"använd :func:`tarfile.open` istället. Se :ref:`tarfile-objects`."
 
 msgid ""
 "Return :const:`True` if *name* is a tar archive file, that the :mod:"

@@ -8071,7 +8071,7 @@ msgid ""
 "`open` to be used as the context expression in a :keyword:`with` statement."
 msgstr ""
 "Ett exempel på en kontexthanterare som returnerar sig själv är ett :term:"
-"`file-objekt`. Filobjekt returnerar sig själva från __enter__() så att :func:"
+"`file object`. Filobjekt returnerar sig själva från __enter__() så att :func:"
 "`open` kan användas som kontextuttryck i en :keyword:`with`-sats."
 
 msgid ""

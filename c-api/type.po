@@ -333,7 +333,7 @@ msgid ""
 "limited to :ref:`heap types <heap-types>`."
 msgstr ""
 ":c:func:`PyType_GetSlot` kan nu acceptera alla typer. Tidigare var det "
-"begränsat till :ref:`heap types <heap-types>``."
+"begränsat till :ref:`heap types <heap-types>`."
 
 msgid ""
 "Return the module object associated with the given type when the type was "

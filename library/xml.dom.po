@@ -294,7 +294,7 @@ msgid ":class:`DOMImplementation`"
 msgstr ":class:`DOMImplementation`"
 
 msgid ":ref:`dom-implementation-objects`"
-msgstr ":ref:`dom-implementation-objekt`"
+msgstr ":ref:`dom-implementation-objects`"
 
 msgid "Interface to the underlying implementation."
 msgstr "Gränssnitt till den underliggande implementationen."
@@ -303,7 +303,7 @@ msgid ":class:`Node`"
 msgstr ":class:`Node`"
 
 msgid ":ref:`dom-node-objects`"
-msgstr ":ref:`dom-nod-objekt`"
+msgstr ":ref:`dom-node-objects`"
 
 msgid "Base interface for most objects in a document."
 msgstr "Basgränssnitt för de flesta objekt i ett dokument."
@@ -331,7 +331,7 @@ msgid ":class:`Document`"
 msgstr ":class:`Dokument`"
 
 msgid ":ref:`dom-document-objects`"
-msgstr ":ref:`dom-document-objekt`"
+msgstr ":ref:`dom-document-objects`"
 
 msgid "Object which represents an entire document."
 msgstr "Objekt som representerar ett helt dokument."
@@ -340,7 +340,7 @@ msgid ":class:`Element`"
 msgstr ":class:`Element`"
 
 msgid ":ref:`dom-element-objects`"
-msgstr ":ref:`dom-element-objekt`"
+msgstr ":ref:`dom-element-objects`"
 
 msgid "Element nodes in the document hierarchy."
 msgstr "Elementnoder i dokumenthierarkin."
@@ -349,7 +349,7 @@ msgid ":class:`Attr`"
 msgstr ":class:`Attr`"
 
 msgid ":ref:`dom-attr-objects`"
-msgstr ":ref:`dom-attr-objekt`"
+msgstr ":ref:`dom-attr-objects`"
 
 msgid "Attribute value nodes on element nodes."
 msgstr "Attributvärdesnoder på elementnoder."
@@ -358,7 +358,7 @@ msgid ":class:`Comment`"
 msgstr ":class:`Kommentar`"
 
 msgid ":ref:`dom-comment-objects`"
-msgstr ":ref:`dom-kommentator-objekt`"
+msgstr ":ref:`dom-comment-objects`"
 
 msgid "Representation of comments in the source document."
 msgstr "Representation av kommentarer i källdokumentet."
@@ -367,7 +367,7 @@ msgid ":class:`Text`"
 msgstr ":class:`Text`"
 
 msgid ":ref:`dom-text-objects`"
-msgstr ":ref:`dom-text-objekt`"
+msgstr ":ref:`dom-text-objects`"
 
 msgid "Nodes containing textual content from the document."
 msgstr "Noder som innehåller textinnehåll från dokumentet."
@@ -376,7 +376,7 @@ msgid ":class:`ProcessingInstruction`"
 msgstr ":class:`Bearbetningsinstruktion`"
 
 msgid ":ref:`dom-pi-objects`"
-msgstr ":ref:`dom-pi-objekt`"
+msgstr ":ref:`dom-pi-objects`"
 
 msgid "Processing instruction representation."
 msgstr "Representation av bearbetningsinstruktioner."

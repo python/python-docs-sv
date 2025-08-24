@@ -1114,7 +1114,7 @@ msgid ":ref:`capture-patterns`"
 msgstr ":ref:`fångstmönster`"
 
 msgid ":ref:`wildcard-patterns`"
-msgstr ":ref:`wildcard-mönster`"
+msgstr ":ref:`wildcard-patterns`"
 
 msgid "parenthesized irrefutable patterns"
 msgstr "parentes ovedersägliga mönster"
