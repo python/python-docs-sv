@@ -1390,7 +1390,7 @@ msgid ""
 "Useful when the object is created by a call to an object constructor in the "
 "argument list."
 msgstr ""
-"Samma som ``O``, förutom att det inte skapar en ny :term:`strong referens`. "
+"Samma som ``O``, förutom att det inte skapar en ny :term:`strong reference`. "
 "Användbart när objektet skapas genom ett anrop till en objektkonstruktör i "
 "argumentlistan."
 

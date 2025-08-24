@@ -136,7 +136,7 @@ msgid ""
 "Return a :term:`strong reference` to the module on success. Return ``NULL`` "
 "with an exception set on failure."
 msgstr ""
-"Returnerar en :term:`strong-referens` till modulen vid framgång. Returnerar "
+"Returnerar en :term:`strong reference` till modulen vid framgång. Returnerar "
 "``NULL`` med en undantagsuppsättning vid misslyckande."
 
 msgid "The module name *name* is decoded from UTF-8."

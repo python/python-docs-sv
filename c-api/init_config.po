@@ -138,7 +138,7 @@ msgid ""
 "<init-isolated-conf>` default values."
 msgstr ""
 "Skapa en ny initieringskonfiguration med hjälp av :ref:`Isolated "
-"Configuration <init-isolated-conf>`` standardvärden."
+"Configuration <init-isolated-conf>` standardvärden."
 
 msgid "It must be freed by :c:func:`PyInitConfig_Free`."
 msgstr "Den måste frigöras genom :c:func:`PyInitConfig_Free`."
@@ -589,7 +589,7 @@ msgid "``\"optimization_level\"``"
 msgstr "``\"optimization_level\"``"
 
 msgid ":c:member:`optimization_level <PyConfig.optimization_level>`"
-msgstr ":c:member:`optimering_nivå <PyConfig.optimering_nivå>`"
+msgstr ":c:member:`optimization_level <PyConfig.optimization_level>`"
 
 msgid "``\"orig_argv\"``"
 msgstr "``\"orig_argv\"``"
@@ -3171,7 +3171,7 @@ msgid ":c:member:`PyConfig.exec_prefix`"
 msgstr ":c:member:`PyConfig.exec_prefix`"
 
 msgid ":c:member:`PyConfig.executable`"
-msgstr ":c:member:`PyConfig.körbar`"
+msgstr ":c:member:`PyConfig.executable`"
 
 msgid ""
 ":c:member:`PyConfig.module_search_paths_set`, :c:member:`PyConfig."

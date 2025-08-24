@@ -289,7 +289,7 @@ msgid ""
 "replacements that return :term:`strong references <strong reference>`."
 msgstr ""
 "I följande tabell listas några API:er för lånade referenser och deras "
-"ersättare som returnerar :term:`strong referenser <strong reference>`."
+"ersättare som returnerar :term:`strong references <strong reference>`."
 
 msgid "Borrowed reference API"
 msgstr "Lånad referens API"

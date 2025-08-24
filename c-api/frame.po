@@ -106,7 +106,7 @@ msgstr ""
 "något undantag, även om returvärdet är ``NULL``."
 
 msgid "Return a :term:`strong reference`, or ``NULL``."
-msgstr "Returnerar en :term:`strong referens`, eller ``NULL``."
+msgstr "Returnerar en :term:`strong reference`, eller ``NULL``."
 
 msgid "Get the *frame*'s :attr:`~frame.f_globals` attribute."
 msgstr "Hämta *frame*:s :attr:`~frame.f_globals`-attribut."
@@ -122,7 +122,7 @@ msgstr "Hämta variabeln *namn* för *frame*."
 
 msgid "Return a :term:`strong reference` to the variable value on success."
 msgstr ""
-"Returnerar en :term:`strong referens` till variabelvärdet vid framgång."
+"Returnerar en :term:`strong reference` till variabelvärdet vid framgång."
 
 msgid ""
 "Raise :exc:`NameError` and return ``NULL`` if the variable does not exist."
@@ -199,7 +199,7 @@ msgid "The interpreter's internal frame representation."
 msgstr "Tolkens interna ramrepresentation."
 
 msgid "Return a :term:`strong reference` to the code object for the frame."
-msgstr "Returnera en :term:`strong referens` till kodobjektet för ramen."
+msgstr "Returnera en :term:`strong reference` till kodobjektet för ramen."
 
 msgid "Return the byte offset into the last executed instruction."
 msgstr "Returnerar byte-offset i den senast utförda instruktionen."

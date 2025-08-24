@@ -144,7 +144,7 @@ msgid ""
 "Create a new :term:`strong reference` to an object: call :c:func:`Py_INCREF` "
 "on *o* and return the object *o*."
 msgstr ""
-"Skapa en ny :term:`strong referens` till ett objekt: anropa :c:func:"
+"Skapa en ny :term:`strong reference` till ett objekt: anropa :c:func:"
 "`Py_INCREF` på *o* och returnera objektet *o*."
 
 msgid ""
