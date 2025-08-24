@@ -1059,7 +1059,7 @@ msgid ""
 "to :func:`functools.partial` objects."
 msgstr ""
 "Accepterar ett brett utbud av Python-kallbara, från vanliga funktioner och "
-"klasser till :func:`functools.partial`-objekt."
+"klasser till :func:`functools.partial`\\-objekt."
 
 msgid ""
 "If some of the annotations are strings (e.g., because ``from __future__ "

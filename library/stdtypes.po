@@ -8244,7 +8244,7 @@ msgstr ""
 "För en klass som definierar :meth:`~object.__class_getitem__` men som inte "
 "är en container, kommer argumenten till en prenumeration av klassen ofta att "
 "ange returtypen/returtyperna för en eller flera metoder som definieras på "
-"ett objekt. Exempelvis kan :mod:`reguljära uttryck <re>` användas på både "
+"ett objekt. Exempelvis kan :mod:`regular expressions <re>` användas på både "
 "datatypen :class:`str` och :class:`bytes`:"
 
 msgid ""
