@@ -712,7 +712,7 @@ msgstr ""
 "`131591`.)"
 
 msgid ":pep:`768`."
-msgstr ":pep:`768``."
+msgstr ":pep:`768`."
 
 msgid "PEP 784: Adding Zstandard to the standard library"
 msgstr "PEP 784: Lägga till Zstandard i standardbiblioteket"
@@ -794,7 +794,7 @@ msgstr ""
 "Victor Stinner och Rogdham i :gh:`132983`.)"
 
 msgid ":pep:`784`."
-msgstr ":pep:`784``."
+msgstr ":pep:`784`."
 
 msgid "Remote attaching to a running Python process with PDB"
 msgstr "Fjärrkoppling till en Python-process som körs med PDB"
@@ -1961,7 +1961,7 @@ msgstr ""
 "stöter på!"
 
 msgid ":pep:`744`"
-msgstr ":pep:`744``"
+msgstr ":pep:`744`"
 
 msgid "Concurrent safe warnings control"
 msgstr "Kontroll av samtidiga säkra varningar"

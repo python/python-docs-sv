@@ -2492,11 +2492,11 @@ msgid ""
 "The object's index in the globals/builtins namespace is cached. Loading "
 "globals and builtins require zero namespace lookups."
 msgstr ""
-"Objektets index i namnrymden globals/builtins är cachat. Laddning av "
+"Objektets index i namnrymdens globals/builtins är cachat. Inläsning av "
 "globaler och builtins kräver inga namnrymdsuppslagningar."
 
 msgid "[#load-global]_"
-msgstr "[#load-global] _ _"
+msgstr "[#load-global]_"
 
 msgid "Mark Shannon"
 msgstr "Mark Shannon"
@@ -4445,7 +4445,7 @@ msgid ":c:func:`PyFrame_GetLocals`"
 msgstr ":c:func:`PyFrame_GetLocals`"
 
 msgid ":c:type:`PyFrame_Type`"
-msgstr ":c:typ:`PyFrame_Type`"
+msgstr ":c:type:`PyFrame_Type`"
 
 msgid "(Contributed by Victor Stinner in :gh:`93937`.)"
 msgstr "(Bidrag från Victor Stinner i :gh:`93937`.)"
