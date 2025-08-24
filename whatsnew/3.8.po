@@ -702,7 +702,7 @@ msgid ""
 "expressions <re>`::"
 msgstr ""
 "Lagt till stöd för :samp:`\\\\N\\\\{{name}\\\\}` escapes i :mod:`regular "
-"expressions <re>`::"
+"expressions<re>`::"
 
 msgid ""
 ">>> notice = 'Copyright © 2019'\n"
