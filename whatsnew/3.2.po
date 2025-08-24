@@ -4745,7 +4745,7 @@ msgid ""
 "specific suffix on ``make altinstall`` (:issue:`10679`)."
 msgstr ""
 "Skripten *idle*, *pydoc* och *2to3* installeras nu med ett versionsspecifikt "
-"suffix på ``make altinstall`` (:issue:`10679``)."
+"suffix på ``make altinstall`` (:issue:`10679`)."
 
 msgid ""
 "The C functions that access the Unicode Database now accept and return "
