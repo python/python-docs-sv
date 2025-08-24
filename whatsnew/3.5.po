@@ -747,7 +747,7 @@ msgstr ""
 "alla typer."
 
 msgid ":mod:`typing` module documentation"
-msgstr ":mod:`typing` dokumentation för modul"
+msgstr "Dokumentation för modulen :mod:`typing`"
 
 msgid ":pep:`484` -- Type Hints"
 msgstr ":pep:`484` -- Tips om typ"

@@ -2027,7 +2027,7 @@ msgstr ""
 "[(4, 'four'), (1, 'one'), (3, 'three'), (2, 'two')]"
 
 msgid "Documentation Strings"
-msgstr "Dokumentation Strängar"
+msgstr "Dokumentationssträngar"
 
 msgid ""
 "Here are some conventions about the content and formatting of documentation "
@@ -2286,7 +2286,7 @@ msgid "for"
 msgstr "för"
 
 msgid "documentation strings"
-msgstr "dokumentation strängar"
+msgstr "dokumentationssträngar"
 
 msgid "docstrings"
 msgstr "dokumentsträngar"

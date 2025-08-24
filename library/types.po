@@ -379,7 +379,7 @@ msgstr ""
 "ska skapas och eventuellt dess :term:`docstring`."
 
 msgid ":ref:`Documentation on module objects <module-objects>`"
-msgstr ":ref:`Dokumentation om modulobjekt <module-objects>`"
+msgstr ":ref:`Dokumentation för modulobjekt <module-objects>`"
 
 msgid ""
 "Provides details on the special attributes that can be found on instances "

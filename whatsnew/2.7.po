@@ -792,7 +792,7 @@ msgstr ""
 "förstår att ``'-'`` betyder standardinmatning eller -utmatning."
 
 msgid ":mod:`argparse` documentation"
-msgstr ":mod:`argparse` dokumentation"
+msgstr "Dokumentation för :mod:`argparse`"
 
 msgid "The documentation page of the argparse module."
 msgstr "Dokumentationssidan för modulen argparse."
@@ -5005,7 +5005,7 @@ msgstr ""
 "hjälp av systempakethanteraren)."
 
 msgid "Documentation Changes"
-msgstr "Förändringar i dokumentation"
+msgstr "Förändringar i dokumentationen"
 
 msgid ""
 "As part of this change, the :ref:`installing-index` and :ref:`distributing-"

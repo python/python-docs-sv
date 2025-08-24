@@ -1557,7 +1557,7 @@ msgid ":keyword:`!type` is a :ref:`soft keyword <soft-keywords>`."
 msgstr ":keyword:`!type` är ett :ref:`mjukt nyckelord <soft-keywords>`."
 
 msgid ":pep:`695` - Type Parameter Syntax"
-msgstr ":pep:`695` - Typ Parameter Syntax"
+msgstr ":pep:`695` - Syntax för typparameter"
 
 msgid ""
 "Introduced the :keyword:`!type` statement and syntax for generic classes and "

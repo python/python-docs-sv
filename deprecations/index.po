@@ -24,7 +24,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Deprecations"
-msgstr "Avskrivningar"
+msgstr "Utfasningar"
 
 msgid "Pending removal in Python 3.15"
 msgstr "Väntar på borttagning i Python 3.15"
@@ -833,7 +833,7 @@ msgstr ""
 "_clear_internal_caches` istället."
 
 msgid "C API deprecations"
-msgstr "C API-avskrivningar"
+msgstr "C API-utfasningar"
 
 msgid ""
 "The :c:func:`PyImport_ImportModuleNoBlock`: Use :c:func:"

@@ -158,7 +158,7 @@ msgstr "Förbättringar av dokumentationen:"
 
 msgid ":ref:`PEP 545 <whatsnew37-pep545>`, Python documentation translations"
 msgstr ""
-":ref:`PEP 545 <whatsnew37-pep545>`, Översättningar av Python-dokumentation"
+":ref:`PEP 545 <whatsnew37-pep545>`, Översättningar av Python-dokumentationen"
 
 msgid ""
 "New documentation translations: `Japanese <https://docs.python.org/ja/>`_, "
@@ -763,14 +763,14 @@ msgid "PEP written and implemented by Benjamin Peterson"
 msgstr "PEP skrivet och implementerat av Benjamin Peterson"
 
 msgid "PEP 545: Python Documentation Translations"
-msgstr "PEP 545: Översättning av Python-dokumentation"
+msgstr "PEP 545: Översättning av Python-dokumentationen"
 
 msgid ""
 ":pep:`545` describes the process of creating and maintaining Python "
 "documentation translations."
 msgstr ""
 ":pep:`545` beskriver processen för att skapa och underhålla översättningar "
-"av Python-dokumentation."
+"av Python-dokumentationen."
 
 msgid "Three new translations have been added:"
 msgstr "Tre nya översättningar har lagts till:"
@@ -785,7 +785,7 @@ msgid "Korean: https://docs.python.org/ko/"
 msgstr "Koreanska: https://docs.python.org/ko/"
 
 msgid ":pep:`545` -- Python Documentation Translations"
-msgstr ":pep:`545` -- Översättningar av Python-dokumentation"
+msgstr ":pep:`545` -- Översättningar av Python-dokumentationen"
 
 msgid ""
 "PEP written and implemented by Julien Palard, Inada Naoki, and Victor "

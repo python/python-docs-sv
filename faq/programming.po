@@ -56,7 +56,7 @@ msgid ""
 msgstr ""
 "Modulen pdb är en enkel men adekvat felsökare i konsolläge för Python. Den "
 "är en del av Pythons standardbibliotek och :mod:`dokumenteras i Library "
-"Reference Manual <pdb>`. Du kan också skriva din egen avlusare genom att "
+"Reference Manual <pdb>`. Du kan också skriva din egen felsökare genom att "
 "använda koden för pdb som ett exempel."
 
 msgid ""

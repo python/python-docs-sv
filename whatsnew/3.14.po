@@ -579,7 +579,7 @@ msgid ":pep:`750`."
 msgstr ":pep:`750`."
 
 msgid "PEP 768: Safe external debugger interface for CPython"
-msgstr "PEP 768: Säkert gränssnitt för extern avlusare för CPython"
+msgstr "PEP 768: Säkert gränssnitt för extern felsökare för CPython"
 
 msgid ""
 ":pep:`768` introduces a zero-overhead debugging interface that allows "

@@ -3214,7 +3214,7 @@ msgstr ""
 "name>`. (Bidrag från Nikita Sobolev i :gh:`105546`.)"
 
 msgid "New Deprecations"
-msgstr "Nya avskrivningar"
+msgstr "Nya utfasningar"
 
 msgid ":ref:`User-defined functions <user-defined-funcs>`:"
 msgstr ":ref:`Användardefinierade funktioner <user-defined-funcs>`:"
