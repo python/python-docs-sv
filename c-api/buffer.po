@@ -933,4 +933,4 @@ msgid "C-contiguous"
 msgstr "C-slutande"
 
 msgid "Fortran contiguous"
-msgstr "Fortran sammanhängande"
+msgstr "Fortran contiguous"

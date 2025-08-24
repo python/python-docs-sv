@@ -435,7 +435,7 @@ msgid ""
 msgstr ""
 "Py_INCREF(Py_None);\n"
 "_resultobj = Py_None;\n"
-"returnera _resultobj;"
+"return _resultobj;"
 
 msgid ""
 "Alas, Py_None is a macro that expands to a reference to a complex data "
