@@ -6455,7 +6455,7 @@ msgid "memoryviews can now be indexed with tuple of integers."
 msgstr "minnesvyer kan nu indexeras med tupel av heltal."
 
 msgid "memoryview is now a :term:`generic type`."
-msgstr "memoryview är nu en :term:`generisk typ`."
+msgstr "memoryview är nu en :term:`generic type`."
 
 msgid ":class:`memoryview` has several methods:"
 msgstr ":class:`memoryview` har flera metoder:"
@@ -8189,7 +8189,7 @@ msgstr ""
 "`Generic Alias <types-genericalias>` och :ref:`Union <types-union>`."
 
 msgid "Generic Alias Type"
-msgstr "Generiskt alias Typ"
+msgstr "Generisk aliastyp"
 
 msgid ""
 "``GenericAlias`` objects are generally created by :ref:`subscripting "
@@ -8218,8 +8218,8 @@ msgid ""
 "A ``GenericAlias`` object acts as a proxy for a :term:`generic type`, "
 "implementing *parameterized generics*."
 msgstr ""
-"Ett ``GenericAlias``\\ -objekt fungerar som en proxy för en :term:`generisk "
-"typ` och implementerar *parameteriserade generiska typer*."
+"Ett ``GenericAlias``\\ -objekt fungerar som en proxy för en :term:`generic "
+"type` och implementerar *parameteriserade generiska typer*."
 
 msgid ""
 "For a container class, the argument(s) supplied to a :ref:`subscription "

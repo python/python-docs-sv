@@ -1061,7 +1061,7 @@ msgid ""
 "`generic type`. (Contributed by Jelle Zijlstra in :gh:`98658`.)"
 msgstr ""
 "Klassen :class:`array.array` har nu stöd för subskription, vilket gör den "
-"till en :term:`generisk typ`. (Bidrag från Jelle Zijlstra i :gh:`98658`.)"
+"till en :term:`generic type`. (Bidrag från Jelle Zijlstra i :gh:`98658`.)"
 
 msgid "asyncio"
 msgstr "asyncio"

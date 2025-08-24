@@ -4330,7 +4330,7 @@ msgid ""
 "a :class:`list` in which all the elements are of type :class:`int`."
 msgstr ""
 "När man använder :term:`type annotations<annotation>`, är det ofta "
-"användbart att *parametrisera* en :term:`generisk typ` med Pythons "
+"användbart att *parametrisera* en :term:`generic type` med Pythons "
 "hakparentesnotation. Till exempel kan annoteringen ``list[int]`` användas "
 "för att beteckna en :class:`list` där alla element är av typen :class:`int`."
 

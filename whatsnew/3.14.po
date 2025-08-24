@@ -2135,7 +2135,7 @@ msgid ""
 "`generic type`. (Contributed by Brian Schubert in :gh:`126012`.)"
 msgstr ""
 "Typen :class:`memoryview` har nu stöd för prenumeration, vilket gör den till "
-"en :term:`generisk typ`. (Bidrag från Brian Schubert i :gh:`126012`.)"
+"en :term:`generic type`. (Bidrag från Brian Schubert i :gh:`126012`.)"
 
 msgid ""
 "Support underscore and comma as thousands separators in the fractional part "

@@ -4766,7 +4766,7 @@ msgstr ""
 "argument skapar en ``NULL`` :c:expr:`PyObject *`-pekare."
 
 msgid ":class:`!py_object` is now a :term:`generic type`."
-msgstr ":class:`!py_object` är nu en :term:`generisk typ`."
+msgstr ":class:`!py_object` är nu en :term:`generic type`."
 
 msgid ""
 "The :mod:`!ctypes.wintypes` module provides quite some other Windows "
