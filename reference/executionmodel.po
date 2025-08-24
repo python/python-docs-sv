@@ -407,7 +407,7 @@ msgid ""
 msgstr ""
 "Uttryck i annotationsscopes kan inte innehålla :keyword:`yield`, ``yield "
 "from``, :keyword:`await`, eller :token:`:= <python-grammar:"
-"assignment_expression>` uttryck. (Dessa uttryck är tillåtna i andra scopes "
+"assignment_expression>`\\-uttryck. (Dessa uttryck är tillåtna i andra scopes "
 "som ingår i annotationsscopet)"
 
 msgid ""
