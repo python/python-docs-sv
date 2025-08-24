@@ -850,7 +850,7 @@ msgstr ""
 msgid ""
 "Lists are :term:`mutable`, which means that you can change their content."
 msgstr ""
-"Listor är :term:`mutabla`, vilket innebär att du kan ändra deras innehåll."
+"Listor är :term:`mutable`, vilket innebär att du kan ändra deras innehåll."
 
 msgid ""
 "After the call to :meth:`!append`, the content of the mutable object has "
@@ -2858,7 +2858,7 @@ msgstr ""
 "``meth(x, a, b, c)``."
 
 msgid "See also :ref:`why-self`."
-msgstr "Se även :ref:`varför-själv`."
+msgstr "Se även :ref:`why-self`."
 
 msgid ""
 "How do I check if an object is an instance of a given class or of a subclass "

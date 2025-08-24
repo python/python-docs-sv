@@ -689,8 +689,8 @@ msgid ""
 "Context variables are primarily used to isolate state between concurrent "
 "asynchronous tasks."
 msgstr ""
-"En variabel vars värde beror på vilken kontext som är :term:`aktuell "
-"kontext`.  Värdena nås via :class:`contextvars.ContextVar`-objekt.  "
+"En variabel vars värde beror på vilken kontext som är :term:`current "
+"context`.  Värdena nås via :class:`contextvars.ContextVar`-objekt.  "
 "Kontextvariabler används främst för att isolera tillstånd mellan samtidiga "
 "asynkrona uppgifter."
 
@@ -1864,7 +1864,7 @@ msgstr ""
 "`finder`. Se även följande:"
 
 msgid ":ref:`finders-and-loaders`"
-msgstr ":ref:`sökare-och-laddare`"
+msgstr ":ref:`finders-and-loaders`"
 
 msgid ":class:`importlib.abc.Loader`"
 msgstr ":class:`importlib.abc.Loader`"
@@ -2025,7 +2025,7 @@ msgid "MRO"
 msgstr "MRO"
 
 msgid "See :term:`method resolution order`."
-msgstr "Se :term:`Metodbeslutsordning`."
+msgstr "Se :term:`method resolution order`."
 
 msgid "mutable"
 msgstr "föränderlig"

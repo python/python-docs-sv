@@ -723,7 +723,7 @@ msgstr ""
 "och för olika syften. Tuples är :term:`immutable`, och innehåller vanligtvis "
 "en heterogen sekvens av element som nås via uppackning (se senare i detta "
 "avsnitt) eller indexering (eller till och med via attribut i fallet :func:"
-"`namedtuples <collections.namedtuple>`). Listor är :term:`mutabla`, och "
+"`namedtuples <collections.namedtuple>`). Listor är :term:`mutable`, och "
 "deras element är vanligtvis homogena och nås genom att iterera över listan."
 
 msgid ""
