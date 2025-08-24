@@ -3066,7 +3066,7 @@ msgid ""
 msgstr ""
 ":class:`logging.handlers.QueueListener` implementerar nu "
 "kontexthanterarprotokollet, vilket gör att den kan användas i en :keyword:"
-"`with`-sats. (Bidrag från Charles Machalow i :gh:`132106`.)"
+"`with`\\-sats. (Bidrag från Charles Machalow i :gh:`132106`.)"
 
 msgid ""
 ":meth:`QueueListener.start <logging.handlers.QueueListener.start>` now "

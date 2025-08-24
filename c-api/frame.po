@@ -91,7 +91,7 @@ msgid "Get the *frame* code."
 msgstr "Hämta *frame*-koden."
 
 msgid "Return a :term:`strong reference`."
-msgstr "Returnera en :term:`stark referens`."
+msgstr "Returnera en :term:`strong reference`."
 
 msgid "The result (frame code) cannot be ``NULL``."
 msgstr "Resultatet (ramkoden) kan inte vara ``NULL``."
