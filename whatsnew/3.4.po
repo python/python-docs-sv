@@ -3537,7 +3537,7 @@ msgid ""
 "also checks for memory allocation leaks, using :func:`sys."
 "getallocatedblocks`.  (Contributed by Antoine Pitrou in :issue:`13390`.)"
 msgstr ""
-"Alternativet ``-R`` till :ref:`python regression test suite <regrtest>`` "
+"Alternativet ``-R`` till :ref:`python regression test suite <regrtest>` "
 "kontrollerar nu även för minnesallokeringsläckor, med :func:`sys."
 "getallocatedblocks`.  (Bidrag från Antoine Pitrou i :issue:`13390`.)"
 

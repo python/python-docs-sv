@@ -4159,7 +4159,7 @@ msgid "``Py_UNICODE_strcmp``: use :c:func:`PyUnicode_Compare`"
 msgstr "``Py_UNICODE_strcmp``: använd :c:func:`PyUnicode_Compare`"
 
 msgid "``Py_UNICODE_strncmp``: use :c:func:`PyUnicode_Tailmatch`"
-msgstr "``Py_UNICODE_strncmp``: Använd :c:func:`PyUnicode_Tailmatch``"
+msgstr "``Py_UNICODE_strncmp``: använd :c:func:`PyUnicode_Tailmatch`"
 
 msgid ""
 "``Py_UNICODE_strchr``, ``Py_UNICODE_strrchr``: use :c:func:"

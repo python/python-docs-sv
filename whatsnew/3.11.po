@@ -2745,7 +2745,7 @@ msgstr ""
 "hantering av avbrott inte är önskvärt."
 
 msgid ":opcode:`MAKE_CELL`, to create :ref:`cell-objects`."
-msgstr ":opcode:`MAKE_CELL`, för att skapa :ref:`cell-objekt`."
+msgstr ":opcode:`MAKE_CELL`, för att skapa :ref:`cell-objects`."
 
 msgid ""
 ":opcode:`CHECK_EG_MATCH`  and  :opcode:`!PREP_RERAISE_STAR`, to handle the :"
