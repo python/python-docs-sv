@@ -3958,7 +3958,7 @@ msgid ""
 msgstr ""
 "Fältet ``PyThreadState.tick_counter`` har tagits bort; dess värde har varit "
 "meningslöst sedan Python 3.2, när den \"nya GIL\" introducerades (:issue:"
-"`19199``)."
+"`19199`)."
 
 msgid ""
 "``PyLoader`` and ``PyPycLoader`` have been removed from :mod:`importlib`. "
