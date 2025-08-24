@@ -1080,7 +1080,7 @@ msgstr "``datum2 = datum1 + timedelta``"
 
 msgid "``date2`` will be ``timedelta.days`` days after ``date1``. (1)"
 msgstr ""
-"``datum2`` kommer att vara ``timedelta.days`` dagar efter ``datum1``. (1)"
+"``date2`` kommer att vara ``timedelta.days`` dagar efter ``date1``. (1)"
 
 msgid "``date2 = date1 - timedelta``"
 msgstr "``date2 = date1 - timedelta``"

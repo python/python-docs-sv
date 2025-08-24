@@ -2593,7 +2593,7 @@ msgid ""
 "precision."
 msgstr ""
 "Användningen av decimalt flyttal eliminerar fel i decimalrepresentationen "
-"(vilket gör det möjligt att representera ``0,1`` exakt); vissa operationer "
+"(vilket gör det möjligt att representera ``0.1`` exakt); vissa operationer "
 "kan dock fortfarande medföra avrundningsfel när siffror som inte är noll "
 "överstiger den fasta precisionen."
 

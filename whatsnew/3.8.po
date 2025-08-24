@@ -3354,7 +3354,7 @@ msgid ""
 msgstr ""
 "Nyckelordsargumentet ``bufsize`` i :func:`fileinput.input` och :func:"
 "`fileinput.FileInput` som ignorerades och var föråldrat sedan Python 3.6 har "
-"tagits bort. :issue:`36952`` (Bidrag från Matthias Bussonnier.)"
+"tagits bort. :issue:`36952` (Bidrag från Matthias Bussonnier.)"
 
 msgid ""
 "The functions :func:`sys.set_coroutine_wrapper` and :func:`sys."
