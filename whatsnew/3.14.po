@@ -878,7 +878,7 @@ msgid "(Contributed by Pablo Galindo and Brett Cannon in :gh:`131831`.)"
 msgstr "(Bidrag från Pablo Galindo och Brett Cannon i :gh:`131831`.)"
 
 msgid ":pep:`758`."
-msgstr ":pep:`758``."
+msgstr ":pep:`758`."
 
 msgid "PEP 649 and 749: deferred evaluation of annotations"
 msgstr "PEP 649 och 749: Uppskjuten utvärdering av annoteringar"

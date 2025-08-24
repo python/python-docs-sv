@@ -4106,7 +4106,7 @@ msgid ""
 msgstr ""
 "Python-kommandot och de flesta stdlib-skript (samt :mod:`argparse`) skickar "
 "nu ut ``--version``-information till ``stdout`` istället för ``stderr`` (för "
-"problemlista se :ref:`other-improvement-3.4` ovan)."
+"problemlista se :ref:`other-improvements-3.4` ovan)."
 
 msgid "Changes in the Python API"
 msgstr "Ändringar i Python API"
