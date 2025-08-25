@@ -566,7 +566,7 @@ msgid ""
 msgstr ""
 "Testar om felindikatorn är inställd.  Om den är inställd, returneras "
 "undantagets *typ* (det första argumentet till det senaste anropet till en av "
-"funktionerna ``PyErr_Set*`` eller till :c:func:`PyErr_Restore``).  Om den "
+"funktionerna ``PyErr_Set*`` eller till :c:func:`PyErr_Restore`).  Om den "
 "inte är inställd returneras ``NULL``.  Du äger inte en referens till "
 "returvärdet, så du behöver inte :c:func:`Py_DECREF` det."
 

@@ -310,8 +310,7 @@ msgid "Module"
 msgstr "Modul"
 
 msgid "Add a built-in extension module to the table of built-in modules."
-msgstr ""
-"Lägg till en inbyggd förlängningsmodul i tabellen över inbyggda moduler."
+msgstr "Lägg till en inbyggd tilläggsmodul i tabellen över inbyggda moduler."
 
 msgid ""
 "The new module can be imported by the name *name*, and uses the function "

@@ -654,7 +654,7 @@ msgstr ""
 "för att få en pekare till underklassspecifikt minne som reserverats på detta "
 "sätt. För negativa :c:member:`!basicsize`, kommer Python att infoga "
 "utfyllnad när det behövs för att uppfylla :c:member:`~PyTypeObject."
-"tp_basicsize` s anpassningskrav."
+"tp_basicsize`\\s anpassningskrav."
 
 msgid "Previously, this field could not be negative."
 msgstr "Tidigare kunde detta fält inte vara negativt."

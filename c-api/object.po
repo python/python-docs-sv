@@ -684,7 +684,7 @@ msgstr ""
 "Denna funktion skapar en ny :term:`strong reference` till returvärdet. Det "
 "finns egentligen ingen anledning att använda den här funktionen istället "
 "för :c:func:`Py_TYPE()`-funktionen, som returnerar en pekare av typen :c:"
-"expr:`PyTypeObject*`, förutom när en ny :term:`strong-referens` behövs."
+"expr:`PyTypeObject*`, förutom när en ny :term:`strong reference` behövs."
 
 msgid ""
 "Return non-zero if the object *o* is of type *type* or a subtype of *type*, "

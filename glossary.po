@@ -514,7 +514,7 @@ msgid ""
 "instance of a class that implements the :meth:`~object.__call__` method is "
 "also a callable."
 msgstr ""
-"En :term:`function`, och i förlängningen en :term:`method`, är en callable. "
+"En :term:`function`, och efter utökning en :term:`method`, är en callable. "
 "En instans av en klass som implementerar metoden :meth:`~object.__call__` är "
 "också en anropbar."
 
@@ -1013,7 +1013,7 @@ msgstr ""
 "uttryck."
 
 msgid "extension module"
-msgstr "förlängningsmodul"
+msgstr "tilläggsmodul"
 
 msgid ""
 "A module written in C or C++, using Python's C API to interact with the core "

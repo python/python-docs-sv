@@ -454,7 +454,7 @@ msgstr ""
 "collector <garbage collection>`."
 
 msgid "Protecting Internal Extension State"
-msgstr "Skydd av intern förlängningstillstånd"
+msgstr "Skydd av intern utökningstillstånd"
 
 msgid ""
 "Your extension may have internal state that was previously protected by the "

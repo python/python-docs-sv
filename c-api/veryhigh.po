@@ -481,7 +481,7 @@ msgid ""
 "__future__ import`` is discarded."
 msgstr ""
 "När ``PyCompilerFlags *flags`` är ``NULL``, :c:member:`~PyCompilerFlags."
-"cf_flags`` behandlas som lika med ``0``, och alla ändringar på grund av "
+"cf_flags` behandlas som lika med ``0``, och alla ändringar på grund av "
 "``from __future__ import`` kasseras."
 
 msgid "Compiler flags."

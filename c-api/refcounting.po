@@ -89,7 +89,7 @@ msgstr ""
 "*refcnt* är större än ``UINT32_MAX``, görs objektet :term:`immortal`."
 
 msgid "This function has no effect on :term:`immortal` objects."
-msgstr "Denna funktion har ingen effekt på :term:`odödliga` objekt."
+msgstr "Denna funktion har ingen effekt på :term:`immortal`\\-objekt."
 
 msgid "Immortal objects are not modified."
 msgstr "Odödliga föremål ändras inte."

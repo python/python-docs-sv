@@ -2695,7 +2695,7 @@ msgstr ""
 "Makrot :c:func:`!PyObject_NEW` blir ett alias till makrot :c:macro:"
 "`PyObject_New`, och makrot :c:func:`!PyObject_NEW_VAR` blir ett alias till "
 "makrot :c:macro:`PyObject_NewVar`. De har inte längre direkt åtkomst till :c:"
-"member:`PyTypeObject.tp_basicsize`-medlemmen."
+"member:`PyTypeObject.tp_basicsize`\\-medlemmen."
 
 msgid ""
 ":c:func:`!PyObject_GET_WEAKREFS_LISTPTR` macro was converted to a function: "

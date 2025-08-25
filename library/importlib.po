@@ -1599,7 +1599,7 @@ msgstr ""
 "`module.__file__`). För moduler som läsas in från en ``.py``\\-fil är detta "
 "till exempel filnamnet. :term:`finder` ska alltid ange detta attribut till "
 "ett meningsfullt värde som :term:`loader` kan använda. I det ovanliga fallet "
-"att det inte finns något (som för namnområdespaket) ska det ställas in på "
+"att det inte finns något (som för namnrymdspaket) ska det ställas in på "
 "``None``."
 
 msgid ""
