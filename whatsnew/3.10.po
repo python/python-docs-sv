@@ -2640,7 +2640,7 @@ msgid "typing"
 msgstr "maskinskrivning"
 
 msgid "For major changes, see :ref:`new-feat-related-type-hints`."
-msgstr "För större ändringar, se :ref:`nya-feat-relaterade-typ-tips`."
+msgstr "För större ändringar, se :ref:`new-feat-related-type-hints`."
 
 msgid ""
 "The behavior of :class:`typing.Literal` was changed to conform with :pep:"

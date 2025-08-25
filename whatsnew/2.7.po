@@ -798,7 +798,7 @@ msgid "The documentation page of the argparse module."
 msgstr "Dokumentationssidan för modulen argparse."
 
 msgid ":ref:`upgrading-optparse-code`"
-msgstr ":ref:`uppgradering-optparse-kod`"
+msgstr ":ref:`upgrading-optparse-code`"
 
 msgid ""
 "Part of the Python documentation, describing how to convert code that uses :"

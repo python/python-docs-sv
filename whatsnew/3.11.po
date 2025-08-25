@@ -827,7 +827,7 @@ msgstr ""
 "liknande säkerhetsegenskaper som ``siphash24``, men den är något snabbare "
 "för långa inmatningar. :class:`str`, :class:`bytes`, och några andra typer "
 "använder den nu som standardalgoritm för :func:`hash`. :pep:`552` :ref:`hash-"
-"baserade .pyc-filer <pyc-invalidation>`` använder nu ``siphash13`` också. "
+"baserade .pyc-filer <pyc-invalidation>` använder nu ``siphash13`` också. "
 "(Bidrag från Inada Naoki i :issue:`29410`.)"
 
 msgid ""
