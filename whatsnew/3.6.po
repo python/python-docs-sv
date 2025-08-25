@@ -2849,7 +2849,7 @@ msgstr ""
 "*side_effect*. (Bidrag från Kushal Das i :issue:`21271`.)"
 
 msgid "urllib.request"
-msgstr "urllib.begäran"
+msgstr "urllib.request"
 
 msgid ""
 "If a HTTP request has a file or iterable body (other than a bytes object) "

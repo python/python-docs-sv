@@ -2528,7 +2528,7 @@ msgid ":ref:`old-string-formatting`"
 msgstr ":ref:`old-string-formatting`"
 
 msgid ":ref:`bytes-formatting`"
-msgstr ":ref:`bytesformatering`"
+msgstr ":ref:`bytes-formatting`"
 
 msgid "Searching and Replacing"
 msgstr "Sökning och byte"

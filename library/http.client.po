@@ -963,4 +963,4 @@ msgid "module"
 msgstr "modul"
 
 msgid "urllib.request"
-msgstr "urllib.begäran"
+msgstr "urllib.request"

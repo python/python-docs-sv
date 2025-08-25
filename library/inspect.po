@@ -1057,7 +1057,7 @@ msgid ""
 "Accepts a wide range of Python callables, from plain functions and classes "
 "to :func:`functools.partial` objects."
 msgstr ""
-"Accepterar ett brett utbud av Python-kallbara, från vanliga funktioner och "
+"Accepterar ett brett utbud av Python-anropsbara, från vanliga funktioner och "
 "klasser till :func:`functools.partial`\\-objekt."
 
 msgid ""

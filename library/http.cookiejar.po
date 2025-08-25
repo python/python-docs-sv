@@ -202,7 +202,7 @@ msgstr ""
 "`make_cookies` på en :class:`CookieJar`-instans."
 
 msgid "Module :mod:`urllib.request`"
-msgstr "Modul :mod:`urllib.request`"
+msgstr "Modulen :mod:`urllib.request`"
 
 msgid "URL opening with automatic cookie handling."
 msgstr "URL-öppning med automatisk cookiehantering."
