@@ -778,7 +778,7 @@ msgstr ""
 "Klass-privata namn.  Namn i denna kategori, när de används inom ramen för en "
 "klassdefinition, skrivs om för att använda en manglad form för att undvika "
 "namnkollisioner mellan \"privata\" attribut i bas- och härledda klasser. Se "
-"avsnitt :ref:`atom-identifierare`."
+"avsnittet :ref:`atom-identifiers`."
 
 msgid "Literals"
 msgstr "Bokstäver"
@@ -1017,7 +1017,7 @@ msgid "``\\``\\ <newline>"
 msgstr "``\\``\\ <newline>"
 
 msgid ":ref:`string-escape-ignore`"
-msgstr ":ref:`sträng-escape-ignore`"
+msgstr ":ref:`string-escape-ignore`"
 
 msgid "``\\\\``"
 msgstr "``\\\\``"
@@ -1083,13 +1083,13 @@ msgid ":samp:`\\\\\\\\{ooo}`"
 msgstr ":samp:`\\\\\\\\{ooo}`"
 
 msgid ":ref:`string-escape-oct`"
-msgstr ":ref:`sträng-escape-oct`"
+msgstr ":ref:`string-escape-oct`"
 
 msgid ":samp:`\\\\x{hh}`"
 msgstr ":samp:`\\\\x{hh}`"
 
 msgid ":ref:`string-escape-hex`"
-msgstr ":ref:`sträng-escape-hex`"
+msgstr ":ref:`string-escape-hex`"
 
 msgid ":samp:`\\\\N\\\\{{name}\\\\}`"
 msgstr ":samp:`\\\\N\\\\{{name}\\\\}``"
