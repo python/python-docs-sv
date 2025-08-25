@@ -2538,7 +2538,7 @@ msgid ""
 "Update the Unicode database to `version 15.1.0`__. (Contributed by James "
 "Gerity in :gh:`109559`.)"
 msgstr ""
-"Uppdatera Unicode-databasen till `version 15.1.0`_. (Bidrag från James "
+"Uppdatera Unicode-databasen till `version 15.1.0`__. (Bidrag från James "
 "Gerity i :gh:`109559`.)"
 
 msgid "venv"
