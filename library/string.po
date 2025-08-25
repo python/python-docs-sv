@@ -33,7 +33,7 @@ msgid ":ref:`textseq`"
 msgstr ":ref:`textseq`"
 
 msgid ":ref:`string-methods`"
-msgstr ":ref:`sträng-metoder`"
+msgstr ":ref:`string-methods`"
 
 msgid "String constants"
 msgstr "Strängkonstanter"
@@ -140,8 +140,8 @@ msgid ""
 "A format string argument is now :ref:`positional-only <positional-"
 "only_parameter>`."
 msgstr ""
-"Ett formatsträngargument är nu :ref:`positionell-endast <positionell-"
-"endast_parameter>`."
+"Ett formatsträngargument är nu :ref:`positionell-endast <positional-"
+"only_parameter>`."
 
 msgid ""
 "This function does the actual work of formatting.  It is exposed as a "
@@ -1731,7 +1731,7 @@ msgstr ""
 "sammanfoga orden."
 
 msgid "{} (curly brackets)"
-msgstr "{} (inom hakparentes)"
+msgstr "{} (hakparentes)"
 
 msgid "in string formatting"
 msgstr "i strängformatering"
@@ -1743,22 +1743,22 @@ msgid "[] (square brackets)"
 msgstr "[] (hakparenteser)"
 
 msgid "! (exclamation)"
-msgstr "! (utrop)"
+msgstr "! (utropstecken)"
 
 msgid ": (colon)"
 msgstr ": (kolon)"
 
 msgid "< (less)"
-msgstr "< (mindre)"
+msgstr "< (mindre än)"
 
 msgid "> (greater)"
-msgstr "> (större)"
+msgstr "> (större än)"
 
 msgid "= (equals)"
 msgstr "= (lika med)"
 
 msgid "^ (caret)"
-msgstr "^ (caret)"
+msgstr "^ (insättningstecken)"
 
 msgid "+ (plus)"
 msgstr "+ (plus)"

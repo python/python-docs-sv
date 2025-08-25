@@ -1269,7 +1269,7 @@ msgstr ""
 "Men detta skulle vara riskabelt. Vår typ begränsar inte typen av den "
 "``first`` medlemmen, så det kan vara vilken typ av objekt som helst. Den kan "
 "ha en destruktor som gör att kod som försöker komma åt den ``first`` "
-"medlemmen körs, eller så kan destruktorn koppla bort :term:`trådstatus "
+"medlemmen körs, eller så kan destruktorn koppla bort :term:`trådtillstånd "
 "<attached thread state>` och låta godtycklig kod köras i andra trådar som "
 "kommer åt och modifierar vårt objekt."
 

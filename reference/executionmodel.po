@@ -549,7 +549,7 @@ msgid ""
 msgstr ""
 "Användare bör inte röra ``__builtins__``; det är enbart en "
 "implementationsdetalj.  Användare som vill åsidosätta värden i namnrymden "
-"för builtins bör :keyword:`importera` modulen :mod:`builtins` och ändra dess "
+"för builtins bör :keyword:`import` modulen :mod:`builtins` och ändra dess "
 "attribut på lämpligt sätt."
 
 msgid ""

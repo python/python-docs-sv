@@ -747,7 +747,8 @@ msgstr ""
 "``Py_``. Använd till exempel:"
 
 msgid "``Py_tp_dealloc`` to set :c:member:`PyTypeObject.tp_dealloc`"
-msgstr "``Py_tp_dealloc`` till set :c:member:`PyTypeObject.tp_dealloc``"
+msgstr ""
+"``Py_tp_dealloc`` för att ställa in :c:member:`PyTypeObject.tp_dealloc`"
 
 msgid "``Py_nb_add`` to set :c:member:`PyNumberMethods.nb_add`"
 msgstr "``Py_nb_add`` för att ställa in :c:member:`PyNumberMethods.nb_add`"

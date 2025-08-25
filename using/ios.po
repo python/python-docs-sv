@@ -191,7 +191,7 @@ msgstr ""
 "moduler av typen ``.so`` till enskilda fristående ramverk med lämpliga "
 "metadata och signering. Mer information om hur du utför denna "
 "efterbearbetning finns i guiden för :ref:`addding Python to your project "
-"<adding-ios>``."
+"<adding-ios>`."
 
 msgid ""
 "To help Python discover binaries in their new location, the original ``.so`` "

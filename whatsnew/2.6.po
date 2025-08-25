@@ -1598,7 +1598,7 @@ msgstr ""
 "'75.66'"
 
 msgid ":ref:`formatstrings`"
-msgstr ":ref:`formatsträngar`"
+msgstr ":ref:`formatstrings`"
 
 msgid "The reference documentation for format fields."
 msgstr "Referensdokumentation för formatfält."

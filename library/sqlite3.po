@@ -388,16 +388,16 @@ msgid ":ref:`sqlite3-howtos` for further reading:"
 msgstr ":ref:`sqlite3-howtos` för ytterligare läsning:"
 
 msgid ":ref:`sqlite3-placeholders`"
-msgstr ":ref:`sqlite3-platshållare`"
+msgstr ":ref:`sqlite3-placeholders`"
 
 msgid ":ref:`sqlite3-adapters`"
-msgstr ":ref:`sqlite3-anpassare`"
+msgstr ":ref:`sqlite3-adapters`"
 
 msgid ":ref:`sqlite3-converters`"
-msgstr ":ref:`sqlite3-omvandlare`"
+msgstr ":ref:`sqlite3-converters`"
 
 msgid ":ref:`sqlite3-connection-context-manager`"
-msgstr ":ref:`sqlite3-anslutningskontexthanterare`"
+msgstr ":ref:`sqlite3-connection-context-manager`"
 
 msgid ":ref:`sqlite3-howto-row-factory`"
 msgstr ":ref:`sqlite3-howto-row-factory`"
@@ -915,7 +915,7 @@ msgstr ""
 "skapa :class:`Cursor`\\-objekt och :ref:`sqlite3-controlling-transactions`."
 
 msgid ":ref:`sqlite3-connection-shortcuts`"
-msgstr ":ref:`sqlite3-anslutning-kortkommandon`"
+msgstr ":ref:`sqlite3-connection-shortcuts`"
 
 msgid ""
 "A :exc:`ResourceWarning` is emitted if :meth:`close` is not called before a :"
@@ -1718,7 +1718,7 @@ msgstr ""
 "con.close()"
 
 msgid ":ref:`sqlite3-howto-encoding`"
-msgstr ":ref:`sqlite3-hur-man-kodar`"
+msgstr ":ref:`sqlite3-howto-encoding`"
 
 msgid "Added the *filter* parameter."
 msgstr "Parametern *filter* har lagts till."
@@ -2231,7 +2231,7 @@ msgid ""
 "of :class:`dict`\\s."
 msgstr ""
 ":exc:`ProgrammingError` sänds ut om :ref:`namngivna platshållare <sqlite3-"
-"placeholders>`` används och objekten i *parameters* är sekvenser istället "
+"placeholders>` används och objekten i *parameters* är sekvenser istället "
 "för :class:`dict`\\s."
 
 msgid ""
@@ -3750,7 +3750,7 @@ msgid ""
 "can use the following technique, borrowed from the :ref:`unicode-howto`:"
 msgstr ""
 "För ogiltiga UTF-8 eller godtyckliga data som lagras i tabellkolumnerna "
-"``TEXT`` kan du använda följande teknik, lånad från :ref:`unicode-howto``:"
+"``TEXT`` kan du använda följande teknik, lånad från :ref:`unicode-howto`:"
 
 msgid "con.text_factory = lambda data: str(data, errors=\"surrogateescape\")"
 msgstr "con.text_factory = lambda data: str(data, fel=\"surrogateescape\")"

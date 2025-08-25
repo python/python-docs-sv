@@ -596,7 +596,7 @@ msgid "Documentation of the :mod:`zipfile` standard module."
 msgstr "Dokumentation av standardmodulen :mod:`zipfile`."
 
 msgid ":ref:`archiving-operations`"
-msgstr ":ref:`Arkiveringsoperationer`"
+msgstr ":ref:`archiving-operations`"
 
 msgid ""
 "Documentation of the higher-level archiving facilities provided by the "

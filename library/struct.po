@@ -341,7 +341,7 @@ msgid ""
 msgstr ""
 "För att anpassa slutet av en struktur till anpassningskravet för en viss "
 "typ, avsluta formatet med koden för den typen med ett upprepningsantal på "
-"noll.  Se :ref:`strukturexempel`."
+"noll.  Se :ref:`struct-examples`."
 
 msgid "Format Characters"
 msgstr "Format tecken"

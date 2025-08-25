@@ -535,7 +535,7 @@ msgid ""
 "replaced by :const:`None`."
 msgstr ""
 "En finalizer kommer aldrig att anropa sitt callback under den senare delen "
-"av :term:`tolkavstängningen` när modulglobaler kan ha ersatts av :const:"
+"av :term:`interpreter shutdown` när modulglobaler kan ha ersatts av :const:"
 "`None`."
 
 msgid ""

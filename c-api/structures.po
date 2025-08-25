@@ -864,7 +864,7 @@ msgid ""
 "Emit an ``object.__getattr__`` :ref:`audit event <audit-events>` before "
 "reading."
 msgstr ""
-"Skicka en ``object.__getattr__`` :ref:`audit event <audit-events>`` före "
+"Skicka en ``object.__getattr__`` :ref:`audit event <audit-events>` före "
 "läsning."
 
 msgid ""

@@ -2207,7 +2207,7 @@ msgid ""
 "execution process to:"
 msgstr ""
 "I Python 3.11 är de kärnmoduler som är nödvändiga för Python-start "
-"\"frysta\". Detta innebär att deras :ref:`kodobjekt` (och bytekoder) "
+"\"frysta\". Detta innebär att deras :ref:`codeobjects` (och bytekoder) "
 "allokeras statiskt av tolken. Detta reducerar stegen i modulens "
 "exekveringsprocess till:"
 

@@ -1814,7 +1814,7 @@ msgstr ""
 msgid ""
 "The function has a :term:`qualified name` attribute to support introspection:"
 msgstr ""
-"Funktionen har ett :term:`kvalificerat namn`-attribut för att stödja "
+"Funktionen har ett :term:`qualified name`\\-attribut för att stödja "
 "introspektion:"
 
 msgid ""

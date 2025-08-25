@@ -86,7 +86,7 @@ msgstr ""
 "*Errors* kan anges för att ställa in önskat felhanteringssystem. "
 "Standardfelhanteringen är ``'strict'`` vilket innebär att avkodningsfel ger "
 "upphov till :exc:`ValueError` (eller en mer kodek-specifik underklass, t."
-"ex. :exc:`UnicodeDecodeError`). Se :ref:`kodek-base-classes` för mer "
+"ex. :exc:`UnicodeDecodeError`). Se :ref:`codec-base-classes` för mer "
 "information om felhantering för kodek."
 
 msgid ""

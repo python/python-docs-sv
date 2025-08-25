@@ -459,7 +459,7 @@ msgid ""
 "A ``.read()``-supporting :term:`text file` or :term:`binary file` containing "
 "the JSON document to be deserialized."
 msgstr ""
-"En ``.read()``-stödjande :term:`textfil` eller :term:`binärfil` som "
+"En ``.read()``-stödjande :term:`text file` eller :term:`binary file` som "
 "innehåller det JSON-dokument som ska deserialiseras."
 
 msgid ""

@@ -312,7 +312,7 @@ msgid ":class:`NodeList`"
 msgstr ":class:`NodeList`"
 
 msgid ":ref:`dom-nodelist-objects`"
-msgstr ":ref:`dom-nodelist-objekt`"
+msgstr ":ref:`dom-nodelist-objects`"
 
 msgid "Interface for a sequence of nodes."
 msgstr "Gränssnitt för en sekvens av noder."
@@ -321,7 +321,7 @@ msgid ":class:`DocumentType`"
 msgstr ":class:`DocumentType`"
 
 msgid ":ref:`dom-documenttype-objects`"
-msgstr ":ref:`dom-dokumenttyp-objekt`"
+msgstr ":ref:`dom-documenttype-objects`"
 
 msgid "Information about the declarations needed to process a document."
 msgstr ""

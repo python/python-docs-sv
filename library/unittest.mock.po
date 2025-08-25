@@ -1463,7 +1463,7 @@ msgstr ""
 "istället upphov till ett :exc:`AttributeError`. Detta beror på att tolken "
 "ofta implicit begär dessa metoder, och blir *mycket* förvirrad av att få ett "
 "nytt Mock-objekt när den förväntar sig en magisk metod. Om du behöver stöd "
-"för magiska metoder, se :ref:`magiska metoder <magic-methods>``."
+"för magiska metoder, se :ref:`magiska metoder <magic-methods>`."
 
 msgid "The patchers"
 msgstr "Lapparna"
