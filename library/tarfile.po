@@ -1079,7 +1079,7 @@ msgid ""
 msgstr ""
 "Lägg till :class:`TarInfo`-objektet *tarinfo* i arkivet. Om *tarinfo* "
 "representerar en vanlig fil som inte är nollstor, bör argumentet *fileobj* "
-"vara en :term:`binärfil`, och ``tarinfo.size`` bytes läses från den och "
+"vara en :term:`binary file`, och ``tarinfo.size`` bytes läses från den och "
 "läggs till i arkivet.  Du kan skapa :class:`TarInfo`\\-objekt direkt, eller "
 "genom att använda :meth:`gettarinfo`."
 

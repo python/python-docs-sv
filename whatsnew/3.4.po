@@ -85,7 +85,7 @@ msgid ""
 ":ref:`A ModuleSpec Type <whatsnew-pep-451>` for the Import System (:pep:"
 "`451`).  (Affects importer authors.)"
 msgstr ""
-":ref:`En ModuleSpec-typ <whatsnew-pep-451>`` för importsystemet (:pep:"
+":ref:`En ModuleSpec-typ <whatsnew-pep-451>` för importsystemet (:pep:"
 "`451`).  (Påverkar importörsförfattare.)"
 
 msgid ""

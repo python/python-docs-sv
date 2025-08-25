@@ -433,7 +433,7 @@ msgstr ""
 "projekt, liksom verktyg som Cython, pybind11, nanobind och PyO3. Stegen för "
 "att isolera en tilläggsmodul finns på :ref:`isolating-extensions-howto`.  "
 "Att isolera en modul har en hel del överlappning med vad som krävs för att "
-"stödja :ref:`free-threading <whatsnew314-free-threaded-cpython>``, så det "
+"stödja :ref:`free-threading <whatsnew314-free-threaded-cpython>`, så det "
 "pågående arbetet i gemenskapen inom det området kommer att bidra till att "
 "påskynda stödet för flera tolkar."
 

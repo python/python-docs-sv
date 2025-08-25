@@ -4092,7 +4092,7 @@ msgstr ""
 "``picklebufobject.h``, ``pyarena.h``, ``pyctype.h``, ``pydebug.h``, ``pyfpe."
 "h`` och ``pytime.h`` har flyttats till katalogen ``Include/cpython``. Dessa "
 "filer får inte inkluderas direkt, eftersom de redan är inkluderade i "
-"``Python.h``; se :ref:`api-includes``. Om de har inkluderats direkt, överväg "
+"``Python.h``; se :ref:`api-includes`. Om de har inkluderats direkt, överväg "
 "att inkludera ``Python.h`` istället. (Bidrag från Nicholas Sim i :issue:"
 "`35134`.)"
 

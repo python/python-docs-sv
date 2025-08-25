@@ -1326,7 +1326,7 @@ msgid ""
 "deprecated>`."
 msgstr ""
 "Flera ``asyncio`` API:er har blivit :ref:`deprecated <whatsnew37-asyncio-"
-"deprecated>``."
+"deprecated>`."
 
 msgid "binascii"
 msgstr "binascii"

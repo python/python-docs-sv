@@ -1095,7 +1095,7 @@ msgid ":samp:`\\\\N\\\\{{name}\\\\}`"
 msgstr ":samp:`\\\\N\\\\{{name}\\\\}``"
 
 msgid ":ref:`string-escape-named`"
-msgstr ":ref:`sträng-escape-namn`"
+msgstr ":ref:`string-escape-named`"
 
 msgid ":samp:`\\\\u{xxxx}`"
 msgstr ":samp:`\\\\u{xxxx}`"
