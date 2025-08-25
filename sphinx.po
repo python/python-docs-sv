@@ -313,7 +313,7 @@ msgid "Publishing modules for use by other people"
 msgstr "Publicering av moduler för användning av andra personer"
 
 msgid "Extending and embedding"
-msgstr "Förlängning och inbäddning"
+msgstr "Utökning och inbäddning"
 
 msgid "For C/C++ programmers"
 msgstr "För C/C++-programmerare"

@@ -1792,7 +1792,7 @@ msgstr ""
 "användning av asynkrona kontexthanterare som dekoratorer."
 
 msgid "curses"
-msgstr "förbannelser"
+msgstr "curses"
 
 msgid ""
 "The extended color functions added in ncurses 6.1 will be used transparently "

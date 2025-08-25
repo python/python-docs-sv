@@ -1829,7 +1829,7 @@ msgstr ""
 "inte bara sekvenser.  (Bidrag från Serhiy Storchaka i :issue:`23171`.)"
 
 msgid "curses"
-msgstr "förbannelser"
+msgstr "curses"
 
 msgid ""
 "The new :func:`~curses.update_lines_cols` function updates the :data:`LINES` "

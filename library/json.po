@@ -217,7 +217,7 @@ msgstr ""
 "Decimal('1.1')"
 
 msgid "Extending :class:`JSONEncoder`::"
-msgstr "Förlängning av :class:`JSONEncoder`::"
+msgstr "Utökning av :class:`JSONEncoder`::"
 
 msgid ""
 ">>> import json\n"

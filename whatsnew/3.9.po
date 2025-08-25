@@ -720,7 +720,7 @@ msgstr ""
 "inaktiva arbetare. (Bidrag från Kyle Stanley i :issue:`39207`.)"
 
 msgid "curses"
-msgstr "förbannelser"
+msgstr "curses"
 
 msgid ""
 "Added :func:`curses.get_escdelay`, :func:`curses.set_escdelay`, :func:"

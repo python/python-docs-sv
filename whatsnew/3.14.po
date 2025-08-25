@@ -2666,7 +2666,7 @@ msgstr ""
 "(Bidrag från Kumar Aditya och Peter Bierma i :gh:`127945`.)"
 
 msgid "curses"
-msgstr "förbannelser"
+msgstr "curses"
 
 msgid ""
 "Add the :func:`~curses.assume_default_colors` function, a refinement of the :"

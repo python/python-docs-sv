@@ -164,7 +164,7 @@ msgid ":pep:`489`"
 msgstr ":pep:`489`"
 
 msgid "Multi-phase extension module initialization"
-msgstr "Initialisering av förlängningsmodul i flera faser"
+msgstr "Initialisering av utökningsmodul i flera faser"
 
 msgid ":pep:`552`"
 msgstr ":pep:`552`"

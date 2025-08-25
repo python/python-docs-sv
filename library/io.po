@@ -793,7 +793,7 @@ msgstr ""
 "nollfyllda).  Den nya filstorleken returneras."
 
 msgid "Windows will now zero-fill files when extending."
-msgstr "Windows nollfyller nu filer vid förlängning."
+msgstr "Windows nollfyller nu filer vid utökning."
 
 msgid ""
 "Return ``True`` if the stream supports writing.  If ``False``, :meth:`!"

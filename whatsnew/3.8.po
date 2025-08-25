@@ -1327,7 +1327,7 @@ msgstr ""
 "Michael Selik i :issue:`34003`.)"
 
 msgid "curses"
-msgstr "förbannelser"
+msgstr "curses"
 
 msgid ""
 "Added a new variable holding structured version information for the "

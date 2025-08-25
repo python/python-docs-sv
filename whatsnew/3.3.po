@@ -1933,7 +1933,7 @@ msgid "(:issue:`10924`)"
 msgstr "(:issue:`10924`)"
 
 msgid "curses"
-msgstr "förbannelser"
+msgstr "curses"
 
 msgid ""
 "If the :mod:`curses` module is linked to the ncursesw library, use Unicode "
