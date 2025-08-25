@@ -1322,10 +1322,10 @@ msgstr ""
 "func:`PyUnicode_EncodeLocale`."
 
 msgid "wchar_t Support"
-msgstr "wchar_t Stöd"
+msgstr "Stöd för wchar_t"
 
 msgid ":c:type:`wchar_t` support for platforms which support it:"
-msgstr ":c:type:`wchar_t` stöd för plattformar som stödjer det:"
+msgstr ":c:type:`wchar_t`\\-stöd för plattformar som stödjer det:"
 
 msgid ""
 "Create a Unicode object from the :c:type:`wchar_t` buffer *wstr* of the "

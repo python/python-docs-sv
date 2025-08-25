@@ -2755,7 +2755,7 @@ msgid ""
 "Isorted.sort(key=lambda s: int(s[10:15]))"
 msgstr ""
 "Isorted = L[:]\n"
-"Isorted.sort(nyckel=lambda s: int(s[10:15]))"
+"Isorted.sort(key=lambda s: int(s[10:15]))"
 
 msgid "How can I sort one list by values from another list?"
 msgstr "Hur kan jag sortera en lista efter värden från en annan lista?"
