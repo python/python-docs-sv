@@ -60,7 +60,7 @@ msgid ""
 "The C structure used to represent a :class:`contextvars.Context` object."
 msgstr ""
 "Den C-struktur som används för att representera ett :class:`contextvars."
-"Context`-objekt."
+"Context`\\-objekt."
 
 msgid ""
 "The C structure used to represent a :class:`contextvars.ContextVar` object."

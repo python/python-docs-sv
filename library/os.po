@@ -202,7 +202,7 @@ msgid ""
 "Use UTF-8 as the :term:`filesystem encoding <filesystem encoding and error "
 "handler>`."
 msgstr ""
-"Använd UTF-8 som :term:`filsystemkodning <filesystem encoding and error "
+"Använd UTF-8 som :term:`filsystemskodning <filesystem encoding and error "
 "handler>`."
 
 msgid ":func:`sys.getfilesystemencoding` returns ``'utf-8'``."

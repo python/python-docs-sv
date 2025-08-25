@@ -158,7 +158,7 @@ msgid ""
 "The object *o* must not be ``NULL``; use :c:func:`Py_XNewRef` if *o* can be "
 "``NULL``."
 msgstr ""
-"Objektet *o* får inte vara ``NULL``; använd :c:func:`Py_XNewRef`` om *o* kan "
+"Objektet *o* får inte vara ``NULL``; använd :c:func:`Py_XNewRef` om *o* kan "
 "vara ``NULL``."
 
 msgid "For example::"
