@@ -461,7 +461,7 @@ msgid ""
 "member of the :class:`Format` enum, and return the annotations dictionary "
 "produced by the function."
 msgstr ""
-"Anropa :term:`annotate-funktionen` *annotate* med det angivna *formatet*, en "
+"Anropa :term:`annotate function` *annotate* med det angivna *formatet*, en "
 "medlem av enum :class:`Format`, och returnera den annoteringsordbok som "
 "funktionen har producerat."
 

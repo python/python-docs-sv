@@ -61,7 +61,7 @@ msgid ""
 msgstr ""
 "Detta avsnitt förklarar det grundläggande konceptet för funktionell "
 "programmering; om du bara är intresserad av att lära dig om Python-språkets "
-"funktioner, hoppa till nästa avsnitt om :ref:`funktionell-hur-iteratorer`."
+"funktioner, hoppa till nästa avsnitt om :ref:`functional-howto-iterators`."
 
 msgid ""
 "Programming languages support decomposing problems in several different ways:"
