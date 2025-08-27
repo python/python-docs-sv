@@ -5144,7 +5144,7 @@ msgstr ""
 "Ta bort flera funktioner, makron, variabler, etc med namn som inleds med "
 "``_Py`` eller ``_PY`` (som anses vara privata). Om ditt projekt påverkas av "
 "en av dessa borttagningar och du anser att det borttagna API:et bör förbli "
-"tillgängligt, vänligen :ref:`öppna en ny fråga <using-the-tracker>` för att "
+"tillgängligt, :ref:`öppna ett nytt ärende <using-the-tracker>` för att "
 "begära ett offentligt C API och lägg till ``cc: @vstinner`` till frågan för "
 "att meddela Victor Stinner. (Bidrag från Victor Stinner i :gh:`106320`.)"
 
