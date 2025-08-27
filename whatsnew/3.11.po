@@ -2994,7 +2994,7 @@ msgid ""
 msgstr ":pep:`594` ledde till att följande moduler togs bort i Python 3.13:"
 
 msgid ":mod:`!aifc`"
-msgstr ":mod:`!aifc``"
+msgstr ":mod:`!aifc`"
 
 msgid ":mod:`!chunk`"
 msgstr ":mod:`!chunk`"
