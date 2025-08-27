@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-25 14:20+0000\n"
+"POT-Creation-Date: 2025-08-27 14:18+0000\n"
 "PO-Revision-Date: 2025-08-02 17:35+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
@@ -2656,7 +2656,7 @@ msgid "Selected based on InstallAllUsers"
 msgstr "Vald baserat på InstallAllUsers"
 
 msgid "DefaultAllUsersTargetDir"
-msgstr "MålDir för standardanvändare"
+msgstr "DefaultAllUsersTargetDir"
 
 msgid "The default installation directory for all-user installs"
 msgstr "Standardinstallationskatalogen för installationer för alla användare"
@@ -2669,7 +2669,7 @@ msgstr ""
 "\\\\ Python X.Y`"
 
 msgid "DefaultJustForMeTargetDir"
-msgstr "StandardMålDirJustFörMig"
+msgstr "DefaultJustForMeTargetDir"
 
 msgid "The default install directory for just-for-me installs"
 msgstr "Standardinstallationskatalogen för just-for-me-installationer"
@@ -2679,12 +2679,12 @@ msgid ""
 "`%LocalAppData%\\\\\\ Programs\\\\Python\\\\\\ PythonXY-32` or :file:"
 "`%LocalAppData%\\\\\\ Programs\\\\Python\\\\\\ PythonXY-64`"
 msgstr ""
-":file:`%LocalAppData%\\\\\\ Programs\\\\Python\\\\\\ PythonXY` or :file:"
-"`%LocalAppData%\\\\\\ Programs\\\\Python\\\\\\ PythonXY-32` or :file:"
+":file:`%LocalAppData%\\\\\\ Programs\\\\Python\\\\\\ PythonXY` eller :file:"
+"`%LocalAppData%\\\\\\ Programs\\\\Python\\\\\\ PythonXY-32` eller :file:"
 "`%LocalAppData%\\\\\\ Programs\\\\Python\\\\\\ PythonXY-64`"
 
 msgid "DefaultCustomTargetDir"
-msgstr "StandardCustomTargetDir"
+msgstr "DefaultCustomTargetDir"
 
 msgid "The default custom install directory displayed in the UI"
 msgstr ""
@@ -2710,7 +2710,7 @@ msgid "Compile all ``.py`` files to ``.pyc``."
 msgstr "Kompilera alla ``.py``\\-filer till ``.pyc``."
 
 msgid "PrependPath"
-msgstr "PrependSökväg"
+msgstr "PrependPath"
 
 msgid ""
 "Prepend install and Scripts directories  to :envvar:`PATH` and add ``.PY`` "
@@ -2720,7 +2720,7 @@ msgstr ""
 "PY`` i :envvar:`PATHEXT`"
 
 msgid "AppendPath"
-msgstr "Tilläggssökväg"
+msgstr "AppendPath"
 
 msgid ""
 "Append install and Scripts directories  to :envvar:`PATH` and add ``.PY`` "
@@ -2739,7 +2739,7 @@ msgstr ""
 "installerat."
 
 msgid "Include_doc"
-msgstr "Inkludera_dokument"
+msgstr "Include_doc"
 
 msgid "Install Python manual"
 msgstr "Installera Python-manualen"
@@ -2771,7 +2771,7 @@ msgstr ""
 "kan det leda till en oanvändbar installation."
 
 msgid "Include_launcher"
-msgstr "Inkludera_startprogram"
+msgstr "Include_launcher"
 
 msgid "Install :ref:`launcher`."
 msgstr "Installera :ref:`launcher`."
@@ -2787,7 +2787,7 @@ msgstr ""
 "``Include_launcher`` är satt till 1"
 
 msgid "Include_lib"
-msgstr "Inkludera_lib"
+msgstr "Include_lib"
 
 msgid ""
 "Install standard library and extension modules. Omitting this may lead to an "
@@ -2797,37 +2797,37 @@ msgstr ""
 "det leda till en oanvändbar installation."
 
 msgid "Include_pip"
-msgstr "Inkludera_pip"
+msgstr "Include_pip"
 
 msgid "Install bundled pip and setuptools"
 msgstr "Installera medföljande pip och setuptools"
 
 msgid "Include_symbols"
-msgstr "Inkludera_symboler"
+msgstr "Include_symbols"
 
 msgid "Install debugging symbols (``*.pdb``)"
 msgstr "Installera felsökningssymboler (``*.pdb``)"
 
 msgid "Include_tcltk"
-msgstr "Inkludera_tcltk"
+msgstr "Include_tcltk"
 
 msgid "Install Tcl/Tk support and IDLE"
 msgstr "Installera Tcl/Tk-stöd och IDLE"
 
 msgid "Include_test"
-msgstr "Inkludera_test"
+msgstr "Include_test"
 
 msgid "Install standard library test suite"
 msgstr "Installera testsviten för standardbiblioteket"
 
 msgid "Include_tools"
-msgstr "Inkludera_verktyg"
+msgstr "Include_tools"
 
 msgid "Install utility scripts"
 msgstr "Installera verktygsskript"
 
 msgid "LauncherOnly"
-msgstr "Endast startprogram"
+msgstr "LauncherOnly"
 
 msgid "Only installs the launcher. This will override most other options."
 msgstr ""
@@ -2841,7 +2841,7 @@ msgid "Disable most install UI"
 msgstr "Inaktivera de flesta installationsgränssnitt"
 
 msgid "SimpleInstallDescription"
-msgstr "EnkelInstallationBeskrivning"
+msgstr "SimpleInstallDescription"
 
 msgid "A custom message to display when the simplified install UI is used."
 msgstr ""
@@ -3165,7 +3165,7 @@ msgid "The command::"
 msgstr "Kommandot::"
 
 msgid "py --list"
-msgstr "py --lista"
+msgstr "py --list"
 
 msgid "displays the currently installed version(s) of Python."
 msgstr ""
@@ -3255,7 +3255,7 @@ msgstr ""
 "den virtuella miljön eller uttryckligen ange den globala Python-versionen."
 
 msgid "From a script"
-msgstr "Från ett manus"
+msgstr "Från ett skript"
 
 msgid ""
 "Let's create a test Python script - create a file called ``hello.py`` with "
@@ -3271,7 +3271,7 @@ msgid ""
 msgstr ""
 "#! python\n"
 "import sys\n"
-"sys.stdout.write(\"hello from Python %s\\n\" % (sys.version,))"
+"sys.stdout.write(\"hej från Python %s\\n\" % (sys.version,))"
 
 msgid "From the directory in which hello.py lives, execute the command::"
 msgstr "Från den katalog där hello.py finns, kör kommandot::"
@@ -3338,7 +3338,7 @@ msgstr ""
 "flera Python-versioner samtidigt beroende på innehållet i den första raden."
 
 msgid "Shebang Lines"
-msgstr "Shebang Lines"
+msgstr "Shebang-rader"
 
 msgid ""
 "If the first line of a script file starts with ``#!``, it is known as a "
@@ -3463,7 +3463,7 @@ msgid ""
 "[commands]\n"
 "/bin/xpython=C:\\Program Files\\XPython\\python.exe"
 msgstr ""
-"[kommandon]\n"
+"[commands]\n"
 "/bin/xpython=C:\\Program Files\\XPython\\python.exe"
 
 msgid ""
@@ -3683,7 +3683,7 @@ msgid ""
 "[defaults]\n"
 "python=3.7"
 msgstr ""
-"[standardvärden]\n"
+"[defaults]\n"
 "python=3.7"
 
 msgid ""
@@ -3698,7 +3698,7 @@ msgid ""
 "python=3\n"
 "python3=3.7"
 msgstr ""
-"[standardvärden]\n"
+"[defaults]\n"
 "python=3\n"
 "python3=3.7"
 
@@ -3799,7 +3799,7 @@ msgid "A :file:`pyvenv.cfg` was found but is corrupt."
 msgstr "En :file:`pyvenv.cfg` hittades men är korrupt."
 
 msgid "RC_CREATE_PROCESS"
-msgstr "RC_SKAPA_PROCESS"
+msgstr "RC_CREATE_PROCESS"
 
 msgid "101"
 msgstr "101"
@@ -3808,7 +3808,7 @@ msgid "Failed to launch Python."
 msgstr "Lyckades inte starta Python."
 
 msgid "RC_INSTALLING"
-msgstr "RC_INSTALLERING"
+msgstr "RC_INSTALLING"
 
 msgid "111"
 msgstr "111"
@@ -3821,7 +3821,7 @@ msgstr ""
 "slutförts."
 
 msgid "RC_INTERNAL_ERROR"
-msgstr "RC_INTERNT_FEL"
+msgstr "RC_INTERNAL_ERROR"
 
 msgid "109"
 msgstr "109"
