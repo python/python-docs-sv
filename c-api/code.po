@@ -405,7 +405,7 @@ msgid "no effect (:py:data:`__future__.generator_stop`)"
 msgstr "ingen effekt (:py:data:`__future__.generator_stop`)"
 
 msgid ":py:data:`__future__.annotations`"
-msgstr ":py:data:`__future__.anteckningar`"
+msgstr ":py:data:`__future__.annotations`"
 
 msgid "Extra information"
 msgstr "Extra information"
