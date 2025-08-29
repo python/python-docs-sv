@@ -243,6 +243,7 @@ msgstr "asynkron generator iterator"
 
 msgid "An object created by an :term:`asynchronous generator` function."
 msgstr ""
+"Ett objekt som skapats av en :term:`asynchronous generator`\\-funktion."
 
 msgid ""
 "This is an :term:`asynchronous iterator` which when called using the :meth:"

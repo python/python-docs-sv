@@ -1485,7 +1485,7 @@ msgstr ""
 "sprintf`, medan :func:`str` använder ``%.12g`` som tidigare.  Effekten är "
 "att :func:`repr` ibland kan visa fler decimaler än :func:`str`, för vissa "
 "tal.  Till exempel kan talet 8,1 inte representeras exakt binärt, så "
-"``repr(8,1)`` är ``'8,0999999999999996'``, medan str(8,1) är ``'8,1'``."
+"``repr(8.1)`` är ``'8.0999999999999996'``, medan str(8,1) är ``'8.1'``."
 
 msgid ""
 "The ``-X`` command-line option, which turned all standard exceptions into "
