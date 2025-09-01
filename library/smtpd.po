@@ -38,7 +38,7 @@ msgid ""
 "A possible replacement is the third-party :pypi:`aiosmtpd` library. This "
 "library is not maintained or supported by the Python core team."
 msgstr ""
-"En möjlig ersättning är tredjeparts :pypi:`aiosmtpd`-biblioteket. Detta "
+"En möjlig ersättning är tredjeparts :pypi:`aiosmtpd`\\-biblioteket. Detta "
 "bibliotek underhålls eller stöds inte av Pythons kärnteam."
 
 msgid ""

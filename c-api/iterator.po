@@ -34,7 +34,7 @@ msgid ""
 msgstr ""
 "Python tillhandahåller två iteratorobjekt för allmänt bruk.  Det första, en "
 "sekvensiterator, arbetar med en godtycklig sekvens som stöder :meth:`~object."
-"__getitem__`-metoden.  Den andra arbetar med ett anropbart objekt och ett "
+"__getitem__`\\-metoden.  Den andra arbetar med ett anropbart objekt och ett "
 "sentinelvärde, anropar det anropbara objektet för varje objekt i sekvensen "
 "och avslutar iterationen när sentinelvärdet returneras."
 

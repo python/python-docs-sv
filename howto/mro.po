@@ -608,7 +608,7 @@ msgid ""
 msgstr ""
 "En lat programmerare kan få MRO direkt från Python 2.2, eftersom det i detta "
 "fall sammanfaller med Python 2.3-linjäriseringen.  Det räcker med att "
-"anropa :meth:`~type.mro`-metoden för klass A:"
+"anropa :meth:`~type.mro`\\-metoden för klass A:"
 
 msgid ""
 "Finally, let me consider the example discussed in the first section, "
