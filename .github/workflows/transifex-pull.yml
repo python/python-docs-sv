@@ -36,7 +36,7 @@ jobs:
       - run: ./transifex-util.py recreate_tx_config --language sv --project-slug python-newest --version ${{ matrix.version }}
         env:
           TX_TOKEN: ${{ secrets.TX_TOKEN }}
-      - run: ./transifex-util.py fetch --language sv --project-slug python-newest --version ${{ matrix.version }} --pull-options=""
+      - run: ./transifex-util.py fetch --language sv --project-slug python-newest --version ${{ matrix.version }} --pull-options="--mode reviewed"
         env:
           TX_TOKEN: ${{ secrets.TX_TOKEN }}
       - run: ./transifex-util.py delete_obsolete_files --language sv --project-slug python-newest --version ${{ matrix.version }}
