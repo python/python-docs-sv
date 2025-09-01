@@ -1271,6 +1271,8 @@ msgid ""
 "This warning is typically emitted when compiling Python source code, and "
 "usually won't be reported when running already compiled code."
 msgstr ""
+"Denna varning visas vanligtvis vid kompilering av Python-källkod och "
+"rapporteras normalt inte när redan kompilerad kod körs."
 
 msgid "Base class for warnings about dubious runtime behavior."
 msgstr "Basklass för varningar om tvivelaktigt beteende under körtid."
