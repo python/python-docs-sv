@@ -23,16 +23,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Cryptographic Services"
-msgstr "Kryptografiska tjänster"
+msgstr ""
 
 msgid ""
 "The modules described in this chapter implement various algorithms of a "
 "cryptographic nature.  They are available at the discretion of the "
 "installation. Here's an overview:"
 msgstr ""
-"De moduler som beskrivs i detta kapitel implementerar olika algoritmer av "
-"kryptografisk natur.  De är tillgängliga efter installationens gottfinnande. "
-"Här är en översikt:"
 
 msgid "cryptography"
-msgstr "kryptografi"
+msgstr ""

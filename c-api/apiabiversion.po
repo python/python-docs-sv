@@ -24,209 +24,189 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "API and ABI Versioning"
-msgstr "Versionering av API och ABI"
+msgstr ""
 
 msgid "Build-time version constants"
-msgstr "Konstanter för byggtidsversion"
+msgstr ""
 
 msgid ""
 "CPython exposes its version number in the following macros. Note that these "
 "correspond to the version code is **built** with. See :c:var:`Py_Version` "
 "for the version used at **run time**."
 msgstr ""
-"CPython avslöjar sitt versionsnummer i följande makron. Observera att dessa "
-"motsvarar den version som koden är **byggd** med. Se :c:var:`Py_Version` för "
-"den version som används vid **körning**."
 
 msgid ""
 "See :ref:`stable` for a discussion of API and ABI stability across versions."
 msgstr ""
-"Se :ref:`stable` för en diskussion om API- och ABI-stabilitet mellan olika "
-"versioner."
 
 msgid "The ``3`` in ``3.4.1a2``."
-msgstr "\"3\" i \"3.4.1a2\"."
+msgstr ""
 
 msgid "The ``4`` in ``3.4.1a2``."
-msgstr "\"4\" i \"3.4.1a2\"."
+msgstr ""
 
 msgid "The ``1`` in ``3.4.1a2``."
-msgstr "Den ``1`` i ``3.4.1a2``."
+msgstr ""
 
 msgid ""
 "The ``a`` in ``3.4.1a2``. This can be ``0xA`` for alpha, ``0xB`` for beta, "
 "``0xC`` for release candidate or ``0xF`` for final."
 msgstr ""
-"\"A\" i \"3.4.1a2\". Detta kan vara ``0xA`` för alpha, ``0xB`` för beta, "
-"``0xC`` för releasekandidat eller ``0xF`` för final."
 
 msgid "The ``2`` in ``3.4.1a2``. Zero for final releases."
-msgstr "\"2\" i \"3.4.1a2\". Noll för slutliga utgåvor."
+msgstr ""
 
 msgid ""
 "The Python version number encoded in a single integer. See :c:func:"
 "`Py_PACK_FULL_VERSION` for the encoding details."
 msgstr ""
-"Pythons versionsnummer kodat i ett enda heltal. Se :c:func:"
-"`Py_PACK_FULL_VERSION` för detaljer om kodning."
 
 msgid ""
 "Use this for numeric comparisons, for example, ``#if PY_VERSION_HEX >= ...``."
 msgstr ""
-"Använd detta för numeriska jämförelser, till exempel ``#if PY_VERSION_HEX "
-">= ...``."
 
 msgid "Run-time version"
-msgstr "Version för drifttid"
+msgstr ""
 
 msgid ""
 "The Python runtime version number encoded in a single constant integer. See :"
 "c:func:`Py_PACK_FULL_VERSION` for the encoding details. This contains the "
 "Python version used at run time."
 msgstr ""
-"Pythons versionsnummer för körtid kodat i ett enda konstant heltal. Se :c:"
-"func:`Py_PACK_FULL_VERSION` för detaljer om kodningen. Detta innehåller den "
-"Python-version som används vid körning."
 
 msgid ""
 "Use this for numeric comparisons, for example, ``if (Py_Version >= ...)``."
 msgstr ""
-"Använd detta för numeriska jämförelser, till exempel ``if (Py_Version "
-">= ...)``."
 
 msgid "Bit-packing macros"
-msgstr "Makron för bit-packning"
+msgstr ""
 
 msgid ""
 "Return the given version, encoded as a single 32-bit integer with the "
 "following structure:"
 msgstr ""
-"Returnerar den angivna versionen, kodad som ett 32-bitars heltal med "
-"följande struktur:"
 
 msgid "Argument"
-msgstr "Argument"
+msgstr ""
 
 msgid "No. of bits"
-msgstr "Antal bitar"
+msgstr ""
 
 msgid "Bit mask"
-msgstr "Bitmask"
+msgstr ""
 
 msgid "Bit shift"
-msgstr "Bitskift"
+msgstr ""
 
 msgid "Example values"
-msgstr "Exempel på värden"
+msgstr ""
 
 msgid "``3.4.1a2``"
-msgstr "``3.4.1a2``"
+msgstr ""
 
 msgid "``3.10.0``"
-msgstr "``3.10.0``"
+msgstr ""
 
 msgid "*major*"
-msgstr "*major*"
+msgstr ""
 
 msgid "8"
-msgstr "8"
+msgstr ""
 
 msgid "``0xFF000000``"
-msgstr "``0xFF000000``"
+msgstr ""
 
 msgid "24"
-msgstr "24"
+msgstr ""
 
 msgid "``0x03``"
-msgstr "``0x03``"
+msgstr ""
 
 msgid "*minor*"
-msgstr "*mindre*"
+msgstr ""
 
 msgid "``0x00FF0000``"
-msgstr "``0x00FF0000``"
+msgstr ""
 
 msgid "16"
-msgstr "16"
+msgstr ""
 
 msgid "``0x04``"
-msgstr "``0x04``"
+msgstr ""
 
 msgid "``0x0A``"
-msgstr "``0x0A``"
+msgstr ""
 
 msgid "*micro*"
-msgstr "*mikro*"
+msgstr ""
 
 msgid "``0x0000FF00``"
-msgstr "``0x0000FF00``"
+msgstr ""
 
 msgid "``0x01``"
-msgstr "``0x01``"
+msgstr ""
 
 msgid "``0x00``"
-msgstr "``0x00``"
+msgstr ""
 
 msgid "*release_level*"
-msgstr "*release_level*"
+msgstr ""
 
 msgid "4"
-msgstr "4"
+msgstr ""
 
 msgid "``0x000000F0``"
-msgstr "``0x000000F0``"
+msgstr ""
 
 msgid "``0xA``"
-msgstr "``0xA``"
+msgstr ""
 
 msgid "``0xF``"
-msgstr "``0xF``"
+msgstr ""
 
 msgid "*release_serial*"
-msgstr "*release_serial*"
+msgstr ""
 
 msgid "``0x0000000F``"
-msgstr "``0x0000000F``"
+msgstr ""
 
 msgid "0"
-msgstr "0"
+msgstr ""
 
 msgid "``0x2``"
-msgstr "``0x2``"
+msgstr ""
 
 msgid "``0x0``"
-msgstr "``0x0``"
+msgstr ""
 
 msgid "For example:"
-msgstr "Till exempel:"
+msgstr ""
 
 msgid "Version"
-msgstr "Version"
+msgstr ""
 
 msgid "``Py_PACK_FULL_VERSION`` arguments"
-msgstr "argument för ``Py_PACK_FULL_VERSION``"
+msgstr ""
 
 msgid "Encoded version"
-msgstr "Kodad version"
+msgstr ""
 
 msgid "``(3, 4, 1, 0xA, 2)``"
-msgstr "``(3, 4, 1, 0xA, 2)``"
+msgstr ""
 
 msgid "``0x030401a2``"
-msgstr "``0x030401a2``"
+msgstr ""
 
 msgid "``(3, 10, 0, 0xF, 0)``"
-msgstr "``(3, 10, 0, 0xF, 0)``"
+msgstr ""
 
 msgid "``0x030a00f0``"
-msgstr "``0x030a00f0``"
+msgstr ""
 
 msgid ""
 "Out-of range bits in the arguments are ignored. That is, the macro can be "
 "defined as:"
 msgstr ""
-"Bitar utanför intervallet i argumenten ignoreras. Det vill säga, makrot kan "
-"definieras som:"
 
 msgid ""
 "#ifndef Py_PACK_FULL_VERSION\n"
@@ -238,27 +218,14 @@ msgid ""
 "   (((SERIAL) & 0xf) << 0))\n"
 "#endif"
 msgstr ""
-"#ifndef Py_PACK_FULL_VERSION\n"
-"#define Py_PACK_FULL_VERSION(X, Y, Z, LEVEL, SERIAL) ( \\\n"
-"   (((X) & 0xff) << 24) | \\\n"
-"   (((Y) & 0xff) << 16) | \\\n"
-"   (((Z) & 0xff) << 8) | \\\n"
-"   (((LEVEL) & 0xf) << 4) | \\\n"
-"   (((SERIAL) & 0xf) << 0))\n"
-"#endif"
 
 msgid ""
 "``Py_PACK_FULL_VERSION`` is primarily a macro, intended for use in ``#if`` "
 "directives, but it is also available as an exported function."
 msgstr ""
-"``Py_PACK_FULL_VERSION`` är i första hand ett makro, avsett att användas i "
-"``#if`` -direktiv, men det finns också som en exporterad funktion."
 
 msgid ""
 "Equivalent to ``Py_PACK_FULL_VERSION(major, minor, 0, 0, 0)``. The result "
 "does not correspond to any Python release, but is useful in numeric "
 "comparisons."
 msgstr ""
-"Motsvarar ``Py_PACK_FULL_VERSION(major, minor, 0, 0, 0)``. Resultatet "
-"motsvarar inte någon Python-version, men är användbart vid numeriska "
-"jämförelser."

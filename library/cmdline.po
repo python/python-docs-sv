@@ -23,160 +23,160 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Modules command-line interface (CLI)"
-msgstr "Moduler för kommandoradsgränssnitt (CLI)"
+msgstr ""
 
 msgid "The following modules have a command-line interface."
-msgstr "Följande moduler har ett kommandoradsgränssnitt."
+msgstr ""
 
 msgid ":ref:`ast <ast-cli>`"
-msgstr ":ref:`ast <ast-cli>`"
+msgstr ""
 
 msgid ":ref:`asyncio <asyncio-cli>`"
-msgstr ":ref:`asyncio <asyncio-cli>`"
+msgstr ""
 
 msgid ":mod:`base64`"
-msgstr ":mod:`base64`"
+msgstr ""
 
 msgid ":ref:`calendar <calendar-cli>`"
-msgstr ":ref:`kalendern <calendar-cli>`"
+msgstr ""
 
 msgid ":mod:`code`"
-msgstr ":mod:`kod`"
+msgstr ""
 
 msgid ":ref:`compileall <compileall-cli>`"
-msgstr ":ref:`compileall <compileall-cli>`"
+msgstr ""
 
 msgid ":mod:`cProfile`: see :ref:`profile <profile-cli>`"
-msgstr ":mod:`cProfile`: se :ref:`profile <profile-cli>`"
+msgstr ""
 
 msgid ":ref:`dis <dis-cli>`"
-msgstr ":ref:`dis <dis-cli>`"
+msgstr ""
 
 msgid ":ref:`doctest <doctest-cli>`"
-msgstr ":ref:`doctest <doctest-cli>`"
+msgstr ""
 
 msgid ":mod:`!encodings.rot_13`"
-msgstr ":mod:`!encodings.rot_13`"
+msgstr ""
 
 msgid ":mod:`ensurepip`"
-msgstr ":mod:`ensurepip`"
+msgstr ""
 
 msgid ":mod:`filecmp`"
-msgstr ":mod:`filecmp`"
+msgstr ""
 
 msgid ":mod:`fileinput`"
-msgstr ":mod:`filinmatning`"
+msgstr ""
 
 msgid ":mod:`ftplib`"
-msgstr ":mod:`ftplib`"
+msgstr ""
 
 msgid ":ref:`gzip <gzip-cli>`"
-msgstr ":ref:`gzip <gzip-cli>`"
+msgstr ""
 
 msgid ":ref:`http.server <http-server-cli>`"
-msgstr ":ref:`http.server <http-server-cli>`"
+msgstr ""
 
 msgid ":mod:`!idlelib`"
-msgstr ":mod:`!idlelib`"
+msgstr ""
 
 msgid ":ref:`inspect <inspect-module-cli>`"
-msgstr ":ref:`inspektera <inspect-module-cli>`"
+msgstr ""
 
 msgid ":ref:`json <json-commandline>`"
-msgstr ":ref:`json <json-commandline>`"
+msgstr ""
 
 msgid ":ref:`mimetypes <mimetypes-cli>`"
-msgstr ":ref:`mimetypes <mimetypes-cli>`"
+msgstr ""
 
 msgid ":mod:`pdb`"
-msgstr ":mod:`pdb`"
+msgstr ""
 
 msgid ":ref:`pickle <pickle-cli>`"
-msgstr ":ref:`pickle <pickle-cli>`"
+msgstr ""
 
 msgid ":ref:`pickletools <pickletools-cli>`"
-msgstr ":ref:`pickletools <pickletools-cli>`"
+msgstr ""
 
 msgid ":ref:`platform <platform-cli>`"
-msgstr ":ref:`plattform <platform-cli>`"
+msgstr ""
 
 msgid ":mod:`poplib`"
-msgstr ":mod:`poplib`"
+msgstr ""
 
 msgid ":ref:`profile <profile-cli>`"
-msgstr ":ref:`profile <profile-cli>`"
+msgstr ""
 
 msgid ":mod:`pstats`"
-msgstr ":mod:`pstats`"
+msgstr ""
 
 msgid ":ref:`py_compile <py_compile-cli>`"
-msgstr ":ref:`py_compile <py_compile-cli>`"
+msgstr ""
 
 msgid ":mod:`pyclbr`"
-msgstr ":mod:`pyclbr`"
+msgstr ""
 
 msgid ":mod:`pydoc`"
-msgstr ":mod:`pydoc`"
+msgstr ""
 
 msgid ":mod:`quopri`"
-msgstr ":mod:`quopri`"
+msgstr ""
 
 msgid ":ref:`random <random-cli>`"
-msgstr ":ref:`slumpmässig <random-cli>`"
+msgstr ""
 
 msgid ":mod:`runpy`"
-msgstr ":mod:`runpy`"
+msgstr ""
 
 msgid ":ref:`site <site-commandline>`"
-msgstr ":ref:`webbplats <site-commandline>`"
+msgstr ""
 
 msgid ":ref:`sqlite3 <sqlite3-cli>`"
-msgstr ":ref:`sqlite3 <sqlite3-cli>`"
+msgstr ""
 
 msgid ":ref:`symtable <symtable-cli>`"
-msgstr ":ref:`symtable <symtable-cli>`"
+msgstr ""
 
 msgid ":ref:`sysconfig <sysconfig-cli>`"
-msgstr ":ref:`sysconfig <sysconfig-cli>`"
+msgstr ""
 
 msgid ":mod:`tabnanny`"
-msgstr ":mod:`tabnanny`"
+msgstr ""
 
 msgid ":ref:`tarfile <tarfile-commandline>`"
-msgstr ":ref:`tarfile <tarfile-commandline>`"
+msgstr ""
 
 msgid ":mod:`!this`"
-msgstr ":mod:`!this`"
+msgstr ""
 
 msgid ":ref:`timeit <timeit-command-line-interface>`"
-msgstr ":ref:`timeit <timeit-command-line-interface>`"
+msgstr ""
 
 msgid ":ref:`tokenize <tokenize-cli>`"
-msgstr ":ref:`tokenize <tokenize-cli>`"
+msgstr ""
 
 msgid ":ref:`trace <trace-cli>`"
-msgstr ":ref:`trace <trace-cli>`"
+msgstr ""
 
 msgid ":mod:`turtledemo`"
-msgstr ":mod:`turtledemo`"
+msgstr ""
 
 msgid ":ref:`unittest <unittest-command-line-interface>`"
-msgstr ":ref:`unittest <unittest-command-line-interface>`"
+msgstr ""
 
 msgid ":ref:`uuid <uuid-cli>`"
-msgstr ":ref:`uuid <uuid-cli>`"
+msgstr ""
 
 msgid ":mod:`venv`"
-msgstr ":mod:`venv`"
+msgstr ""
 
 msgid ":mod:`webbrowser`"
-msgstr ":mod:`webbrowser`"
+msgstr ""
 
 msgid ":ref:`zipapp <zipapp-command-line-interface>`"
-msgstr ":ref:`zipapp <zipapp-command-line-interface>`"
+msgstr ""
 
 msgid ":ref:`zipfile <zipfile-commandline>`"
-msgstr ":ref:`zipfile <zipfile-commandline>`"
+msgstr ""
 
 msgid "See also the :ref:`Python command-line interface <using-on-general>`."
-msgstr "Se även :ref:`Pythons kommandoradsgränssnitt <using-on-general>`."
+msgstr ""

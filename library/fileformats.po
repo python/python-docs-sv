@@ -23,11 +23,9 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "File Formats"
-msgstr "Filformat"
+msgstr ""
 
 msgid ""
 "The modules described in this chapter parse various miscellaneous file "
 "formats that aren't markup languages and are not related to e-mail."
 msgstr ""
-"De moduler som beskrivs i det här kapitlet analyserar olika filformat som "
-"inte är markup-språk och inte är relaterade till e-post."

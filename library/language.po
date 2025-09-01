@@ -23,16 +23,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Python Language Services"
-msgstr "Språktjänster för Python"
+msgstr ""
 
 msgid ""
 "Python provides a number of modules to assist in working with the Python "
 "language.  These modules support tokenizing, parsing, syntax analysis, "
 "bytecode disassembly, and various other facilities."
 msgstr ""
-"Python tillhandahåller ett antal moduler som hjälper dig att arbeta med "
-"Python-språket.  Dessa moduler stöder tokenisering, parsning, syntaxanalys, "
-"bytecode-disassemblering och diverse andra funktioner."
 
 msgid "These modules include:"
-msgstr "Dessa moduler omfattar:"
+msgstr ""

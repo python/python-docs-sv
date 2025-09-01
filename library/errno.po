@@ -23,7 +23,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid ":mod:`!errno` --- Standard errno system symbols"
-msgstr ":mod:`!errno` --- Systemsymboler för standard errno"
+msgstr ""
 
 msgid ""
 "This module makes available standard ``errno`` system symbols. The value of "
@@ -31,574 +31,525 @@ msgid ""
 "are borrowed from :file:`linux/include/errno.h`, which should be all-"
 "inclusive."
 msgstr ""
-"Denna modul gör standardsymboler för ``errno`` tillgängliga. Värdet för "
-"varje symbol är motsvarande heltalsvärde. Namnen och beskrivningarna är "
-"hämtade från :file:`linux/include/errno.h`, som bör vara heltäckande."
 
 msgid ""
 "Dictionary providing a mapping from the errno value to the string name in "
 "the underlying system.  For instance, ``errno.errorcode[errno.EPERM]`` maps "
 "to ``'EPERM'``."
 msgstr ""
-"Ordbok som ger en mappning från errno-värdet till strängnamnet i det "
-"underliggande systemet.  Till exempel, ``errno.errorcode[errno.EPERM]`` "
-"mappar till ``'EPERM'``."
 
 msgid ""
 "To translate a numeric error code to an error message, use :func:`os."
 "strerror`."
 msgstr ""
-"Om du vill översätta en numerisk felkod till ett felmeddelande använder du :"
-"func:`os.strerror`."
 
 msgid ""
 "Of the following list, symbols that are not used on the current platform are "
 "not defined by the module.  The specific list of defined symbols is "
 "available as ``errno.errorcode.keys()``.  Symbols available can include:"
 msgstr ""
-"Av följande lista är symboler som inte används på den aktuella plattformen "
-"inte definierade av modulen.  Den specifika listan över definierade symboler "
-"finns tillgänglig som ``errno.errorcode.keys()``.  Symboler som är "
-"tillgängliga kan inkludera:"
 
 msgid ""
 "Operation not permitted. This error is mapped to the exception :exc:"
 "`PermissionError`."
 msgstr ""
-"Åtgärden är inte tillåten. Detta fel är mappat till undantaget :exc:"
-"`PermissionError`."
 
 msgid ""
 "No such file or directory. This error is mapped to the exception :exc:"
 "`FileNotFoundError`."
 msgstr ""
-"Ingen sådan fil eller katalog. Det här felet är mappat till undantaget :exc:"
-"`FileNotFoundError`."
 
 msgid ""
 "No such process. This error is mapped to the exception :exc:"
 "`ProcessLookupError`."
 msgstr ""
-"Ingen sådan process. Det här felet är mappat till undantaget :exc:"
-"`ProcessLookupError`."
 
 msgid ""
 "Interrupted system call. This error is mapped to the exception :exc:"
 "`InterruptedError`."
 msgstr ""
-"Avbrutet systemanrop. Detta fel är mappat till undantaget :exc:"
-"`InterruptedError`."
 
 msgid "I/O error"
-msgstr "I/O-fel"
+msgstr ""
 
 msgid "No such device or address"
-msgstr "Ingen sådan enhet eller adress"
+msgstr ""
 
 msgid "Arg list too long"
-msgstr "Argumentlistan är för lång"
+msgstr ""
 
 msgid "Exec format error"
-msgstr "Fel i exekveringsformat"
+msgstr ""
 
 msgid "Bad file number"
-msgstr "Felaktigt filnummer"
+msgstr ""
 
 msgid ""
 "No child processes. This error is mapped to the exception :exc:"
 "`ChildProcessError`."
 msgstr ""
-"Inga underordnade processer. Det här felet är mappat till undantaget :exc:"
-"`ChildProcessError`."
 
 msgid ""
 "Try again. This error is mapped to the exception :exc:`BlockingIOError`."
 msgstr ""
-"Försök igen. Det här felet är mappat till undantaget :exc:`BlockingIOError`."
 
 msgid "Out of memory"
-msgstr "Slut på minne"
+msgstr ""
 
 msgid ""
 "Permission denied.  This error is mapped to the exception :exc:"
 "`PermissionError`."
 msgstr ""
-"Behörighet nekad.  Det här felet är mappat till undantaget :exc:"
-"`PermissionError`."
 
 msgid "Bad address"
-msgstr "Felaktig adress"
+msgstr ""
 
 msgid "Block device required"
-msgstr "Blockenhet krävs"
+msgstr ""
 
 msgid "Device or resource busy"
-msgstr "Enhet eller resurs upptagen"
+msgstr ""
 
 msgid ""
 "File exists. This error is mapped to the exception :exc:`FileExistsError`."
 msgstr ""
-"Filen finns. Detta fel är mappat till undantaget :exc:`FileExistsError`."
 
 msgid "Cross-device link"
-msgstr "Länk mellan olika enheter"
+msgstr ""
 
 msgid "No such device"
-msgstr "Ingen sådan enhet"
+msgstr ""
 
 msgid ""
 "Not a directory. This error is mapped to the exception :exc:"
 "`NotADirectoryError`."
 msgstr ""
-"Inte en katalog. Det här felet är mappat till undantaget :exc:"
-"`NotADirectoryError`."
 
 msgid ""
 "Is a directory. This error is mapped to the exception :exc:"
 "`IsADirectoryError`."
 msgstr ""
-"Är en katalog. Det här felet är mappat till undantaget :exc:"
-"`IsADirectoryError`."
 
 msgid "Invalid argument"
-msgstr "Ogiltigt argument"
+msgstr ""
 
 msgid "File table overflow"
-msgstr "Överflöd i filtabell"
+msgstr ""
 
 msgid "Too many open files"
-msgstr "För många öppna filer"
+msgstr ""
 
 msgid "Not a typewriter"
-msgstr "Inte en skrivmaskin"
+msgstr ""
 
 msgid "Text file busy"
-msgstr "Textfil upptagen"
+msgstr ""
 
 msgid "File too large"
-msgstr "Filen är för stor"
+msgstr ""
 
 msgid "No space left on device"
-msgstr "Inget utrymme kvar på enheten"
+msgstr ""
 
 msgid "Illegal seek"
-msgstr "Olaglig sökning"
+msgstr ""
 
 msgid "Read-only file system"
-msgstr "Skrivskyddat filsystem"
+msgstr ""
 
 msgid "Too many links"
-msgstr "För många länkar"
+msgstr ""
 
 msgid ""
 "Broken pipe. This error is mapped to the exception :exc:`BrokenPipeError`."
 msgstr ""
-"Trasigt rör. Det här felet är mappat till undantaget :exc:`BrokenPipeError`."
 
 msgid "Math argument out of domain of func"
-msgstr "Matematiskt argument utanför func-domänen"
+msgstr ""
 
 msgid "Math result not representable"
-msgstr "Matematiskt resultat inte representativt"
+msgstr ""
 
 msgid "Resource deadlock would occur"
-msgstr "Resursdödläge skulle uppstå"
+msgstr ""
 
 msgid "File name too long"
-msgstr "Filnamnet är för långt"
+msgstr ""
 
 msgid "No record locks available"
-msgstr "Inga registerlås tillgängliga"
+msgstr ""
 
 msgid "Function not implemented"
-msgstr "Funktionen är inte implementerad"
+msgstr ""
 
 msgid "Directory not empty"
-msgstr "Katalogen är inte tom"
+msgstr ""
 
 msgid "Too many symbolic links encountered"
-msgstr "För många symboliska länkar påträffades"
+msgstr ""
 
 msgid ""
 "Operation would block. This error is mapped to the exception :exc:"
 "`BlockingIOError`."
 msgstr ""
-"Operationen skulle blockeras. Detta fel är mappat till undantaget :exc:"
-"`BlockingIOError`."
 
 msgid "No message of desired type"
-msgstr "Inget meddelande av önskad typ"
+msgstr ""
 
 msgid "Identifier removed"
-msgstr "Identifierare borttagen"
+msgstr ""
 
 msgid "Channel number out of range"
-msgstr "Kanalnummer utanför intervallet"
+msgstr ""
 
 msgid "Level 2 not synchronized"
-msgstr "Nivå 2 inte synkroniserad"
+msgstr ""
 
 msgid "Level 3 halted"
-msgstr "Nivå 3 stoppad"
+msgstr ""
 
 msgid "Level 3 reset"
-msgstr "Nivå 3 återställning"
+msgstr ""
 
 msgid "Link number out of range"
-msgstr "Länknummer utanför intervallet"
+msgstr ""
 
 msgid "Protocol driver not attached"
-msgstr "Protokolldrivrutin inte ansluten"
+msgstr ""
 
 msgid "No CSI structure available"
-msgstr "Ingen CSI-struktur tillgänglig"
+msgstr ""
 
 msgid "Level 2 halted"
-msgstr "Nivå 2 stoppad"
+msgstr ""
 
 msgid "Invalid exchange"
-msgstr "Ogiltigt utbyte"
+msgstr ""
 
 msgid "Invalid request descriptor"
-msgstr "Ogiltig request descriptor"
+msgstr ""
 
 msgid "Exchange full"
-msgstr "Utbyte fullt"
+msgstr ""
 
 msgid "No anode"
-msgstr "Ingen anod"
+msgstr ""
 
 msgid "Invalid request code"
-msgstr "Ogiltig kod för begäran"
+msgstr ""
 
 msgid "Invalid slot"
-msgstr "Ogiltig plats"
+msgstr ""
 
 msgid "File locking deadlock error"
-msgstr "Fel vid dödlåsning av fillåsning"
+msgstr ""
 
 msgid "Bad font file format"
-msgstr "Felaktigt format på teckensnittsfilen"
+msgstr ""
 
 msgid "Device not a stream"
-msgstr "Enhet inte en ström"
+msgstr ""
 
 msgid "No data available"
-msgstr "Inget data tillgängligt"
+msgstr ""
 
 msgid "Timer expired"
-msgstr "Timern har löpt ut"
+msgstr ""
 
 msgid "Out of streams resources"
-msgstr "Utanför strömmar resurser"
+msgstr ""
 
 msgid "Machine is not on the network"
-msgstr "Maskinen är inte ansluten till nätverket"
+msgstr ""
 
 msgid "Package not installed"
-msgstr "Paketet är inte installerat"
+msgstr ""
 
 msgid "Object is remote"
-msgstr "Objektet är avlägset"
+msgstr ""
 
 msgid "Link has been severed"
-msgstr "Länken har klippts av"
+msgstr ""
 
 msgid "Advertise error"
-msgstr "Annonseringsfel"
+msgstr ""
 
 msgid "Srmount error"
-msgstr "Srmount-fel"
+msgstr ""
 
 msgid "Communication error on send"
-msgstr "Kommunikationsfel vid sändning"
+msgstr ""
 
 msgid "Protocol error"
-msgstr "Protokollfel"
+msgstr ""
 
 msgid "Multihop attempted"
-msgstr "Multihop-försök"
+msgstr ""
 
 msgid "RFS specific error"
-msgstr "RFS-specifikt fel"
+msgstr ""
 
 msgid "Not a data message"
-msgstr "Inte ett datameddelande"
+msgstr ""
 
 msgid "Value too large for defined data type"
-msgstr "Värdet är för stort för den definierade datatypen"
+msgstr ""
 
 msgid "Name not unique on network"
-msgstr "Namnet är inte unikt i nätverket"
+msgstr ""
 
 msgid "File descriptor in bad state"
-msgstr "Filbeskrivare i dåligt tillstånd"
+msgstr ""
 
 msgid "Remote address changed"
-msgstr "Adressändring för fjärrkontroll"
+msgstr ""
 
 msgid "Can not access a needed shared library"
-msgstr "Kan inte komma åt ett nödvändigt delat bibliotek"
+msgstr ""
 
 msgid "Accessing a corrupted shared library"
-msgstr "Åtkomst till ett skadat delat bibliotek"
+msgstr ""
 
 msgid ".lib section in a.out corrupted"
-msgstr ".lib-avsnittet i a.out skadat"
+msgstr ""
 
 msgid "Attempting to link in too many shared libraries"
-msgstr "Försök att länka in för många delade bibliotek"
+msgstr ""
 
 msgid "Cannot exec a shared library directly"
-msgstr "Det går inte att köra ett delat bibliotek direkt"
+msgstr ""
 
 msgid "Illegal byte sequence"
-msgstr "Olaglig byte-sekvens"
+msgstr ""
 
 msgid "Interrupted system call should be restarted"
-msgstr "Avbrutet systemanrop bör startas om"
+msgstr ""
 
 msgid "Streams pipe error"
-msgstr "Fel i flödesrör"
+msgstr ""
 
 msgid "Too many users"
-msgstr "För många användare"
+msgstr ""
 
 msgid "Socket operation on non-socket"
-msgstr "Uttagsoperation på icke-uttag"
+msgstr ""
 
 msgid "Destination address required"
-msgstr "Destinationsadress krävs"
+msgstr ""
 
 msgid "Message too long"
-msgstr "För långt meddelande"
+msgstr ""
 
 msgid "Protocol wrong type for socket"
-msgstr "Protokoll fel typ för uttag"
+msgstr ""
 
 msgid "Protocol not available"
-msgstr "Protokollet är inte tillgängligt"
+msgstr ""
 
 msgid "Protocol not supported"
-msgstr "Protokollet stöds inte"
+msgstr ""
 
 msgid "Socket type not supported"
-msgstr "Uttagstyp stöds inte"
+msgstr ""
 
 msgid "Operation not supported on transport endpoint"
-msgstr "Åtgärden stöds inte av transportslutpunkten"
+msgstr ""
 
 msgid "Operation not supported"
-msgstr "Åtgärd stöds inte"
+msgstr ""
 
 msgid "Protocol family not supported"
-msgstr "Protokollfamiljen stöds inte"
+msgstr ""
 
 msgid "Address family not supported by protocol"
-msgstr "Adressfamilj stöds inte av protokollet"
+msgstr ""
 
 msgid "Address already in use"
-msgstr "Adressen används redan"
+msgstr ""
 
 msgid "Cannot assign requested address"
-msgstr "Kan inte tilldela begärd adress"
+msgstr ""
 
 msgid "Network is down"
-msgstr "Nätverket är nere"
+msgstr ""
 
 msgid "Network is unreachable"
-msgstr "Nätverket är inte nåbart"
+msgstr ""
 
 msgid "Network dropped connection because of reset"
-msgstr "Nätverket avbröt anslutningen på grund av återställning"
+msgstr ""
 
 msgid ""
 "Software caused connection abort. This error is mapped to the exception :exc:"
 "`ConnectionAbortedError`."
 msgstr ""
-"Programvaran orsakade att anslutningen avbröts. Detta fel är mappat till "
-"undantaget :exc:`ConnectionAbortedError`."
 
 msgid ""
 "Connection reset by peer. This error is mapped to the exception :exc:"
 "`ConnectionResetError`."
 msgstr ""
-"Anslutning återställd av peer. Det här felet är mappat till undantaget :exc:"
-"`ConnectionResetError`."
 
 msgid "No buffer space available"
-msgstr "Inget buffertutrymme tillgängligt"
+msgstr ""
 
 msgid "Transport endpoint is already connected"
-msgstr "Transportslutpunkten är redan ansluten"
+msgstr ""
 
 msgid "Transport endpoint is not connected"
-msgstr "Transportslutpunkten är inte ansluten"
+msgstr ""
 
 msgid ""
 "Cannot send after transport endpoint shutdown. This error is mapped to the "
 "exception :exc:`BrokenPipeError`."
 msgstr ""
-"Kan inte skicka efter avstängning av transportslutpunkt. Detta fel är mappat "
-"till undantaget :exc:`BrokenPipeError`."
 
 msgid "Too many references: cannot splice"
-msgstr "För många referenser: kan inte skarvas"
+msgstr ""
 
 msgid ""
 "Connection timed out. This error is mapped to the exception :exc:"
 "`TimeoutError`."
 msgstr ""
-"Anslutningen gick ut i tid. Detta fel är mappat till undantaget :exc:"
-"`TimeoutError`."
 
 msgid ""
 "Connection refused. This error is mapped to the exception :exc:"
 "`ConnectionRefusedError`."
 msgstr ""
-"Anslutning nekad. Detta fel är mappat till undantaget :exc:"
-"`ConnectionRefusedError`."
 
 msgid "Host is down"
-msgstr "Värden är nere"
+msgstr ""
 
 msgid "No route to host"
-msgstr "Ingen rutt till värden"
+msgstr ""
 
 msgid "Memory page has hardware error."
-msgstr "Minnessidan har ett hårdvarufel."
+msgstr ""
 
 msgid ""
 "Operation already in progress. This error is mapped to the exception :exc:"
 "`BlockingIOError`."
 msgstr ""
-"Operationen pågår redan. Detta fel är mappat till undantaget :exc:"
-"`BlockingIOError`."
 
 msgid ""
 "Operation now in progress. This error is mapped to the exception :exc:"
 "`BlockingIOError`."
 msgstr ""
-"Operationen pågår nu. Detta fel är mappat till undantaget :exc:"
-"`BlockingIOError`."
 
 msgid "Stale NFS file handle"
-msgstr "Föråldrat NFS-filhandtag"
+msgstr ""
 
 msgid "Structure needs cleaning"
-msgstr "Strukturen behöver rengöras"
+msgstr ""
 
 msgid "Not a XENIX named type file"
-msgstr "Inte en XENIX-namngiven typ av fil"
+msgstr ""
 
 msgid "No XENIX semaphores available"
-msgstr "Inga XENIX-semaforer tillgängliga"
+msgstr ""
 
 msgid "Is a named type file"
-msgstr "Är en namngiven typ av fil"
+msgstr ""
 
 msgid "Remote I/O error"
-msgstr "Fjärr-I/O-fel"
+msgstr ""
 
 msgid "Quota exceeded"
-msgstr "Kvoten överskreds"
+msgstr ""
 
 msgid "Interface output queue is full"
-msgstr "Gränssnittets utmatningskö är full"
+msgstr ""
 
 msgid "No medium found"
-msgstr "Inget medium hittades"
+msgstr ""
 
 msgid "Wrong medium type"
-msgstr "Fel typ av medium"
+msgstr ""
 
 msgid "Required key not available"
-msgstr "Nödvändig nyckel ej tillgänglig"
+msgstr ""
 
 msgid "Key has expired"
-msgstr "Nyckel har löpt ut"
+msgstr ""
 
 msgid "Key has been revoked"
-msgstr "Nyckeln har återkallats"
+msgstr ""
 
 msgid "Key was rejected by service"
-msgstr "Nyckel avvisades av tjänst"
+msgstr ""
 
 msgid "Operation not possible due to RF-kill"
-msgstr "Drift inte möjlig på grund av RF-död"
+msgstr ""
 
 msgid "Locked lock was unmapped"
-msgstr "Låst lås var inte mappat"
+msgstr ""
 
 msgid "Facility is not active"
-msgstr "Anläggningen är inte aktiv"
+msgstr ""
 
 msgid "Authentication error"
-msgstr "Autentiseringsfel"
+msgstr ""
 
 msgid "Bad CPU type in executable"
-msgstr "Fel CPU-typ i körbar fil"
+msgstr ""
 
 msgid "Bad executable (or shared library)"
-msgstr "Felaktig körbar fil (eller delat bibliotek)"
+msgstr ""
 
 msgid "Malformed Mach-o file"
-msgstr "Missbildad fil Mach-o"
+msgstr ""
 
 msgid "Device error"
-msgstr "Fel på enheten"
+msgstr ""
 
 msgid "Inappropriate file type or format"
-msgstr "Olämplig filtyp eller format"
+msgstr ""
 
 msgid "Need authenticator"
-msgstr "Behöver autentiserare"
+msgstr ""
 
 msgid "Attribute not found"
-msgstr "Attribut hittades inte"
+msgstr ""
 
 msgid "Policy not found"
-msgstr "Policyn hittades inte"
+msgstr ""
 
 msgid "Too many processes"
-msgstr "För många processer"
+msgstr ""
 
 msgid "Bad procedure for program"
-msgstr "Dålig procedur för program"
+msgstr ""
 
 msgid "Program version wrong"
-msgstr "Felaktig programversion"
+msgstr ""
 
 msgid "RPC prog. not avail"
-msgstr "RPC-prog. inte tillgängligt"
+msgstr ""
 
 msgid "Device power is off"
-msgstr "Enhetens strömförsörjning är avstängd"
+msgstr ""
 
 msgid "RPC struct is bad"
-msgstr "RPC-strukturen är dålig"
+msgstr ""
 
 msgid "RPC version wrong"
-msgstr "Fel RPC-version"
+msgstr ""
 
 msgid "Shared library version mismatch"
-msgstr "Felaktig versionsmatchning för delat bibliotek"
+msgstr ""
 
 msgid ""
 "Capabilities insufficient. This error is mapped to the exception :exc:"
 "`PermissionError`."
 msgstr ""
-"Kapaciteter otillräckliga. Detta fel är mappat till undantaget :exc:"
-"`PermissionError`."
 
 msgid "Availability"
-msgstr "Tillgänglighet"
+msgstr ""
 
 msgid "Operation canceled"
-msgstr "Drift avbruten"
+msgstr ""
 
 msgid "Owner died"
-msgstr "Ägaren dog"
+msgstr ""
 
 msgid "State not recoverable"
-msgstr "Tillståndet inte återhämtningsbart"
+msgstr ""

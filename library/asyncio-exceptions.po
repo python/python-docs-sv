@@ -24,78 +24,67 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Exceptions"
-msgstr "Undantag"
+msgstr ""
 
 msgid "**Source code:** :source:`Lib/asyncio/exceptions.py`"
-msgstr "**Källkod:** :source:`Lib/asyncio/exceptions.py`"
+msgstr ""
 
 msgid ""
 "A deprecated alias of :exc:`TimeoutError`, raised when the operation has "
 "exceeded the given deadline."
 msgstr ""
-"Ett föråldrat alias för :exc:`TimeoutError`, som uppstår när operationen har "
-"överskridit den angivna tidsgränsen."
 
 msgid "This class was made an alias of :exc:`TimeoutError`."
-msgstr "Denna klass gjordes till ett alias för :exc:`TimeoutError`."
+msgstr ""
 
 msgid "The operation has been cancelled."
-msgstr "Operationen har avbrutits."
+msgstr ""
 
 msgid ""
 "This exception can be caught to perform custom operations when asyncio Tasks "
 "are cancelled.  In almost all situations the exception must be re-raised."
 msgstr ""
-"Detta undantag kan fångas för att utföra anpassade operationer när asyncio "
-"Tasks avbryts.  I nästan alla situationer måste undantaget tas upp på nytt."
 
 msgid ""
 ":exc:`CancelledError` is now a subclass of :class:`BaseException` rather "
 "than :class:`Exception`."
 msgstr ""
-":exc:`CancelledError` är nu en subklass av :class:`BaseException` istället "
-"för :class:`Exception`."
 
 msgid "Invalid internal state of :class:`Task` or :class:`Future`."
-msgstr "Ogiltigt internt tillstånd för :class:`Task` eller :class:`Future`."
+msgstr ""
 
 msgid ""
 "Can be raised in situations like setting a result value for a *Future* "
 "object that already has a result value set."
 msgstr ""
-"Kan uppstå i situationer som att ange ett resultatvärde för ett *Future*-"
-"objekt som redan har ett resultatvärde angivet."
 
 msgid ""
 "The \"sendfile\" syscall is not available for the given socket or file type."
 msgstr ""
-"Syscallen \"sendfile\" är inte tillgänglig för den angivna socket- eller "
-"filtypen."
 
 msgid "A subclass of :exc:`RuntimeError`."
-msgstr "En underklass till :exc:`RuntimeError`."
+msgstr ""
 
 msgid "The requested read operation did not complete fully."
-msgstr "Den begärda läsoperationen slutfördes inte helt och hållet."
+msgstr ""
 
 msgid "Raised by the :ref:`asyncio stream APIs<asyncio-streams>`."
-msgstr "Utlöstes av :ref:`asyncio stream APIs<asyncio-streams>`."
+msgstr ""
 
 msgid "This exception is a subclass of :exc:`EOFError`."
-msgstr "Detta undantag är en subklass av :exc:`EOFError`."
+msgstr ""
 
 msgid "The total number (:class:`int`) of expected bytes."
-msgstr "Det totala antalet (:class:`int`) förväntade bytes."
+msgstr ""
 
 msgid "A string of :class:`bytes` read before the end of stream was reached."
 msgstr ""
-"En sträng av :class:`bytes` som lästes innan slutet av strömmen nåddes."
 
 msgid "Reached the buffer size limit while looking for a separator."
-msgstr "Nådde gränsen för buffertstorlek när jag letade efter en separator."
+msgstr ""
 
 msgid "Raised by the :ref:`asyncio stream APIs <asyncio-streams>`."
-msgstr "Utlöstes av :ref:`asyncio stream APIs <asyncio-streams>`."
+msgstr ""
 
 msgid "The total number of to be consumed bytes."
-msgstr "Det totala antalet bytes som ska konsumeras."
+msgstr ""

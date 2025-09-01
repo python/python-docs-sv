@@ -23,15 +23,12 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Functional Programming Modules"
-msgstr "Moduler för funktionell programmering"
+msgstr ""
 
 msgid ""
 "The modules described in this chapter provide functions and classes that "
 "support a functional programming style, and general operations on callables."
 msgstr ""
-"De moduler som beskrivs i detta kapitel innehåller funktioner och klasser "
-"som stöder en funktionell programmeringsstil och allmänna operationer på "
-"anropbara objekt."
 
 msgid "The following modules are documented in this chapter:"
-msgstr "Följande moduler dokumenteras i detta kapitel:"
+msgstr ""

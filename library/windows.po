@@ -23,11 +23,9 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "MS Windows Specific Services"
-msgstr "MS Windows-specifika tjänster"
+msgstr ""
 
 msgid ""
 "This chapter describes modules that are only available on MS Windows "
 "platforms."
 msgstr ""
-"I detta kapitel beskrivs moduler som endast är tillgängliga på MS Windows-"
-"plattformar."

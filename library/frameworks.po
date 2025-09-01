@@ -23,21 +23,18 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Program frameworks"
-msgstr "Ramverk för program"
+msgstr ""
 
 msgid ""
 "This chapter is no longer maintained, and the modules it contained have been "
 "moved to their respective topical documentation."
 msgstr ""
-"Detta kapitel underhålls inte längre och de moduler det innehöll har "
-"flyttats till sina respektive tematiska dokumentationer."
 
 msgid ":mod:`cmd` — :doc:`Command Line Interface Libraries <./cmdlinelibs>`"
 msgstr ""
-":mod:`cmd` - :doc:`Bibliotek för kommandoradsgränssnitt <./cmdlinelibs>`"
 
 msgid ":mod:`shlex` — :doc:`Unix Specific Services <./unix>`"
-msgstr ":mod:`shlex` - :doc:`Unix-specifika tjänster <./unix>`"
+msgstr ""
 
 msgid ":mod:`turtle` — :doc:`Graphical User Interfaces with Tk <./tk>`"
-msgstr ":mod:`turtle` - :doc:`Grafiska användargränssnitt med Tk <./tk>`"
+msgstr ""
