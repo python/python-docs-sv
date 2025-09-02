@@ -15,7 +15,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        version: [ '3.12' ]
+        version: [ '3.14.0-rc.2' ]
         format: [ html, latex ]
     steps:
       - uses: actions/setup-python@master
