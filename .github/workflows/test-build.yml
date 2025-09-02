@@ -1,5 +1,8 @@
 name: Test Build Workflow
 
+on:
+  schedule:
+    - cron: '30 18 * * *' # Runs every day at 2:30 PM UTC
 
   push:
     branches:
