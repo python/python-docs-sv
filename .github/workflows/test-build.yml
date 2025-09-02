@@ -1,7 +1,5 @@
 name: Test Build Workflow
 
-on:
-  schedule:
 
   push:
     branches:
