@@ -24,108 +24,129 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Stable"
-msgstr ""
+msgstr "Stabil"
 
 msgid "In development"
-msgstr ""
+msgstr "Under utveckling"
 
 msgid "This page"
-msgstr ""
+msgstr "Denna sidan"
 
 msgid "Report a bug"
-msgstr ""
+msgstr "Rapportera ett fel"
 
 msgid "Show source"
-msgstr ""
+msgstr "Visa källa"
 
 msgid "Download"
-msgstr ""
+msgstr "Ladda ner"
 
 msgid "Download Python %(dl_version)s documentation"
-msgstr ""
+msgstr "Ladda ner dokumentation för Python %(dl_version)s"
 
 msgid "Last updated on: %(last_updated)s."
-msgstr ""
+msgstr "Senast uppdaterad den: %(last_updated)s."
 
 msgid ""
 "To download an archive containing all the documents for this version of\n"
 "Python in one of various formats, follow one of links in this table."
 msgstr ""
+"För att ladda ner ett arkiv som innehåller alla dokument för denna version "
+"av\n"
+"Python i ett av olika format, följ en av länkarna i denna tabell."
 
 msgid "Format"
-msgstr ""
+msgstr "Format"
 
 msgid "Packed as .zip"
 msgstr "Packad som .zip"
 
 msgid "Packed as .tar.bz2"
-msgstr ""
+msgstr "Packad som .tar.bz2"
 
 msgid "PDF"
-msgstr ""
+msgstr "PDF"
 
 msgid ""
 "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-pdf-a4.zip\">Download</a> "
 "(ca. %(download_size)s MiB)"
 msgstr ""
+"<a href=\"%(dl_base)s/python-%(dl_version)s-docs-pdf-a4.zip\">Ladda ner</a> "
+"(ca. %(download_size)s MiB)"
 
 msgid ""
 "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-pdf-a4.tar.bz2\">Download</"
 "a> (ca. %(download_size)s MiB)"
 msgstr ""
+"<a href=\"%(dl_base)s/python-%(dl_version)s-docs-pdf-a4.tar.bz2\">Ladda ner</"
+"a> (ca. %(download_size)s MiB)"
 
 msgid "HTML"
-msgstr ""
+msgstr "HTML"
 
 msgid ""
 "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-html.zip\">Download</a> "
 "(ca. %(download_size)s MiB)"
 msgstr ""
+"<a href=\"%(dl_base)s/python-%(dl_version)s-docs-html.zip\">Ladda ner</a> "
+"(ca. %(download_size)s MiB)"
 
 msgid ""
 "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-html.tar.bz2\">Download</a> "
 "(ca. %(download_size)s MiB)"
 msgstr ""
+"<a href=\"%(dl_base)s/python-%(dl_version)s-docs-html.tar.bz2\">Ladda ner</"
+"a> (ca. %(download_size)s MiB)"
 
 msgid "Plain text"
-msgstr ""
+msgstr "Vanlig text"
 
 msgid ""
 "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-text.zip\">Download</a> "
 "(ca. %(download_size)s MiB)"
 msgstr ""
+"<a href=\"%(dl_base)s/python-%(dl_version)s-docs-text.zip\">Ladda ner</a> "
+"(ca. %(download_size)s MiB)"
 
 msgid ""
 "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-text.tar.bz2\">Download</a> "
 "(ca. %(download_size)s MiB)"
 msgstr ""
+"<a href=\"%(dl_base)s/python-%(dl_version)s-docs-text.tar.bz2\">Ladda ner</"
+"a> (ca. %(download_size)s MiB)"
 
 msgid "Texinfo"
-msgstr ""
+msgstr "Texinfo"
 
 msgid ""
 "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-texinfo.zip\">Download</a> "
 "(ca. %(download_size)s MiB)"
 msgstr ""
+"<a href=\"%(dl_base)s/python-%(dl_version)s-docs-texinfo.zip\">Ladda ner</a> "
+"(ca. %(download_size)s MiB)"
 
 msgid ""
 "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-texinfo.tar.bz2\">Download</"
 "a> (ca. %(download_size)s MiB)"
 msgstr ""
+"<a href=\"%(dl_base)s/python-%(dl_version)s-docs-texinfo.tar.bz2\">Ladda "
+"ner</a> (ca. %(download_size)s MiB)"
 
 msgid "EPUB"
-msgstr ""
+msgstr "EPUB"
 
 msgid ""
 "<a href=\"%(dl_base)s/python-%(dl_version)s-docs.epub\">Download</a> (ca. "
 "%(download_size)s MiB)"
 msgstr ""
+"<a href=\"%(dl_base)s/python-%(dl_version)s-docs.epub\">Ladda ner</a> (ca. "
+"%(download_size)s MiB)"
 
 msgid "These archives contain all the content in the documentation."
-msgstr ""
+msgstr "Dessa arkiv innehåller allt innehåll i dokumentationen."
 
 msgid "Unpacking"
-msgstr ""
+msgstr "Uppackning"
 
 msgid ""
 "Unix users should download the .tar.bz2 archives; these are bzipped tar\n"
@@ -136,262 +157,284 @@ msgid ""
 "the\n"
 "best compression and fastest download times."
 msgstr ""
+"Unix-användare bör ladda ner .tar.bz2-arkiven; dessa är bzippade tar\n"
+"arkiv och kan hanteras på vanligt sätt med hjälp av tar och bzip2\n"
+"programmet. Programmet <a href=\"https://infozip.sourceforge.net\">Info-ZIP</"
+"a> unzip kan användas för att\n"
+"användas för att hantera ZIP-arkiven om så önskas. .tar.bz2-arkiven ger den "
+"bästa\n"
+"bästa komprimeringen och snabbaste nedladdningstiden."
 
 msgid ""
 "Windows users can use the ZIP archives since those are customary on that\n"
 "platform. These are created on Unix using the Info-ZIP zip program."
 msgstr ""
+"Windows-användare kan använda ZIP-arkiven eftersom de är vanliga på den\n"
+"plattformen. Dessa skapas på Unix med hjälp av zip-programmet Info-ZIP."
 
 msgid "Problems"
-msgstr ""
+msgstr "Problem"
 
 msgid ""
 "If you have comments or suggestions for the Python documentation, please "
 "send\n"
 "email to <a href=\"mailto:docs@python.org\">docs@python.org</a>."
 msgstr ""
+"Om du har kommentarer eller förslag till Python-dokumentationen kan du "
+"skicka \n"
+"e-post till <a href=\"mailto:docs@python.org\">docs@python.org.</a>."
 
 msgid "Availability"
 msgstr "Tillgänglighet"
 
 msgid "Part of the"
-msgstr ""
+msgstr "Del av"
 
 msgid "Limited API"
-msgstr ""
+msgstr "Begränsat API"
 
 msgid "Stable ABI"
-msgstr ""
+msgstr "Stabil ABI"
 
 msgid "(as an opaque struct)"
-msgstr ""
+msgstr "(som en ogenomskinlig struct)"
 
 msgid "(including all members)"
-msgstr ""
+msgstr "(inklusive alla medlemmar)"
 
 msgid "since version %s"
-msgstr ""
+msgstr "sedan version %s"
 
 msgid "(Only some members are part of the stable ABI.)"
-msgstr ""
+msgstr "(Endast vissa medlemmar ingår i det stabila ABI.)"
 
 msgid "This is"
-msgstr ""
+msgstr "Detta är"
 
 msgid "Unstable API"
-msgstr ""
+msgstr "Instabilt API"
 
 msgid ". It may change without warning in minor releases."
-msgstr ""
+msgstr ". Den kan ändras utan förvarning i mindre versioner."
 
 msgid "Return value: Always NULL."
-msgstr ""
+msgstr "Returvärde: Alltid NULL."
 
 msgid "Return value: New reference."
-msgstr ""
+msgstr "Returvärde: Ny referens."
 
 msgid "Return value: Borrowed reference."
-msgstr ""
+msgstr "Returvärde: Lånad referens."
 
 msgid "CPython implementation detail:"
-msgstr ""
+msgstr "Detaljerad implementering av CPython:"
 
 msgid ""
 "Deprecated since version {deprecated}, will be removed in version {removed}"
 msgstr ""
+"Föråldrad sedan version {deprecated}, kommer att tas bort i version {removed}"
 
 msgid "Deprecated since version {deprecated}, removed in version {removed}"
-msgstr ""
+msgstr "Föråldrad sedan version {deprecated}, borttagen i version {removed}"
 
 msgid "in development"
-msgstr ""
+msgstr "under utveckling"
 
 msgid "pre-release"
-msgstr ""
+msgstr "förutgåva"
 
 msgid "stable"
-msgstr ""
+msgstr "stabil"
 
 msgid "security-fixes"
-msgstr ""
+msgstr "säkerhetsfixar"
 
 msgid "EOL"
-msgstr ""
+msgstr "EOL"
 
 msgid "Welcome! This is the official documentation for Python %(release)s."
 msgstr ""
+"Välkommen till Python! Detta är den officiella dokumentationen för Python "
+"%(release)s."
 
 msgid "Documentation sections:"
-msgstr ""
+msgstr "Documentation sections:"
 
 msgid "What's new in Python %(version)s?"
-msgstr ""
+msgstr "Vad är nytt i Python %(version)s?"
 
 msgid ""
 "Or <a href=\"%(whatsnew_index)s\">all \"What's new\" documents since Python "
 "2.0</a>"
 msgstr ""
+"Eller <a href=\"%(whatsnew_index)s\">alla \"Vad är nytt\"-dokument sedan "
+"Python 2.0</a>"
 
 msgid "Tutorial"
-msgstr ""
+msgstr "Handledning"
 
 msgid "Start here: a tour of Python's syntax and features"
-msgstr ""
+msgstr "Börja här: en genomgång av Pythons syntax och funktioner"
 
 msgid "Library reference"
-msgstr ""
+msgstr "Biblioteksreferens"
 
 msgid "Standard library and builtins"
-msgstr ""
+msgstr "Standardbibliotek och inbyggda"
 
 msgid "Language reference"
-msgstr ""
+msgstr "Språkreferens"
 
 msgid "Syntax and language elements"
-msgstr ""
+msgstr "Syntax och språkliga element"
 
 msgid "Python setup and usage"
-msgstr ""
+msgstr "Installation och användning av Python"
 
 msgid "How to install, configure, and use Python"
-msgstr ""
+msgstr "Så här installerar, konfigurerar och använder du Python"
 
 msgid "Python HOWTOs"
-msgstr ""
+msgstr "Python HOWTOs"
 
 msgid "In-depth topic manuals"
-msgstr ""
+msgstr "Fördjupade ämnesmanualer"
 
 msgid "Installing Python modules"
-msgstr ""
+msgstr "Installera Python-moduler"
 
 msgid "Third-party modules and PyPI.org"
-msgstr ""
+msgstr "Tredjepartsmoduler och PyPI.org"
 
 msgid "Distributing Python modules"
-msgstr ""
+msgstr "Distribuera Python-moduler"
 
 msgid "Publishing modules for use by other people"
-msgstr ""
+msgstr "Publicering av moduler för användning av andra personer"
 
 msgid "Extending and embedding"
-msgstr ""
+msgstr "Utökning och inbäddning"
 
 msgid "For C/C++ programmers"
-msgstr ""
+msgstr "För C/C++-programmerare"
 
 msgid "Python's C API"
-msgstr ""
+msgstr "Pythons C API"
 
 msgid "C API reference"
-msgstr ""
+msgstr "C API-referens"
 
 msgid "FAQs"
-msgstr ""
+msgstr "Frågor och svar"
 
 msgid "Frequently asked questions (with answers!)"
-msgstr ""
+msgstr "Ofta ställda frågor (med svar!)"
 
 msgid "Deprecations"
-msgstr ""
+msgstr "Föråldrade funktioner"
 
 msgid "Deprecated functionality"
-msgstr ""
+msgstr "Föråldrad funktionalitet"
 
 msgid "Indices, glossary, and search:"
-msgstr ""
+msgstr "Index, ordlista och sökning:"
 
 msgid "Global module index"
-msgstr ""
+msgstr "Globalt modulindex"
 
 msgid "All modules and libraries"
-msgstr ""
+msgstr "Alla moduler och bibliotek"
 
 msgid "General index"
-msgstr ""
+msgstr "Allmänt index"
 
 msgid "All functions, classes, and terms"
-msgstr ""
+msgstr "Alla funktioner, klasser och termer"
 
 msgid "Glossary"
-msgstr ""
+msgstr "Ordlista"
 
 msgid "Terms explained"
-msgstr ""
+msgstr "Termer förklarade"
 
 msgid "Search page"
-msgstr ""
+msgstr "Söksida"
 
 msgid "Search this documentation"
-msgstr ""
+msgstr "Sök i denna dokumentation"
 
 msgid "Complete table of contents"
-msgstr ""
+msgstr "Fullständig innehållsförteckning"
 
 msgid "Lists all sections and subsections"
-msgstr ""
+msgstr "Listar alla avsnitt och underavsnitt"
 
 msgid "Project information:"
-msgstr ""
+msgstr "Projektinformation:"
 
 msgid "Reporting issues"
-msgstr ""
+msgstr "Rapportera felaktigheter"
 
 msgid "Contributing to docs"
-msgstr ""
+msgstr "Bidra till dokumentationen"
 
 msgid "Download the documentation"
-msgstr ""
+msgstr "Ladda ner dokumentationen"
 
 msgid "History and license of Python"
-msgstr ""
+msgstr "Historik och licens för Python"
 
 msgid "Copyright"
-msgstr ""
+msgstr "Upphovsrätt"
 
 msgid "About the documentation"
-msgstr ""
+msgstr "Om dokumentationen"
 
 msgid "Download these documents"
-msgstr ""
+msgstr "Ladda ner dessa dokument"
 
 msgid "Docs by version"
-msgstr ""
+msgstr "Dokumentation efter version"
 
 msgid "All versions"
-msgstr ""
+msgstr "Alla versioner"
 
 msgid "Other resources"
-msgstr ""
+msgstr "Övriga resurser"
 
 msgid "PEP index"
-msgstr ""
+msgstr "PEP-index"
 
 msgid "Beginner's guide"
-msgstr ""
+msgstr "Nybörjarguide"
 
 msgid "Book list"
-msgstr ""
+msgstr "Boklista"
 
 msgid "Audio/visual talks"
-msgstr ""
+msgstr "Audiovisuella samtal"
 
 msgid "Python developer’s guide"
-msgstr ""
+msgstr "Python-utvecklarens guide"
 
 msgid ""
 "This document is for an old version of Python that is no longer supported.\n"
 "    You should upgrade, and read the"
 msgstr ""
+"Detta dokument är för en gammal version av Python som inte längre stöds.\n"
+"    Du bör uppgradera och läsa"
 
 msgid "Python documentation for the current stable release"
-msgstr ""
+msgstr "Python-dokumentation för den aktuella stabila versionen"
 
 msgid ""
 "This is a deploy preview created from a <a href=\"%(repository_url)s/pull/"
 "%(pr_id)s\">pull request</a>.\n"
 "  For authoritative documentation, see"
 msgstr ""
+"Detta är en förhandsgranskning av deploy som skapats från en <a "
+"href=\"%(repository_url)s/pull/%(pr_id)s\">pull request.</a>\n"
+"  För auktoritativ dokumentation, se"
 
 msgid "the current stable release"
-msgstr ""
+msgstr "den aktuella stabila versionen"
