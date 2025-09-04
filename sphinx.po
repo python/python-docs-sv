@@ -181,7 +181,7 @@ msgid ""
 "email to <a href=\"mailto:docs@python.org\">docs@python.org</a>."
 msgstr ""
 "Om du har kommentarer eller förslag till Python-dokumentationen kan du "
-"skicka \n"
+"skicka\n"
 "e-post till <a href=\"mailto:docs@python.org\">docs@python.org.</a>."
 
 msgid "Availability"
