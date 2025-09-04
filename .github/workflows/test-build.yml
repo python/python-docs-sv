@@ -2,8 +2,7 @@ name: Test Build Workflow
 
 on:
   schedule:
-    - cron: '30 14 * * *' # Runs every day at 2:30 PM UTC
-
+    - cron: '0 0 * * *'
   push:
     branches:
       - '*'
@@ -15,21 +14,21 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        version: [ '3.14.0-rc.2' ]
+        version: [ '3.14', allow-prereleases: True ] 
         format: [ html, latex ]
     steps:
       - uses: actions/setup-python@master
         with:
-          python-version: 3.14.0-rc.2  # pinned for Sphinx 3.4.3 to build 3.10
+          python-version: 3.12  # pinned for Sphinx 3.4.3 to build 3.10
       - uses: actions/checkout@master
         with:
           repository: python/cpython
-          ref: 3.14
+          ref: ${{ matrix.version }}
       - run: make venv
         working-directory: ./Doc
       - uses: actions/checkout@master
         with:
-          ref: 3.14
+          ref: ${{ matrix.version }}
           path: Doc/locales/sv/LC_MESSAGES
       - run: git pull
         working-directory: ./Doc/locales/sv/LC_MESSAGES
@@ -40,22 +39,22 @@ jobs:
         if: success() || failure()
         with:
           name: build-${{ matrix.version }}-${{ matrix.format }}
-          path: Doc/build/html
+          path: Doc/build/${{ matrix.format }}
 
   output-pdf:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        version: [ '3.14.0-rc.2' ]
+        version: [ '3.14' ]
     needs: [ 'build-translation' ]
     steps:
       - uses: actions/download-artifact@master
         with:
-          name: build-3.14-latex
+          name: build-${{ matrix.version }}-latex
       - run: sudo apt-get update
       - run: sudo apt-get install -y latexmk texlive-xetex fonts-freefont-otf xindy
       - run: make
       - uses: actions/upload-artifact@master
         with:
-          name: build-3.14-pdf
+          name: build-${{ matrix.version }}-pdf
           path: .
