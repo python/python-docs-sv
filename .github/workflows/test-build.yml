@@ -14,12 +14,13 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        version: [ '3.14', allow-prereleases: True ] 
+        version: [ '3.14' ] 
         format: [ html, latex ]
     steps:
       - uses: actions/setup-python@master
         with:
-          python-version: 3.12  # pinned for Sphinx 3.4.3 to build 3.10
+          python-version: "${{ matrix.python_version }}"
+          allow-prereleases: true  
       - uses: actions/checkout@master
         with:
           repository: python/cpython
