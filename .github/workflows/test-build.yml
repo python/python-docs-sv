@@ -29,7 +29,7 @@ jobs:
         working-directory: ./Doc
       - uses: actions/checkout@master
         with:
-          ref: ${{ matrix.version }}
+          ref: 3.14
           path: Doc/locales/sv/LC_MESSAGES
       - run: git pull
         working-directory: ./Doc/locales/sv/LC_MESSAGES
@@ -40,7 +40,7 @@ jobs:
         if: success() || failure()
         with:
           name: build-${{ matrix.version }}-${{ matrix.format }}
-          path: Doc/build/${{ matrix.format }}
+          path: Doc/build/3.14
 
   output-pdf:
     runs-on: ubuntu-latest
@@ -51,11 +51,11 @@ jobs:
     steps:
       - uses: actions/download-artifact@master
         with:
-          name: build-${{ matrix.version }}-latex
+          name: build-3.14-latex
       - run: sudo apt-get update
       - run: sudo apt-get install -y latexmk texlive-xetex fonts-freefont-otf xindy
       - run: make
       - uses: actions/upload-artifact@master
         with:
-          name: build-${{ matrix.version }}-pdf
+          name: build-3.14-pdf
           path: .
