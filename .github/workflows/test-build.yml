@@ -20,7 +20,7 @@ jobs:
     steps:
       - uses: actions/setup-python@master
         with:
-          python-version: 3.14  # pinned for Sphinx 3.4.3 to build 3.10
+          python-version: 3.14.0-rc.2  # pinned for Sphinx 3.4.3 to build 3.10
       - uses: actions/checkout@master
         with:
           repository: python/cpython
@@ -46,7 +46,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        version: [ '3.14' ]
+        version: [ '3.14.0-rc.2' ]
     needs: [ 'build-translation' ]
     steps:
       - uses: actions/download-artifact@master
