@@ -24,7 +24,7 @@ jobs:
       - uses: actions/checkout@master
         with:
           repository: python/cpython
-          ref: ${{ matrix.version }}
+          ref: 3.14
       - run: make venv
         working-directory: ./Doc
       - uses: actions/checkout@master
