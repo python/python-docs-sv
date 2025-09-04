@@ -40,7 +40,7 @@ jobs:
         if: success() || failure()
         with:
           name: build-${{ matrix.version }}-${{ matrix.format }}
-          path: Doc/build/${{ matrix.version }}
+          path: Doc/build/html
 
   output-pdf:
     runs-on: ubuntu-latest
