@@ -5,16 +5,15 @@
 #
 # Translators:
 # python-doc bot, 2025
-# Daniel Nylander <po@danielnylander.se>, 2025
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-01 14:16+0000\n"
-"PO-Revision-Date: 2025-08-02 17:35+0000\n"
-"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
+"POT-Creation-Date: 2025-09-08 14:49-0300\n"
+"PO-Revision-Date: 2025-08-15 19:01+0000\n"
+"Last-Translator: python-doc bot, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
 "sv/)\n"
 "MIME-Version: 1.0\n"
@@ -437,12 +436,6 @@ msgid ""
 "to finish closing. Also, :func:`asyncio.run` has been updated to use the "
 "new :term:`coroutine`. (Contributed by Kyle Stanley in :issue:`34037`.)"
 msgstr ""
-"Lagt till en ny :term:`coroutine` :meth:`~asyncio.loop."
-"shutdown_default_executor` som schemalägger en avstängning för "
-"standardutföraren som väntar på att :class:`~concurrent.futures."
-"ThreadPoolExecutor` ska stängas. Dessutom har :func:`asyncio.run` "
-"uppdaterats för att använda den nya :term:`coroutine`. (Bidrag från Kyle "
-"Stanley i :issue:`34037`.)"
 
 msgid ""
 "Added :class:`!asyncio.PidfdChildWatcher`, a Linux-specific child watcher "
@@ -1756,9 +1749,6 @@ msgid ""
 "*tstate* parameter (``PyThreadState*``). (Contributed by Victor Stinner in :"
 "issue:`38500`.)"
 msgstr ""
-"``PyInterpreterState.eval_frame`` (:pep:`523`) kräver nu en ny obligatorisk "
-"*tstate*\\-parameter (``PyThreadState*``). (Bidrag från Victor Stinner i :"
-"issue:`38500`.)"
 
 msgid ""
 "Extension modules: :c:member:`~PyModuleDef.m_traverse`, :c:member:"

@@ -5,16 +5,15 @@
 #
 # Translators:
 # python-doc bot, 2025
-# Daniel Nylander <po@danielnylander.se>, 2025
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-05 14:17+0000\n"
-"PO-Revision-Date: 2025-08-02 17:35+0000\n"
-"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
+"POT-Creation-Date: 2025-09-08 14:49-0300\n"
+"PO-Revision-Date: 2025-08-15 19:01+0000\n"
+"Last-Translator: python-doc bot, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
 "sv/)\n"
 "MIME-Version: 1.0\n"
@@ -106,9 +105,6 @@ msgid ""
 "statements separated by newlines, with significant leading whitespace as in "
 "normal module code."
 msgstr ""
-"Exekvera Python-koden i *command*.  *command* kan vara en eller flera satser "
-"åtskilda av nya rader, med betydande inledande blanksteg som i normal "
-"modulkod."
 
 msgid ""
 "If this option is given, the first element of :data:`sys.argv` will be ``\"-"
@@ -404,9 +400,6 @@ msgid ""
 "compiled (:term:`bytecode`) files by adding ``.opt-2`` before the ``.pyc`` "
 "extension (see :pep:`488`)."
 msgstr ""
-"Gör :option:`\\-O` och förkasta även docstrings.  Förbättra filnamnet för "
-"kompilerade (:term:`bytecode`) filer genom att lägga till ``.opt-2`` före "
-"ändelsen ``.pyc`` (se :pep:`488`)."
 
 msgid "Don't prepend a potentially unsafe path to :data:`sys.path`:"
 msgstr ""
@@ -437,8 +430,8 @@ msgstr ""
 
 msgid ""
 "Turn on hash randomization. This option only has an effect if the :envvar:"
-"`PYTHONHASHSEED` environment variable is set to ``0``, since hash "
-"randomization is enabled by default."
+"`PYTHONHASHSEED` environment variable is set to anything other than "
+"``random``, since hash randomization is enabled by default."
 msgstr ""
 
 msgid ""
@@ -1094,8 +1087,6 @@ msgid ""
 "``default``: use the :ref:`default memory allocators <default-memory-"
 "allocators>`."
 msgstr ""
-"``default``: använd :ref:`standardminnesallokatorer <default-memory-"
-"allocators>`."
 
 msgid ""
 "``malloc``: use the :c:func:`malloc` function of the C library for all "

@@ -5,16 +5,15 @@
 #
 # Translators:
 # python-doc bot, 2025
-# Daniel Nylander <po@danielnylander.se>, 2025
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-03 14:18+0000\n"
-"PO-Revision-Date: 2025-08-02 17:35+0000\n"
-"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
+"POT-Creation-Date: 2025-09-08 14:49-0300\n"
+"PO-Revision-Date: 2025-08-15 19:01+0000\n"
+"Last-Translator: python-doc bot, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
 "sv/)\n"
 "MIME-Version: 1.0\n"
@@ -62,7 +61,7 @@ msgid ""
 msgstr ""
 
 msgid ":mod:`dataclasses`: :ref:`PEP 557 -- Data Classes <whatsnew37-pep557>`"
-msgstr ":mod:`dataclasses`: :ref:`PEP 557 -- Dataklasser <whatsnew37-pep557>`"
+msgstr ""
 
 msgid ":ref:`whatsnew37_importlib_resources`"
 msgstr ""
@@ -92,8 +91,6 @@ msgid ""
 "objects `has been declared`_ to be an official part of the Python language "
 "spec."
 msgstr ""
-"bevarandet av insättningsordning för :ref:`dict <typesmapping>`\\-objekt "
-"`has been declared`_ vara en officiell del av Pythons språkspecifikation."
 
 msgid "Significant improvements in the standard library:"
 msgstr ""
@@ -714,7 +711,7 @@ msgid ""
 msgstr ""
 
 msgid ":pep:`557` -- Data Classes"
-msgstr ":pep:`557` -- Dataklasser"
+msgstr ""
 
 msgid "PEP written and implemented by Eric V. Smith"
 msgstr ""
@@ -2724,10 +2721,6 @@ msgid ""
 "class C(1 for x in [1]):\n"
 "    pass"
 msgstr ""
-"f(1 for x in [1],)\n"
-"\n"
-"class C(1 for x in [1]):\n"
-"    pass"
 
 msgid ""
 "Python 3.7 now correctly raises a :exc:`SyntaxError`, as a generator "
@@ -3088,9 +3081,6 @@ msgid ""
 "<contextvarsobjects_pointertype_change>` to use :c:type:`PyObject` "
 "pointers.  See also :issue:`34762`."
 msgstr ""
-"I 3.7.1 :ref:`uppdaterades <contextvarsobjects_pointertype_change>` C API:et "
-"för kontextvariabler för att använda :c:type:`PyObject`\\-pekare.  Se även :"
-"issue:`34762`."
 
 msgid ""
 "In 3.7.1 the :mod:`tokenize` module now implicitly emits a ``NEWLINE`` token "

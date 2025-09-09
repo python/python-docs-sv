@@ -5,16 +5,15 @@
 #
 # Translators:
 # python-doc bot, 2025
-# Daniel Nylander <po@danielnylander.se>, 2025
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-01 14:16+0000\n"
-"PO-Revision-Date: 2025-08-02 17:33+0000\n"
-"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
+"POT-Creation-Date: 2025-09-08 14:49-0300\n"
+"PO-Revision-Date: 2025-08-15 19:00+0000\n"
+"Last-Translator: python-doc bot, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
 "sv/)\n"
 "MIME-Version: 1.0\n"
@@ -2586,11 +2585,6 @@ msgid ""
 ">>> parser.parse_known_args(['--foo', '--badger', 'BAR', 'spam'])\n"
 "(Namespace(bar='BAR', foo=True), ['--badger', 'spam'])"
 msgstr ""
-">>> parser = argparse.ArgumentParser()\n"
-">>> parser.add_argument('--foo', action='store_true')\n"
-">>> parser.add_argument('bar')\n"
-">>> parser.parse_known_args(['--foo', '--badger', 'BAR', 'spam'])\n"
-"(Namespace(bar='BAR', foo=True), ['--badger', 'spam'])"
 
 msgid ""
 ":ref:`Prefix matching <prefix-matching>` rules apply to :meth:"
@@ -2682,14 +2676,6 @@ msgid ""
 ">>> parser.parse_intermixed_args('doit 1 --foo bar 2 3'.split())\n"
 "Namespace(cmd='doit', foo='bar', rest=[1, 2, 3])"
 msgstr ""
-">>> parser = argparse.ArgumentParser()\n"
-">>> parser.add_argument('--foo')\n"
-">>> parser.add_argument('cmd')\n"
-">>> parser.add_argument('rest', nargs='*', type=int)\n"
-">>> parser.parse_known_args('doit 1 --foo bar 2 3'.split())\n"
-"(Namespace(cmd='doit', foo='bar', rest=[1]), ['2', '3'])\n"
-">>> parser.parse_intermixed_args('doit 1 --foo bar 2 3'.split())\n"
-"Namespace(cmd='doit', foo='bar', rest=[1, 2, 3])"
 
 msgid ""
 ":meth:`~ArgumentParser.parse_known_intermixed_args` returns a two item tuple "

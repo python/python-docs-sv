@@ -5,16 +5,15 @@
 #
 # Translators:
 # python-doc bot, 2025
-# Daniel Nylander <po@danielnylander.se>, 2025
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-01 14:16+0000\n"
-"PO-Revision-Date: 2025-08-02 17:34+0000\n"
-"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
+"POT-Creation-Date: 2025-09-08 14:49-0300\n"
+"PO-Revision-Date: 2025-08-15 19:01+0000\n"
+"Last-Translator: python-doc bot, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
 "sv/)\n"
 "MIME-Version: 1.0\n"
@@ -111,25 +110,25 @@ msgid "Open for reading exclusively without compression."
 msgstr ""
 
 msgid "``'r:gz'``"
-msgstr "``'r:gz'``"
+msgstr ""
 
 msgid "Open for reading with gzip compression."
 msgstr ""
 
 msgid "``'r:bz2'``"
-msgstr "``'r:bz2'``"
+msgstr ""
 
 msgid "Open for reading with bzip2 compression."
 msgstr ""
 
 msgid "``'r:xz'``"
-msgstr "``'r:xz'``"
+msgstr ""
 
 msgid "Open for reading with lzma compression."
 msgstr ""
 
 msgid "``'r:zst'``"
-msgstr "``'r:zst'``"
+msgstr ""
 
 msgid "Open for reading with Zstandard compression."
 msgstr ""
@@ -143,7 +142,7 @@ msgid ""
 msgstr ""
 
 msgid "``'x:gz'``"
-msgstr "``'x:gz'``"
+msgstr ""
 
 msgid ""
 "Create a tarfile with gzip compression. Raise a :exc:`FileExistsError` "
@@ -151,7 +150,7 @@ msgid ""
 msgstr ""
 
 msgid "``'x:bz2'``"
-msgstr "``'x:bz2'``"
+msgstr ""
 
 msgid ""
 "Create a tarfile with bzip2 compression. Raise a :exc:`FileExistsError` "
@@ -159,7 +158,7 @@ msgid ""
 msgstr ""
 
 msgid "``'x:xz'``"
-msgstr "``'x:xz'``"
+msgstr ""
 
 msgid ""
 "Create a tarfile with lzma compression. Raise a :exc:`FileExistsError` "
@@ -167,7 +166,7 @@ msgid ""
 msgstr ""
 
 msgid "``'x:zst'``"
-msgstr "``'x:zst'``"
+msgstr ""
 
 msgid ""
 "Create a tarfile with Zstandard compression. Raise a :exc:`FileExistsError` "
@@ -189,25 +188,25 @@ msgid "Open for uncompressed writing."
 msgstr ""
 
 msgid "``'w:gz'``"
-msgstr "``'w:gz'``"
+msgstr ""
 
 msgid "Open for gzip compressed writing."
 msgstr ""
 
 msgid "``'w:bz2'``"
-msgstr "``'w:bz2'``"
+msgstr ""
 
 msgid "Open for bzip2 compressed writing."
 msgstr ""
 
 msgid "``'w:xz'``"
-msgstr "``'w:xz'``"
+msgstr ""
 
 msgid "Open for lzma compressed writing."
 msgstr ""
 
 msgid "``'w:zst'``"
-msgstr "``'w:zst'``"
+msgstr ""
 
 msgid "Open for Zstandard compressed writing."
 msgstr ""
@@ -335,7 +334,7 @@ msgid "The ``'x'`` (exclusive creation) mode was added."
 msgstr ""
 
 msgid "The *name* parameter accepts a :term:`path-like object`."
-msgstr "Parametern *name* accepterar en :term:`path-like object`."
+msgstr ""
 
 msgid "The *compresslevel* keyword argument also works for streams."
 msgstr ""
@@ -492,7 +491,7 @@ msgid "Documentation of the :mod:`zipfile` standard module."
 msgstr ""
 
 msgid ":ref:`archiving-operations`"
-msgstr ":ref:`archiving-operations`"
+msgstr ""
 
 msgid ""
 "Documentation of the higher-level archiving facilities provided by the "
@@ -694,7 +693,7 @@ msgid "Added the *numeric_owner* parameter."
 msgstr ""
 
 msgid "The *path* parameter accepts a :term:`path-like object`."
-msgstr "Parametern *path* accepterar en :term:`path-like object`."
+msgstr ""
 
 msgid "Added the *filter* parameter."
 msgstr ""

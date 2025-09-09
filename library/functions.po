@@ -5,16 +5,15 @@
 #
 # Translators:
 # python-doc bot, 2025
-# Daniel Nylander <po@danielnylander.se>, 2025
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-01 14:16+0000\n"
-"PO-Revision-Date: 2025-08-02 17:34+0000\n"
-"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
+"POT-Creation-Date: 2025-09-08 14:49-0300\n"
+"PO-Revision-Date: 2025-08-15 19:00+0000\n"
+"Last-Translator: python-doc bot, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
 "sv/)\n"
 "MIME-Version: 1.0\n"
@@ -80,7 +79,7 @@ msgid ":func:`chr`"
 msgstr ""
 
 msgid ":func:`classmethod`"
-msgstr ":func:`classmethod`"
+msgstr ""
 
 msgid ":func:`compile`"
 msgstr ""
@@ -242,7 +241,7 @@ msgid "|func-range|_"
 msgstr ""
 
 msgid ":func:`repr`"
-msgstr ":func:`repr`"
+msgstr ""
 
 msgid ":func:`reversed`"
 msgstr ""
@@ -1848,11 +1847,20 @@ msgstr ""
 msgid "The ``'U'`` mode has been removed."
 msgstr ""
 
+msgid "Return the ordinal value of a character."
+msgstr ""
+
 msgid ""
-"Given a string representing one Unicode character, return an integer "
-"representing the Unicode code point of that character.  For example, "
-"``ord('a')`` returns the integer ``97`` and ``ord('€')`` (Euro sign) returns "
-"``8364``.  This is the inverse of :func:`chr`."
+"If the argument is a one-character string, return the Unicode code point of "
+"that character.  For example, ``ord('a')`` returns the integer ``97`` and "
+"``ord('€')`` (Euro sign) returns ``8364``.  This is the inverse of :func:"
+"`chr`."
+msgstr ""
+
+msgid ""
+"If the argument is a :class:`bytes` or :class:`bytearray` object of length "
+"1, return its single byte value. For example, ``ord(b'a')`` returns the "
+"integer ``97``."
 msgstr ""
 
 msgid ""
@@ -2217,9 +2225,6 @@ msgid ""
 "    @staticmethod\n"
 "    def f(arg1, arg2, argN): ..."
 msgstr ""
-"class C:\n"
-"    @staticmethod\n"
-"    def f(arg1, arg2, argN): ..."
 
 msgid ""
 "The ``@staticmethod`` form is a function :term:`decorator` -- see :ref:"
@@ -2440,11 +2445,9 @@ msgid ""
 ":ref:`Documentation on attributes and methods on classes <class-attrs-and-"
 "methods>`."
 msgstr ""
-":ref:`Dokumentation om attribut och metoder för klasser <class-attrs-and-"
-"methods>`."
 
 msgid ":ref:`bltin-type-objects`"
-msgstr ":ref:`bltin-type-objects`"
+msgstr ""
 
 msgid ""
 "Keyword arguments provided to the three argument form are passed to the "

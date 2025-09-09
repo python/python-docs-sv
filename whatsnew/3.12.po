@@ -5,16 +5,15 @@
 #
 # Translators:
 # python-doc bot, 2025
-# Daniel Nylander <po@danielnylander.se>, 2025
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-01 14:16+0000\n"
-"PO-Revision-Date: 2025-08-02 17:35+0000\n"
-"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
+"POT-Creation-Date: 2025-09-08 14:49-0300\n"
+"PO-Revision-Date: 2025-08-15 19:01+0000\n"
+"Last-Translator: python-doc bot, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
 "sv/)\n"
 "MIME-Version: 1.0\n"
@@ -203,11 +202,6 @@ msgid ""
 "distutils-legacy.html>`__ package continues to provide :mod:`!distutils`, if "
 "you still require it in Python 3.12 and beyond."
 msgstr ""
-":pep:`632`: Ta bort paketet :mod:`!distutils`. Se :pep:`migreringsguiden "
-"<0632#migration-advice>` för råd om att ersätta de API:er som paketet "
-"tillhandahöll. Tredjepartspaketet `Setuptools <https://setuptools.pypa.io/en/"
-"latest/deprecated/distutils-legacy.html>`__ fortsätter att tillhandahålla :"
-"mod:`!distutils`, om du fortfarande behöver det i Python 3.12 och senare."
 
 msgid ""
 ":gh:`95299`: Do not pre-install ``setuptools`` in virtual environments "
@@ -1688,7 +1682,7 @@ msgid "Modules (see :pep:`594`):"
 msgstr ""
 
 msgid ":mod:`!aifc`"
-msgstr ":mod:`!aifc`"
+msgstr ""
 
 msgid ":mod:`!audioop`"
 msgstr ""

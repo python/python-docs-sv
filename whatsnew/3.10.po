@@ -5,16 +5,15 @@
 #
 # Translators:
 # python-doc bot, 2025
-# Daniel Nylander <po@danielnylander.se>, 2025
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-05 14:17+0000\n"
-"PO-Revision-Date: 2025-08-02 17:35+0000\n"
-"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
+"POT-Creation-Date: 2025-09-08 14:49-0300\n"
+"PO-Revision-Date: 2025-08-15 19:01+0000\n"
+"Last-Translator: python-doc bot, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
 "sv/)\n"
 "MIME-Version: 1.0\n"
@@ -1079,10 +1078,6 @@ msgid ""
 "__future__ import annotations``. (Contributed by Batuhan Taskaya in :issue:"
 "`42737`.)"
 msgstr ""
-"Anteckningar för komplexa mål (allt förutom mål med ``simple name`` "
-"definierade av :pep:`526`) orsakar inte längre några körtidseffekter med "
-"``from __future__ import annotations``. (Bidrag från Batuhan Taskaya i :"
-"issue:`42737`.)"
 
 msgid ""
 "Class and module objects now lazy-create empty annotations dicts on demand. "
@@ -2842,7 +2837,7 @@ msgid "``Py_UNICODE_strcmp``: use :c:func:`PyUnicode_Compare`"
 msgstr ""
 
 msgid "``Py_UNICODE_strncmp``: use :c:func:`PyUnicode_Tailmatch`"
-msgstr "``Py_UNICODE_strncmp``: använd :c:func:`PyUnicode_Tailmatch`"
+msgstr ""
 
 msgid ""
 "``Py_UNICODE_strchr``, ``Py_UNICODE_strrchr``: use :c:func:"

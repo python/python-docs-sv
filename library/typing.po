@@ -5,16 +5,15 @@
 #
 # Translators:
 # python-doc bot, 2025
-# Daniel Nylander <po@danielnylander.se>, 2025
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-03 14:18+0000\n"
-"PO-Revision-Date: 2025-08-02 17:35+0000\n"
-"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
+"POT-Creation-Date: 2025-09-08 14:49-0300\n"
+"PO-Revision-Date: 2025-08-15 19:01+0000\n"
+"Last-Translator: python-doc bot, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
 "sv/)\n"
 "MIME-Version: 1.0\n"
@@ -1519,7 +1518,7 @@ msgid ":class:`ParamSpec`"
 msgstr ""
 
 msgid ":ref:`annotating-callables`"
-msgstr ":ref:`annotating-callables`"
+msgstr ""
 
 msgid "Special typing form to define \"literal types\"."
 msgstr ""
@@ -2705,9 +2704,6 @@ msgid ""
 ">>> type(Alias)\n"
 "<class 'typing.TypeAliasType'>"
 msgstr ""
-">>> type Alias = int\n"
-">>> type(Alias)\n"
-"<class 'typing.TypeAliasType'>"
 
 msgid "The name of the type alias:"
 msgstr ""
@@ -2746,9 +2742,6 @@ msgid ""
 "so names used in the definition of the alias are not resolved until the "
 "``__value__`` attribute is accessed:"
 msgstr ""
-"Typaliasets värde. Detta är :ref:`lazily evaluated <lazy-evaluation>`, så "
-"namn som används i definitionen av aliaset löses inte förrän attributet "
-"``__value__`` används:"
 
 msgid ""
 ">>> type Mutually = Recursive\n"
@@ -3201,8 +3194,6 @@ msgid ""
 "class Point3D(Point2D):\n"
 "    z: int"
 msgstr ""
-"class Point3D(Point2D):\n"
-"    z: int"
 
 msgid ""
 "``Point3D`` has three items: ``x``, ``y`` and ``z``. It is equivalent to "
@@ -3215,10 +3206,6 @@ msgid ""
 "    y: int\n"
 "    z: int"
 msgstr ""
-"class Point3D(TypedDict):\n"
-"    x: int\n"
-"    y: int\n"
-"    z: int"
 
 msgid ""
 "A ``TypedDict`` cannot inherit from a non-\\ ``TypedDict`` class, except "

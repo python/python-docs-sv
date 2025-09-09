@@ -5,16 +5,15 @@
 #
 # Translators:
 # python-doc bot, 2025
-# Daniel Nylander <po@danielnylander.se>, 2025
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-01 14:16+0000\n"
-"PO-Revision-Date: 2025-08-02 17:35+0000\n"
-"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
+"POT-Creation-Date: 2025-09-08 14:49-0300\n"
+"PO-Revision-Date: 2025-08-15 19:01+0000\n"
+"Last-Translator: python-doc bot, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
 "sv/)\n"
 "MIME-Version: 1.0\n"
@@ -193,9 +192,6 @@ msgid ""
 "documentation are dual licensed under the PSF License Version 2 and the :ref:"
 "`Zero-Clause BSD license <BSD0>`."
 msgstr ""
-"Från och med Python 3.8.6 är exempel, recept och annan kod i dokumentationen "
-"dubbellicensierad enligt PSF-licensen version 2 och :ref:`Zero-Clause BSD "
-"license <BSD0>`."
 
 msgid ""
 "Some software incorporated into Python is under different licenses. The "

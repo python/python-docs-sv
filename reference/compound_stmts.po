@@ -5,16 +5,15 @@
 #
 # Translators:
 # python-doc bot, 2025
-# Daniel Nylander <po@danielnylander.se>, 2025
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-01 14:16+0000\n"
-"PO-Revision-Date: 2025-08-02 17:35+0000\n"
-"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
+"POT-Creation-Date: 2025-09-08 14:49-0300\n"
+"PO-Revision-Date: 2025-08-15 19:01+0000\n"
+"Last-Translator: python-doc bot, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
 "sv/)\n"
 "MIME-Version: 1.0\n"
@@ -382,14 +381,14 @@ msgstr ""
 msgid ""
 "If :keyword:`!finally` is present, it specifies a 'cleanup' handler.  The :"
 "keyword:`try` clause is executed, including any :keyword:`except` and :"
-"keyword:`else` clauses.  If an exception occurs in any of the clauses and is "
-"not handled, the exception is temporarily saved. The :keyword:`!finally` "
-"clause is executed.  If there is a saved exception it is re-raised at the "
-"end of the :keyword:`!finally` clause.  If the :keyword:`!finally` clause "
-"raises another exception, the saved exception is set as the context of the "
-"new exception. If the :keyword:`!finally` clause executes a :keyword:"
-"`return`, :keyword:`break` or :keyword:`continue` statement, the saved "
-"exception is discarded. For example, this function returns 42."
+"keyword:`else <except_else>` clauses. If an exception occurs in any of the "
+"clauses and is not handled, the exception is temporarily saved. The :keyword:"
+"`!finally` clause is executed.  If there is a saved exception it is re-"
+"raised at the end of the :keyword:`!finally` clause. If the :keyword:`!"
+"finally` clause raises another exception, the saved exception is set as the "
+"context of the new exception. If the :keyword:`!finally` clause executes a :"
+"keyword:`return`, :keyword:`break` or :keyword:`continue` statement, the "
+"saved exception is discarded. For example, this function returns 42."
 msgstr ""
 
 msgid ""
@@ -754,10 +753,10 @@ msgid ":ref:`or-patterns` containing at least one irrefutable pattern"
 msgstr ""
 
 msgid ":ref:`capture-patterns`"
-msgstr ":ref:`capture-patterns`"
+msgstr ""
 
 msgid ":ref:`wildcard-patterns`"
-msgstr ":ref:`wildcard-patterns`"
+msgstr ""
 
 msgid "parenthesized irrefutable patterns"
 msgstr ""
@@ -1209,7 +1208,7 @@ msgid "If there are duplicate keywords, :exc:`TypeError` is raised."
 msgstr ""
 
 msgid ":ref:`class-pattern-matching`"
-msgstr ":ref:`class-pattern-matching`"
+msgstr ""
 
 msgid ""
 "II. Once all positional patterns have been converted to keyword patterns,"
@@ -1475,7 +1474,7 @@ msgid ""
 msgstr ""
 
 msgid "Class definitions"
-msgstr "Klassdefinitioner"
+msgstr ""
 
 msgid "A class definition defines a class object (see section :ref:`types`):"
 msgstr ""

@@ -3,17 +3,13 @@
 # This file is distributed under the same license as the Python package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# Translators:
-# Daniel Nylander <po@danielnylander.se>, 2025
-#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-01 14:16+0000\n"
-"PO-Revision-Date: 2025-08-02 17:33+0000\n"
-"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
+"POT-Creation-Date: 2025-09-08 14:49-0300\n"
+"PO-Revision-Date: 2025-08-15 19:00+0000\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
 "sv/)\n"
 "MIME-Version: 1.0\n"
@@ -1030,17 +1026,6 @@ msgid ""
 "args = parser.parse_args()\n"
 "print(args)"
 msgstr ""
-"import argparse\n"
-"\n"
-"parser = argparse.ArgumentParser(prefix_chars='-+')\n"
-"\n"
-"parser.add_argument('-a', metavar='<value>', action='append',\n"
-"                    type=lambda x: ('-', x))\n"
-"parser.add_argument('+a', metavar='<value>', action='append',\n"
-"                    type=lambda x: ('+', x))\n"
-"\n"
-"args = parser.parse_args()\n"
-"print(args)"
 
 msgid ""
 "$ python prog.py -a value1 +a value2\n"

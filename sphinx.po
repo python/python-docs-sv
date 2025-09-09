@@ -5,16 +5,15 @@
 #
 # Translators:
 # python-doc bot, 2025
-# Daniel Nylander <po@danielnylander.se>, 2025
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-03 14:18+0000\n"
-"PO-Revision-Date: 2025-08-02 17:35+0000\n"
-"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
+"POT-Creation-Date: 2025-09-08 14:49-0300\n"
+"PO-Revision-Date: 2025-08-15 19:01+0000\n"
+"Last-Translator: python-doc bot, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
 "sv/)\n"
 "MIME-Version: 1.0\n"
@@ -59,7 +58,7 @@ msgid "Format"
 msgstr "Format"
 
 msgid "Packed as .zip"
-msgstr "Packad som .zip"
+msgstr ""
 
 msgid "Packed as .tar.bz2"
 msgstr "Packad som .tar.bz2"
@@ -180,15 +179,12 @@ msgid ""
 "send\n"
 "email to <a href=\"mailto:docs@python.org\">docs@python.org</a>."
 msgstr ""
-"Om du har kommentarer eller förslag till Python-dokumentationen kan du "
-"skicka\n"
-"e-post till <a href=\"mailto:docs@python.org\">docs@python.org.</a>."
 
 msgid "Availability"
 msgstr "Tillgänglighet"
 
 msgid "Part of the"
-msgstr "Del av"
+msgstr ""
 
 msgid "Limited API"
 msgstr "Begränsat API"
@@ -197,7 +193,7 @@ msgid "Stable ABI"
 msgstr "Stabil ABI"
 
 msgid "(as an opaque struct)"
-msgstr "(som en ogenomskinlig struct)"
+msgstr ""
 
 msgid "(including all members)"
 msgstr "(inklusive alla medlemmar)"
@@ -221,10 +217,10 @@ msgid "Return value: Always NULL."
 msgstr "Returvärde: Alltid NULL."
 
 msgid "Return value: New reference."
-msgstr "Returvärde: Ny referens."
+msgstr ""
 
 msgid "Return value: Borrowed reference."
-msgstr "Returvärde: Lånad referens."
+msgstr ""
 
 msgid "CPython implementation detail:"
 msgstr "Detaljerad implementering av CPython:"
@@ -238,10 +234,10 @@ msgid "Deprecated since version {deprecated}, removed in version {removed}"
 msgstr "Föråldrad sedan version {deprecated}, borttagen i version {removed}"
 
 msgid "in development"
-msgstr "under utveckling"
+msgstr ""
 
 msgid "pre-release"
-msgstr "förutgåva"
+msgstr ""
 
 msgid "stable"
 msgstr "stabil"
@@ -258,7 +254,7 @@ msgstr ""
 "%(release)s."
 
 msgid "Documentation sections:"
-msgstr "Documentation sections:"
+msgstr ""
 
 msgid "What's new in Python %(version)s?"
 msgstr "Vad är nytt i Python %(version)s?"
@@ -277,13 +273,13 @@ msgid "Start here: a tour of Python's syntax and features"
 msgstr "Börja här: en genomgång av Pythons syntax och funktioner"
 
 msgid "Library reference"
-msgstr "Biblioteksreferens"
+msgstr ""
 
 msgid "Standard library and builtins"
-msgstr "Standardbibliotek och inbyggda"
+msgstr ""
 
 msgid "Language reference"
-msgstr "Språkreferens"
+msgstr ""
 
 msgid "Syntax and language elements"
 msgstr "Syntax och språkliga element"
@@ -313,7 +309,7 @@ msgid "Publishing modules for use by other people"
 msgstr "Publicering av moduler för användning av andra personer"
 
 msgid "Extending and embedding"
-msgstr "Utökning och inbäddning"
+msgstr ""
 
 msgid "For C/C++ programmers"
 msgstr "För C/C++-programmerare"
@@ -325,13 +321,13 @@ msgid "C API reference"
 msgstr "C API-referens"
 
 msgid "FAQs"
-msgstr "Frågor och svar"
+msgstr ""
 
 msgid "Frequently asked questions (with answers!)"
 msgstr "Ofta ställda frågor (med svar!)"
 
 msgid "Deprecations"
-msgstr "Föråldrade funktioner"
+msgstr ""
 
 msgid "Deprecated functionality"
 msgstr "Föråldrad funktionalitet"
@@ -355,10 +351,10 @@ msgid "Glossary"
 msgstr "Ordlista"
 
 msgid "Terms explained"
-msgstr "Termer förklarade"
+msgstr ""
 
 msgid "Search page"
-msgstr "Söksida"
+msgstr ""
 
 msgid "Search this documentation"
 msgstr "Sök i denna dokumentation"
@@ -373,10 +369,10 @@ msgid "Project information:"
 msgstr "Projektinformation:"
 
 msgid "Reporting issues"
-msgstr "Rapportera felaktigheter"
+msgstr ""
 
 msgid "Contributing to docs"
-msgstr "Bidra till dokumentationen"
+msgstr ""
 
 msgid "Download the documentation"
 msgstr "Ladda ner dokumentationen"
@@ -394,7 +390,7 @@ msgid "Download these documents"
 msgstr "Ladda ner dessa dokument"
 
 msgid "Docs by version"
-msgstr "Dokumentation efter version"
+msgstr ""
 
 msgid "All versions"
 msgstr "Alla versioner"

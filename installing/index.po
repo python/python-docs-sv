@@ -5,16 +5,15 @@
 #
 # Translators:
 # python-doc bot, 2025
-# Daniel Nylander <po@danielnylander.se>, 2025
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-03 14:18+0000\n"
-"PO-Revision-Date: 2025-08-02 17:33+0000\n"
-"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
+"POT-Creation-Date: 2025-09-08 14:49-0300\n"
+"PO-Revision-Date: 2025-08-15 19:00+0000\n"
+"Last-Translator: python-doc bot, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
 "sv/)\n"
 "MIME-Version: 1.0\n"
@@ -136,7 +135,7 @@ msgid ""
 msgstr ""
 
 msgid "python -m pip install SomePackage"
-msgstr "python -m pip install NågotPaket"
+msgstr ""
 
 msgid ""
 "For POSIX users (including macOS and Linux users), the examples in this "
@@ -160,8 +159,6 @@ msgid ""
 "python -m pip install SomePackage==1.0.4    # specific version\n"
 "python -m pip install \"SomePackage>=1.0.4\"  # minimum version"
 msgstr ""
-"python -m pip install NågotPaket==1.0.4 # specifik version\n"
-"python -m pip install \"NågotPaket>=1.0.4\" # minsta version"
 
 msgid ""
 "Normally, if a suitable module is already installed, attempting to install "
@@ -247,10 +244,6 @@ msgid ""
 "python3   -m pip install SomePackage  # default Python 3\n"
 "python3.4 -m pip install SomePackage  # specifically Python 3.4"
 msgstr ""
-"python2   -m pip install NågotPaket  # standard i Python 2\n"
-"python2.7 -m pip install NågotPaket  # specifikt Python 2.7\n"
-"python3   -m pip install NågotPaket  # standard i Python 3\n"
-"python3.4 -m pip install NågotPaket  # specifikt Python 3.4"
 
 msgid "Appropriately versioned ``pip`` commands may also be available."
 msgstr ""
@@ -266,10 +259,6 @@ msgid ""
 "py -3   -m pip install SomePackage  # default Python 3\n"
 "py -3.4 -m pip install SomePackage  # specifically Python 3.4"
 msgstr ""
-"py -2   -m pip install NågotPaket  # standard i Python 2\n"
-"py -2.7 -m pip install NågotPaket  # specifikt Python 2.7\n"
-"py -3   -m pip install NågotPaket  # standard i Python 3\n"
-"py -3.4 -m pip install NågotPaket  # specifikt Python 3.4"
 
 msgid "Common installation issues"
 msgstr ""

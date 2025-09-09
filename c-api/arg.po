@@ -5,16 +5,15 @@
 #
 # Translators:
 # python-doc bot, 2025
-# Daniel Nylander <po@danielnylander.se>, 2025
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-01 14:16+0000\n"
-"PO-Revision-Date: 2025-08-02 17:33+0000\n"
-"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
+"POT-Creation-Date: 2025-09-08 14:49-0300\n"
+"PO-Revision-Date: 2025-08-15 18:59+0000\n"
+"Last-Translator: python-doc bot, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
 "sv/)\n"
 "MIME-Version: 1.0\n"
@@ -503,10 +502,6 @@ msgid ""
 "`strong reference` to the object is not created (i.e. its reference count is "
 "not increased). The pointer stored is not ``NULL``."
 msgstr ""
-"Lagra ett Python-objekt (utan någon konvertering) i en C-objektpekare.  C-"
-"programmet får därmed det faktiska objektet som skickades.  En ny :term:"
-"`strong reference` till objektet skapas inte (d.v.s. dess referensantal ökas "
-"inte). Den lagrade pekaren är inte ``NULL``."
 
 msgid "``O!`` (object) [*typeobject*, PyObject \\*]"
 msgstr ""
@@ -696,8 +691,6 @@ msgid ""
 "Added support for :ref:`positional-only parameters <positional-"
 "only_parameter>`."
 msgstr ""
-"Lagt till stöd för :ref:`positionella parametrar <positional-"
-"only_parameter>`."
 
 msgid ""
 "The *keywords* parameter has now type :c:expr:`char * const *` in C and :c:"
