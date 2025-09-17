@@ -4,17 +4,17 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 # Translators:
-# python-doc bot, 2025
 # Daniel Nylander <po@danielnylander.se>, 2025
+# python-doc bot, 2025
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-15 21:21+0000\n"
-"PO-Revision-Date: 2025-08-15 19:01+0000\n"
-"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
+"POT-Creation-Date: 2025-09-16 17:23+0000\n"
+"PO-Revision-Date: 2025-09-16 00:01+0000\n"
+"Last-Translator: python-doc bot, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
 "sv/)\n"
 "MIME-Version: 1.0\n"
@@ -27,7 +27,7 @@ msgid ":mod:`!tkinter.ttk` --- Tk themed widgets"
 msgstr ""
 
 msgid "**Source code:** :source:`Lib/tkinter/ttk.py`"
-msgstr ""
+msgstr "**Källkod:** :source:`Lib/tkinter/ttk.py`"
 
 msgid ""
 "The :mod:`tkinter.ttk` module provides access to the Tk themed widget set, "
@@ -56,7 +56,7 @@ msgid "To start using Ttk, import its module::"
 msgstr ""
 
 msgid "from tkinter import ttk"
-msgstr ""
+msgstr "from tkinter import ttk"
 
 msgid ""
 "To override the basic Tk widgets, the import should follow the Tk import::"
@@ -119,6 +119,8 @@ msgid ""
 "l1 = tkinter.Label(text=\"Test\", fg=\"black\", bg=\"white\")\n"
 "l2 = tkinter.Label(text=\"Test\", fg=\"black\", bg=\"white\")"
 msgstr ""
+"l1 = tkinter.Label(text=\"Test\", fg=\"black\", bg=\"white\")\n"
+"l2 = tkinter.Label(text=\"Test\", fg=\"black\", bg=\"white\")"
 
 msgid "Ttk code::"
 msgstr ""
@@ -137,7 +139,7 @@ msgid ""
 msgstr ""
 
 msgid "Widget"
-msgstr ""
+msgstr "Widget"
 
 msgid ""
 ":class:`ttk.Widget` defines standard options and methods supported by Tk "
@@ -175,7 +177,7 @@ msgid ""
 msgstr ""
 
 msgid "takefocus"
-msgstr ""
+msgstr "takefocus"
 
 msgid ""
 "Determines whether the window accepts the focus during keyboard traversal. "
@@ -187,7 +189,7 @@ msgid ""
 msgstr ""
 
 msgid "style"
-msgstr ""
+msgstr "style"
 
 msgid "May be used to specify a custom widget style."
 msgstr ""
@@ -201,7 +203,7 @@ msgid ""
 msgstr ""
 
 msgid "xscrollcommand"
-msgstr ""
+msgstr "xscrollcommand"
 
 msgid "Used to communicate with horizontal scrollbars."
 msgstr ""
@@ -218,7 +220,7 @@ msgid ""
 msgstr ""
 
 msgid "yscrollcommand"
-msgstr ""
+msgstr "yscrollcommand"
 
 msgid ""
 "Used to communicate with vertical scrollbars. For some more information, see "
@@ -234,13 +236,13 @@ msgid ""
 msgstr ""
 
 msgid "text"
-msgstr ""
+msgstr "text"
 
 msgid "Specifies a text string to be displayed inside the widget."
 msgstr ""
 
 msgid "textvariable"
-msgstr ""
+msgstr "textvariable"
 
 msgid ""
 "Specifies a name whose value will be used in place of the text option "
@@ -248,7 +250,7 @@ msgid ""
 msgstr ""
 
 msgid "underline"
-msgstr ""
+msgstr "underline"
 
 msgid ""
 "If set, specifies the index (0-based) of a character to underline in the "
@@ -256,7 +258,7 @@ msgid ""
 msgstr ""
 
 msgid "image"
-msgstr ""
+msgstr "image"
 
 msgid ""
 "Specifies an image to display. This is a list of 1 or more elements. The "
@@ -289,7 +291,7 @@ msgid "none: the default. display the image if present, otherwise the text."
 msgstr ""
 
 msgid "width"
-msgstr ""
+msgstr "width"
 
 msgid ""
 "If greater than zero, specifies how much space, in character widths, to "
@@ -301,7 +303,7 @@ msgid "Compatibility Options"
 msgstr ""
 
 msgid "state"
-msgstr ""
+msgstr "state"
 
 msgid ""
 "May be set to \"normal\" or \"disabled\" to control the \"disabled\" state "
@@ -319,7 +321,7 @@ msgid "Flag"
 msgstr ""
 
 msgid "active"
-msgstr ""
+msgstr "active"
 
 msgid ""
 "The mouse cursor is over the widget and pressing a mouse button will cause "
@@ -327,25 +329,25 @@ msgid ""
 msgstr ""
 
 msgid "disabled"
-msgstr ""
+msgstr "disabled"
 
 msgid "Widget is disabled under program control"
 msgstr ""
 
 msgid "focus"
-msgstr ""
+msgstr "focus"
 
 msgid "Widget has keyboard focus"
 msgstr ""
 
 msgid "pressed"
-msgstr ""
+msgstr "pressed"
 
 msgid "Widget is being pressed"
 msgstr ""
 
 msgid "selected"
-msgstr ""
+msgstr "selected"
 
 msgid ""
 "\"On\", \"true\", or \"current\" for things like Checkbuttons and "
@@ -353,7 +355,7 @@ msgid ""
 msgstr ""
 
 msgid "background"
-msgstr ""
+msgstr "background"
 
 msgid ""
 "Windows and Mac have a notion of an \"active\" or foreground window. The "
@@ -368,13 +370,13 @@ msgid "Widget should not allow user modification"
 msgstr ""
 
 msgid "alternate"
-msgstr ""
+msgstr "alternate"
 
 msgid "A widget-specific alternate display format"
 msgstr ""
 
 msgid "invalid"
-msgstr ""
+msgstr "invalid"
 
 msgid "The widget's value is invalid"
 msgstr ""
@@ -385,7 +387,7 @@ msgid ""
 msgstr ""
 
 msgid "ttk.Widget"
-msgstr ""
+msgstr "ttk.Widget"
 
 msgid ""
 "Besides the methods described below, the :class:`ttk.Widget` supports the "
@@ -417,7 +419,7 @@ msgid "*statespec* will usually be a list or a tuple."
 msgstr ""
 
 msgid "Combobox"
-msgstr ""
+msgstr "Combobox"
 
 msgid ""
 "The :class:`ttk.Combobox` widget combines a text field with a pop-down list "
@@ -440,7 +442,7 @@ msgid "This widget accepts the following specific options:"
 msgstr ""
 
 msgid "exportselection"
-msgstr ""
+msgstr "exportselection"
 
 msgid ""
 "Boolean value. If set, the widget selection is linked to the Window Manager "
@@ -449,7 +451,7 @@ msgid ""
 msgstr ""
 
 msgid "justify"
-msgstr ""
+msgstr "justify"
 
 msgid ""
 "Specifies how the text is aligned within the widget. One of \"left\", "
@@ -457,13 +459,13 @@ msgid ""
 msgstr ""
 
 msgid "height"
-msgstr ""
+msgstr "height"
 
 msgid "Specifies the height of the pop-down listbox, in rows."
 msgstr ""
 
 msgid "postcommand"
-msgstr ""
+msgstr "postcommand"
 
 msgid ""
 "A script (possibly registered with Misc.register) that is called immediately "
@@ -503,7 +505,7 @@ msgid ""
 msgstr ""
 
 msgid "ttk.Combobox"
-msgstr ""
+msgstr "ttk.Combobox"
 
 msgid ""
 "If *newindex* is specified, sets the combobox value to the element position "
@@ -518,7 +520,7 @@ msgid "Sets the value of the combobox to *value*."
 msgstr ""
 
 msgid "Spinbox"
-msgstr ""
+msgstr "Spinbox"
 
 msgid ""
 "The :class:`ttk.Spinbox` widget is a :class:`ttk.Entry` enhanced with "
@@ -553,7 +555,7 @@ msgid ""
 msgstr ""
 
 msgid "increment"
-msgstr ""
+msgstr "increment"
 
 msgid ""
 "Float value.  Specifies the amount which the increment/decrement buttons "
@@ -567,7 +569,7 @@ msgid ""
 msgstr ""
 
 msgid "wrap"
-msgstr ""
+msgstr "wrap"
 
 msgid ""
 "Boolean value.  If ``True``, increment and decrement buttons will cycle from "
@@ -585,7 +587,7 @@ msgid ""
 msgstr ""
 
 msgid "command"
-msgstr ""
+msgstr "command"
 
 msgid ""
 "Python callable.  Will be called with no arguments whenever either of the "
@@ -599,7 +601,7 @@ msgid ""
 msgstr ""
 
 msgid "ttk.Spinbox"
-msgstr ""
+msgstr "ttk.Spinbox"
 
 msgid "Returns the current value of the spinbox."
 msgstr ""
@@ -623,7 +625,7 @@ msgid ""
 msgstr ""
 
 msgid "padding"
-msgstr ""
+msgstr "padding"
 
 msgid ""
 "Specifies the amount of extra space to add around the outside of the "
@@ -650,7 +652,7 @@ msgid ""
 msgstr ""
 
 msgid "sticky"
-msgstr ""
+msgstr "sticky"
 
 msgid ""
 "Specifies how the child window is positioned within the pane area. Value is "
@@ -719,7 +721,7 @@ msgid ""
 msgstr ""
 
 msgid "ttk.Notebook"
-msgstr ""
+msgstr "ttk.Notebook"
 
 msgid "Adds a new tab to the notebook."
 msgstr ""
@@ -816,7 +818,7 @@ msgid ""
 msgstr ""
 
 msgid "Progressbar"
-msgstr ""
+msgstr "Progressbar"
 
 msgid ""
 "The :class:`ttk.Progressbar` widget shows the status of a long-running "
@@ -827,7 +829,7 @@ msgid ""
 msgstr ""
 
 msgid "orient"
-msgstr ""
+msgstr "orient"
 
 msgid ""
 "One of \"horizontal\" or \"vertical\". Specifies the orientation of the "
@@ -835,7 +837,7 @@ msgid ""
 msgstr ""
 
 msgid "length"
-msgstr ""
+msgstr "length"
 
 msgid ""
 "Specifies the length of the long axis of the progress bar (width if "
@@ -849,7 +851,7 @@ msgid "One of \"determinate\" or \"indeterminate\"."
 msgstr ""
 
 msgid "maximum"
-msgstr ""
+msgstr "maximum"
 
 msgid "A number specifying the maximum value. Defaults to 100."
 msgstr ""
@@ -865,7 +867,7 @@ msgid ""
 msgstr ""
 
 msgid "variable"
-msgstr ""
+msgstr "variable"
 
 msgid ""
 "A name which is linked to the option value. If specified, the value of the "
@@ -874,7 +876,7 @@ msgid ""
 msgstr ""
 
 msgid "phase"
-msgstr ""
+msgstr "phase"
 
 msgid ""
 "Read-only option. The widget periodically increments the value of this "
@@ -884,7 +886,7 @@ msgid ""
 msgstr ""
 
 msgid "ttk.Progressbar"
-msgstr ""
+msgstr "ttk.Progressbar"
 
 msgid ""
 "Begin autoincrement mode: schedules a recurring timer event that calls :meth:"
@@ -904,7 +906,7 @@ msgid ""
 msgstr ""
 
 msgid "Separator"
-msgstr ""
+msgstr "Separator"
 
 msgid ""
 "The :class:`ttk.Separator` widget displays a horizontal or vertical "
@@ -924,7 +926,7 @@ msgid ""
 msgstr ""
 
 msgid "Sizegrip"
-msgstr ""
+msgstr "Sizegrip"
 
 msgid ""
 "The :class:`ttk.Sizegrip` widget (also known as a grow box) allows the user "
@@ -958,7 +960,7 @@ msgid "This widget supports only \"southeast\" resizing."
 msgstr ""
 
 msgid "Treeview"
-msgstr ""
+msgstr "Treeview"
 
 msgid ""
 "The :class:`ttk.Treeview` widget displays a hierarchical collection of "
@@ -993,7 +995,7 @@ msgid ""
 msgstr ""
 
 msgid "columns"
-msgstr ""
+msgstr "columns"
 
 msgid ""
 "A list of column identifiers, specifying the number of columns and their "
@@ -1101,7 +1103,7 @@ msgid "The following options may be specified on tags:"
 msgstr ""
 
 msgid "foreground"
-msgstr ""
+msgstr "foreground"
 
 msgid "Specifies the text foreground color."
 msgstr ""
@@ -1110,7 +1112,7 @@ msgid "Specifies the cell or item background color."
 msgstr ""
 
 msgid "font"
-msgstr ""
+msgstr "font"
 
 msgid "Specifies the font to use when drawing text."
 msgstr ""
@@ -1163,19 +1165,19 @@ msgid "Event"
 msgstr ""
 
 msgid "<<TreeviewSelect>>"
-msgstr ""
+msgstr "<<TreeviewSelect>>"
 
 msgid "Generated whenever the selection changes."
 msgstr ""
 
 msgid "<<TreeviewOpen>>"
-msgstr ""
+msgstr "<<TreeviewOpen>>"
 
 msgid "Generated just before settings the focus item to open=True."
 msgstr ""
 
 msgid "<<TreeviewClose>>"
-msgstr ""
+msgstr "<<TreeviewClose>>"
 
 msgid "Generated just after setting the focus item to open=False."
 msgstr ""
@@ -1186,7 +1188,7 @@ msgid ""
 msgstr ""
 
 msgid "ttk.Treeview"
-msgstr ""
+msgstr "ttk.Treeview"
 
 msgid ""
 "Returns the bounding box (relative to the treeview widget's window) of the "
@@ -1228,7 +1230,7 @@ msgid "The valid options/values are:"
 msgstr ""
 
 msgid "*id*"
-msgstr ""
+msgstr "*id*"
 
 msgid "Returns the column name. This is a read-only option."
 msgstr ""
@@ -1259,7 +1261,7 @@ msgid ""
 msgstr ""
 
 msgid "*width*: width"
-msgstr ""
+msgstr "*width*: bredd"
 
 msgid "The width of the column in pixels."
 msgstr ""
@@ -1302,13 +1304,13 @@ msgid ""
 msgstr ""
 
 msgid "*text*: text"
-msgstr ""
+msgstr "*text*: text"
 
 msgid "The text to display in the column heading."
 msgstr ""
 
 msgid "*image*: imageName"
-msgstr ""
+msgstr "*image*: imageName"
 
 msgid "Specifies an image to display to the right of the column heading."
 msgstr ""
@@ -1349,7 +1351,7 @@ msgid "Returns one of:"
 msgstr ""
 
 msgid "region"
-msgstr ""
+msgstr "region"
 
 msgid "meaning"
 msgstr ""
@@ -1530,6 +1532,8 @@ msgid ""
 "`Tcl'2004 conference presentation <https://tktable.sourceforge.net/tile/tile-"
 "tcl2004.pdf>`_"
 msgstr ""
+"`Tcl'2004 conference presentation <https://tktable.sourceforge.net/tile/tile-"
+"tcl2004.pdf>`_"
 
 msgid "This document explains how the theme engine works"
 msgstr ""
@@ -1618,6 +1622,9 @@ msgid ""
 "\n"
 "print(ttk.Style().lookup(\"TButton\", \"font\"))"
 msgstr ""
+"from tkinter import ttk\n"
+"\n"
+"print(ttk.Style().lookup(\"TButton\", \"font\"))"
 
 msgid ""
 "Define the widget layout for given *style*. If *layoutspec* is omitted, "
@@ -1659,6 +1666,27 @@ msgid ""
 "mbtn.pack()\n"
 "root.mainloop()"
 msgstr ""
+"from tkinter import ttk\n"
+"import tkinter\n"
+"\n"
+"root = tkinter.Tk()\n"
+"\n"
+"style = ttk.Style()\n"
+"style.layout(\"TMenubutton\", [\n"
+"   (\"Menubutton.background\", None),\n"
+"   (\"Menubutton.button\", {\"children\":\n"
+"       [(\"Menubutton.focus\", {\"children\":\n"
+"           [(\"Menubutton.padding\", {\"children\":\n"
+"               [(\"Menubutton.label\", {\"side\": \"left\", \"expand\": "
+"1})]\n"
+"           })]\n"
+"       })]\n"
+"   }),\n"
+"])\n"
+"\n"
+"mbtn = ttk.Menubutton(text='Text')\n"
+"mbtn.pack()\n"
+"root.mainloop()"
 
 msgid ""
 "Create a new element in the current theme, of the given *etype* which is "
@@ -1724,6 +1752,13 @@ msgid ""
 "                     img1, ('pressed', img2), ('active', img3),\n"
 "                     border=(2, 4), sticky='we')"
 msgstr ""
+"img1 = tkinter.PhotoImage(master=root, file='button.png')\n"
+"img1 = tkinter.PhotoImage(master=root, file='button-pressed.png')\n"
+"img1 = tkinter.PhotoImage(master=root, file='button-active.png')\n"
+"style = ttk.Style(root)\n"
+"style.element_create('Button.button', 'image',\n"
+"                     img1, ('pressed', img2), ('active', img3),\n"
+"                     border=(2, 4), sticky='we')"
 
 msgid ""
 "If \"from\" is used as the value of *etype*, :meth:`element_create` will "
@@ -1737,6 +1772,8 @@ msgid ""
 "style = ttk.Style(root)\n"
 "style.element_create('plain.background', 'from', 'default')"
 msgstr ""
+"style = ttk.Style(root)\n"
+"style.element_create('plain.background', 'from', 'default')"
 
 msgid ""
 "If \"vsapi\" is used as the value of *etype*, :meth:`element_create` will "
@@ -1792,6 +1829,18 @@ msgid ""
 "pin = ttk.Checkbutton(style='Explorer.Pin')\n"
 "pin.pack(expand=True, fill='both')"
 msgstr ""
+"style = ttk.Style(root)\n"
+"style.element_create('pin', 'vsapi', 'EXPLORERBAR', 3, [\n"
+"                     ('pressed', '!selected', 3),\n"
+"                     ('active', '!selected', 2),\n"
+"                     ('pressed', 'selected', 6),\n"
+"                     ('active', 'selected', 5),\n"
+"                     ('selected', 4),\n"
+"                     ('', 1)])\n"
+"style.layout('Explorer.Pin',\n"
+"             [('Explorer.Pin.pin', {'sticky': 'news'})])\n"
+"pin = ttk.Checkbutton(style='Explorer.Pin')\n"
+"pin.pack(expand=True, fill='both')"
 
 msgid "Added support of the \"vsapi\" element factory."
 msgstr ""
@@ -1803,7 +1852,7 @@ msgid "Returns the list of *elementname*'s options."
 msgstr ""
 
 msgid "Create a new theme."
-msgstr ""
+msgstr "Skapa ett nytt tema."
 
 msgid ""
 "It is an error if *themename* already exists. If *parent* is specified, the "
@@ -1852,6 +1901,28 @@ msgid ""
 "\n"
 "root.mainloop()"
 msgstr ""
+"from tkinter import ttk\n"
+"import tkinter\n"
+"\n"
+"root = tkinter.Tk()\n"
+"\n"
+"style = ttk.Style()\n"
+"style.theme_settings(\"default\", {\n"
+"   \"TCombobox\": {\n"
+"       \"configure\": {\"padding\": 5},\n"
+"       \"map\": {\n"
+"           \"background\": [(\"active\", \"green2\"),\n"
+"                          (\"!disabled\", \"green4\")],\n"
+"           \"fieldbackground\": [(\"!disabled\", \"green3\")],\n"
+"           \"foreground\": [(\"focus\", \"OliveDrab1\"),\n"
+"                          (\"!disabled\", \"OliveDrab2\")]\n"
+"       }\n"
+"   }\n"
+"})\n"
+"\n"
+"combo = ttk.Combobox().pack()\n"
+"\n"
+"root.mainloop()"
 
 msgid "Returns a list of all known themes."
 msgstr ""
@@ -1905,4 +1976,4 @@ msgid ""
 msgstr ""
 
 msgid "ttk"
-msgstr ""
+msgstr "ttk"

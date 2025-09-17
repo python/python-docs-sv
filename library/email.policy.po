@@ -4,17 +4,17 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 # Translators:
-# Daniel Nylander <po@danielnylander.se>, 2025
 # python-doc bot, 2025
+# Daniel Nylander <po@danielnylander.se>, 2025
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-15 21:21+0000\n"
-"PO-Revision-Date: 2025-08-15 19:00+0000\n"
-"Last-Translator: python-doc bot, 2025\n"
+"POT-Creation-Date: 2025-09-16 17:23+0000\n"
+"PO-Revision-Date: 2025-09-16 00:01+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
 "sv/)\n"
 "MIME-Version: 1.0\n"
@@ -24,10 +24,10 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid ":mod:`!email.policy`: Policy Objects"
-msgstr ""
+msgstr ":mod:`!email.policy`: Policyobjekt"
 
 msgid "**Source code:** :source:`Lib/email/policy.py`"
-msgstr ""
+msgstr "**Källkod:** :source:`Lib/email/policy.py`"
 
 msgid ""
 "The :mod:`email` package's prime focus is the handling of email messages as "
@@ -218,7 +218,7 @@ msgid ""
 msgstr ""
 
 msgid "``7bit``"
-msgstr ""
+msgstr "``7bit``"
 
 msgid ""
 "all data must be \"7 bit clean\" (ASCII-only).  This means that where "
@@ -227,7 +227,7 @@ msgid ""
 msgstr ""
 
 msgid "``8bit``"
-msgstr ""
+msgstr "``8bit``"
 
 msgid ""
 "data is not constrained to be 7 bit clean.  Data in headers is still "
@@ -456,13 +456,13 @@ msgid ""
 msgstr ""
 
 msgid "``none``"
-msgstr ""
+msgstr "``none``"
 
 msgid "all source values use original folding"
 msgstr ""
 
 msgid "``long``"
-msgstr ""
+msgstr "``long``"
 
 msgid ""
 "source values that have any line that is longer than ``max_line_length`` "
@@ -470,7 +470,7 @@ msgid ""
 msgstr ""
 
 msgid "``all``"
-msgstr ""
+msgstr "``all``"
 
 msgid "all values are refolded."
 msgstr ""
@@ -654,7 +654,7 @@ msgid ""
 msgstr ""
 
 msgid "The default is ``True``."
-msgstr ""
+msgstr "Standard är ``True``."
 
 msgid "The name and value are returned unmodified."
 msgstr ""
