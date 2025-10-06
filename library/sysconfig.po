@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-16 17:23+0000\n"
+"POT-Creation-Date: 2025-10-05 14:11+0000\n"
 "PO-Revision-Date: 2025-09-16 00:01+0000\n"
 "Last-Translator: python-doc bot, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
@@ -507,17 +507,8 @@ msgstr ""
 msgid "Examples of returned values:"
 msgstr "Exempel på returnerade värden:"
 
-msgid "linux-i586"
+msgid "Windows:"
 msgstr ""
-
-msgid "linux-alpha (?)"
-msgstr ""
-
-msgid "solaris-2.6-sun4u"
-msgstr "solaris-2.6-sun4u"
-
-msgid "Windows will return one of:"
-msgstr "Windows kommer att returnera en av:"
 
 msgid "win-amd64 (64-bit Windows on AMD64, aka x86_64, Intel64, and EM64T)"
 msgstr ""
@@ -530,20 +521,20 @@ msgstr "win-arm64 (64-bitars Windows på ARM64, även kallat AArch64)"
 msgid "win32 (all others - specifically, sys.platform is returned)"
 msgstr "win32 (alla andra - specifikt returneras sys.platform)"
 
-msgid "macOS can return:"
-msgstr "macOS kan returnera:"
+msgid "POSIX based OS:"
+msgstr ""
 
-msgid "macosx-10.6-ppc"
-msgstr "macosx-10.6-ppc"
+msgid "linux-x86_64"
+msgstr ""
 
-msgid "macosx-10.4-ppc64"
-msgstr "macosx-10.4-ppc64"
+msgid "macosx-15.5-arm64"
+msgstr ""
 
-msgid "macosx-10.3-i386"
-msgstr "macosx-10.3-i386"
+msgid "macosx-26.0-universal2 (macOS on Apple Silicon or Intel)"
+msgstr ""
 
-msgid "macosx-10.4-fat"
-msgstr "macosx-10.4-fat"
+msgid "android-24-arm64_v8a"
+msgstr ""
 
 msgid ""
 "For other non-POSIX platforms, currently just returns :data:`sys.platform`."
