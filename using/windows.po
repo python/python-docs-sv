@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-05 14:11+0000\n"
+"POT-Creation-Date: 2025-10-15 14:16+0000\n"
 "PO-Revision-Date: 2025-09-16 00:02+0000\n"
 "Last-Translator: python-doc bot, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
@@ -83,7 +83,7 @@ msgid ""
 "packages."
 msgstr ""
 
-msgid "Python Install Manager"
+msgid "Python install manager"
 msgstr ""
 
 msgid "Installation"
@@ -142,7 +142,7 @@ msgid ""
 "below for more information."
 msgstr ""
 
-msgid "Basic Use"
+msgid "Basic use"
 msgstr ""
 
 msgid ""
@@ -257,7 +257,7 @@ msgid ""
 "``pymanager exec`` forms of the command were used."
 msgstr ""
 
-msgid "Command Help"
+msgid "Command help"
 msgstr ""
 
 msgid ""
@@ -286,7 +286,7 @@ msgid ""
 "more information about these files."
 msgstr ""
 
-msgid "Listing Runtimes"
+msgid "Listing runtimes"
 msgstr ""
 
 msgid ""
@@ -340,7 +340,7 @@ msgid ""
 "allow additional options, and will produce legacy formatted output."
 msgstr ""
 
-msgid "Installing Runtimes"
+msgid "Installing runtimes"
 msgstr ""
 
 msgid ""
@@ -388,7 +388,7 @@ msgstr ""
 msgid "$> py install ... [-t=|--target=<PATH>] <TAG>"
 msgstr ""
 
-msgid "Offline Installs"
+msgid "Offline installs"
 msgstr ""
 
 msgid ""
@@ -428,7 +428,7 @@ msgid ""
 "without access to the internet."
 msgstr ""
 
-msgid "Uninstalling Runtimes"
+msgid "Uninstalling runtimes"
 msgstr ""
 
 msgid "$> py uninstall [-y|--yes] <TAG>..."
@@ -712,8 +712,8 @@ msgid ""
 "``pymanager`` commands for installing and uninstalling."
 msgstr ""
 
-msgid "Advanced Installation"
-msgstr "Avancerad installation"
+msgid "Advanced installation"
+msgstr ""
 
 msgid ""
 "For situations where an MSIX cannot be installed, such as some older "
@@ -841,8 +841,8 @@ msgid ""
 "prevent using the Store package in this way."
 msgstr ""
 
-msgid "Administrative Configuration"
-msgstr "Administrativ konfiguration"
+msgid "Administrative configuration"
+msgstr ""
 
 msgid ""
 "There are a number of options that may be useful for administrators to "
@@ -973,20 +973,12 @@ msgid ""
 "other than a Python runtime."
 msgstr ""
 
-msgid "Installing Free-threaded Binaries"
-msgstr "Installera fritt trådade binärfiler"
-
-msgid "(Experimental)"
-msgstr "(Experimentell)"
-
-msgid ""
-"Everything described in this section is considered experimental, and should "
-"be expected to change in future releases."
+msgid "Installing free-threaded binaries"
 msgstr ""
 
 msgid ""
-"Pre-built distributions of the experimental free-threaded build are "
-"available by installing tags with the ``t`` suffix."
+"Pre-built distributions of the free-threaded build are available by "
+"installing tags with the ``t`` suffix."
 msgstr ""
 
 msgid ""
@@ -1163,7 +1155,7 @@ msgid ""
 "The two recommended use cases for this distribution are described below."
 msgstr ""
 
-msgid "Python Application"
+msgid "Python application"
 msgstr ""
 
 msgid ""
@@ -1370,8 +1362,8 @@ msgid ""
 "please install Python 3.12."
 msgstr ""
 
-msgid "Removing the MAX_PATH Limitation"
-msgstr "Ta bort begränsningen MAX_PATH"
+msgid "Removing the MAX_PATH limitation"
+msgstr ""
 
 msgid ""
 "Windows historically has limited path lengths to 260 characters. This meant "
@@ -1776,7 +1768,7 @@ msgstr ""
 msgid "Support for long paths was enabled in Python."
 msgstr ""
 
-msgid "Installing Without UI"
+msgid "Installing without UI"
 msgstr ""
 
 msgid ""
@@ -2072,7 +2064,7 @@ msgid ""
 "</Options>"
 msgstr ""
 
-msgid "Installing Without Downloading"
+msgid "Installing without downloading"
 msgstr ""
 
 msgid ""
@@ -2163,8 +2155,8 @@ msgid ""
 "nuget>`."
 msgstr ""
 
-msgid "Python Launcher for Windows (Deprecated)"
-msgstr "Python Launcher för Windows (Föråldrad)"
+msgid "Python launcher for Windows (deprecated)"
+msgstr ""
 
 msgid ""
 "The launcher and this documentation have been superseded by the Python "
@@ -2364,9 +2356,6 @@ msgstr ""
 msgid ""
 "The key benefit of this is that a single launcher can support multiple "
 "Python versions at the same time depending on the contents of the first line."
-msgstr ""
-
-msgid "Shebang Lines"
 msgstr ""
 
 msgid ""
@@ -2621,8 +2610,8 @@ msgid ""
 "debugging."
 msgstr ""
 
-msgid "Dry Run"
-msgstr "Torrkörning"
+msgid "Dry run"
+msgstr ""
 
 msgid ""
 "If an environment variable :envvar:`!PYLAUNCHER_DRYRUN` is set (to any "
