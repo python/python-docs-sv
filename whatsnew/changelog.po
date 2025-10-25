@@ -5,6 +5,7 @@
 #
 # Translators:
 # python-doc bot, 2025
+# Daniel Nylander <po@danielnylander.se>, 2025
 #
 #, fuzzy
 msgid ""
@@ -13,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-23 14:15+0000\n"
 "PO-Revision-Date: 2025-09-16 00:02+0000\n"
-"Last-Translator: python-doc bot, 2025\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
 "sv/)\n"
 "MIME-Version: 1.0\n"
@@ -840,7 +841,7 @@ msgid ""
 msgstr ""
 
 msgid "Python 3.14.0 release candidate 2"
-msgstr "Python 3.14.0 releasekandidat 2"
+msgstr ""
 
 msgid "*Release date: 2025-08-14*"
 msgstr "*Utgivningsdatum: 2025-08-14*"

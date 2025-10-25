@@ -5,15 +5,16 @@
 #
 # Translators:
 # python-doc bot, 2025
+# Daniel Nylander <po@danielnylander.se>, 2025
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-11 14:13+0000\n"
+"POT-Creation-Date: 2025-10-23 14:15+0000\n"
 "PO-Revision-Date: 2025-09-16 00:02+0000\n"
-"Last-Translator: python-doc bot, 2025\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
 "sv/)\n"
 "MIME-Version: 1.0\n"
@@ -58,7 +59,7 @@ msgid "Format"
 msgstr "Format"
 
 msgid "Packed as .zip"
-msgstr ""
+msgstr "Packad som .zip"
 
 msgid "Packed as .tar.bz2"
 msgstr "Packad som .tar.bz2"
@@ -69,10 +70,12 @@ msgstr "HTML"
 msgid ""
 "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-html.zip\">Download</a>"
 msgstr ""
+"<a href=\"%(dl_base)s/python-%(dl_version)s-docs-html.zip\">Hämta ner</a>"
 
 msgid ""
 "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-html.tar.bz2\">Download</a>"
 msgstr ""
+"<a href=\"%(dl_base)s/python-%(dl_version)s-docs-html.tar.bz2\">Hämta ner</a>"
 
 msgid "Plain text"
 msgstr "Vanlig text"
@@ -80,10 +83,12 @@ msgstr "Vanlig text"
 msgid ""
 "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-text.zip\">Download</a>"
 msgstr ""
+"<a href=\"%(dl_base)s/python-%(dl_version)s-docs-text.zip\">Hämta ner</a>"
 
 msgid ""
 "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-text.tar.bz2\">Download</a>"
 msgstr ""
+"<a href=\"%(dl_base)s/python-%(dl_version)s-docs-text.tar.bz2\">Hämta ner</a>"
 
 msgid "Texinfo"
 msgstr "Texinfo"
@@ -91,17 +96,20 @@ msgstr "Texinfo"
 msgid ""
 "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-texinfo.zip\">Download</a>"
 msgstr ""
+"<a href=\"%(dl_base)s/python-%(dl_version)s-docs-texinfo.zip\">Hämta ner</a>"
 
 msgid ""
 "<a href=\"%(dl_base)s/python-%(dl_version)s-docs-texinfo.tar.bz2\">Download</"
 "a>"
 msgstr ""
+"<a href=\"%(dl_base)s/python-%(dl_version)s-docs-texinfo.tar.bz2\">Hämta "
+"ner</a>"
 
 msgid "EPUB"
 msgstr "EPUB"
 
 msgid "<a href=\"%(dl_base)s/python-%(dl_version)s-docs.epub\">Download</a>"
-msgstr ""
+msgstr "<a href=\"%(dl_base)s/python-%(dl_version)s-docs.epub\">Hämta ner</a>"
 
 msgid "These archives contain all the content in the documentation."
 msgstr "Dessa arkiv innehåller allt innehåll i dokumentationen."
@@ -115,6 +123,13 @@ msgid ""
 "and run <code>make dist-pdf</code> in the <code>Doc/</code> directory of a "
 "copy of the CPython repository.\n"
 msgstr ""
+"\n"
+"Vi tillhandahåller inte längre färdigbyggda PDF-filer av dokumentationen.\n"
+"Om du vill skapa ett PDF-arkiv så följer du instruktionerna i\n"
+"<a href=\"https://devguide.python.org/documentation/start-documenting/"
+"#building-the-documentation\">Utvecklarens handbok</a>\n"
+"och kör <code>make dist-pdf</code> i <code>Doc/-katalogen</code> i en kopia "
+"av CPython-repository.\n"
 
 msgid ""
 "\n"
@@ -122,6 +137,10 @@ msgid ""
 "listing</a>\n"
 "for file sizes."
 msgstr ""
+"\n"
+"Se <a href=\"https://docs.python.org/%(version)s/archives/"
+"\">kataloglistningen</a>\n"
+"för filstorlekar."
 
 msgid "Problems"
 msgstr "Problem"
@@ -130,12 +149,14 @@ msgid ""
 "<a href=\"%(bugs)s\">Open an issue</a>\n"
 "if you have comments or suggestions for the Python documentation."
 msgstr ""
+"<a href=\"%(bugs)s\">Öppna ett ärende</a>\n"
+"om du har kommentarer eller förslag till Python-dokumentationen."
 
 msgid "Availability"
 msgstr "Tillgänglighet"
 
 msgid "Part of the"
-msgstr ""
+msgstr "Del av"
 
 msgid "Limited API"
 msgstr "Begränsat API"
@@ -144,7 +165,7 @@ msgid "Stable ABI"
 msgstr "Stabil ABI"
 
 msgid "(as an opaque struct)"
-msgstr ""
+msgstr "(som en opak struct)"
 
 msgid "(including all members)"
 msgstr "(inklusive alla medlemmar)"
@@ -168,10 +189,10 @@ msgid "Return value: Always NULL."
 msgstr "Returvärde: Alltid NULL."
 
 msgid "Return value: New reference."
-msgstr ""
+msgstr "Returnera värde: Ny referens."
 
 msgid "Return value: Borrowed reference."
-msgstr ""
+msgstr "Returnera värde: Lånad referens."
 
 msgid "CPython implementation detail:"
 msgstr "Detaljerad implementering av CPython:"
@@ -185,10 +206,10 @@ msgid "Deprecated since version {deprecated}, removed in version {removed}"
 msgstr "Föråldrad sedan version {deprecated}, borttagen i version {removed}"
 
 msgid "in development"
-msgstr ""
+msgstr "i utveckling"
 
 msgid "pre-release"
-msgstr ""
+msgstr "förutgåva"
 
 msgid "stable"
 msgstr "stabil"
@@ -205,7 +226,7 @@ msgstr ""
 "%(release)s."
 
 msgid "Documentation sections:"
-msgstr ""
+msgstr "Dokumentationsavsnitt:"
 
 msgid "What's new in Python %(version)s?"
 msgstr "Vad är nytt i Python %(version)s?"
@@ -224,13 +245,13 @@ msgid "Start here: a tour of Python's syntax and features"
 msgstr "Börja här: en genomgång av Pythons syntax och funktioner"
 
 msgid "Library reference"
-msgstr ""
+msgstr "Biblioteksreferens"
 
 msgid "Standard library and builtins"
-msgstr ""
+msgstr "Standardbibliotek och inbyggda funktioner"
 
 msgid "Language reference"
-msgstr ""
+msgstr "Språkreferens"
 
 msgid "Syntax and language elements"
 msgstr "Syntax och språkliga element"
@@ -260,7 +281,7 @@ msgid "Publishing modules for use by other people"
 msgstr "Publicering av moduler för användning av andra personer"
 
 msgid "Extending and embedding"
-msgstr ""
+msgstr "Utökning och inbäddning"
 
 msgid "For C/C++ programmers"
 msgstr "För C/C++-programmerare"
@@ -272,13 +293,13 @@ msgid "C API reference"
 msgstr "C API-referens"
 
 msgid "FAQs"
-msgstr ""
+msgstr "Frågor och svar"
 
 msgid "Frequently asked questions (with answers!)"
 msgstr "Ofta ställda frågor (med svar!)"
 
 msgid "Deprecations"
-msgstr ""
+msgstr "Föråldringar"
 
 msgid "Deprecated functionality"
 msgstr "Föråldrad funktionalitet"
@@ -302,10 +323,10 @@ msgid "Glossary"
 msgstr "Ordlista"
 
 msgid "Terms explained"
-msgstr ""
+msgstr "Villkor förklarade"
 
 msgid "Search page"
-msgstr ""
+msgstr "Söksida"
 
 msgid "Search this documentation"
 msgstr "Sök i denna dokumentation"
@@ -320,10 +341,10 @@ msgid "Project information:"
 msgstr "Projektinformation:"
 
 msgid "Reporting issues"
-msgstr ""
+msgstr "Rapportera problem"
 
 msgid "Contributing to docs"
-msgstr ""
+msgstr "Bidra till dokumentation"
 
 msgid "Download the documentation"
 msgstr "Ladda ner dokumentationen"
@@ -341,7 +362,7 @@ msgid "Download these documents"
 msgstr "Ladda ner dessa dokument"
 
 msgid "Docs by version"
-msgstr ""
+msgstr "Dokument efter version"
 
 msgid "All versions"
 msgstr "Alla versioner"
