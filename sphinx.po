@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-25 14:15+0000\n"
+"POT-Creation-Date: 2025-12-15 14:20+0000\n"
 "PO-Revision-Date: 2025-09-16 00:02+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2025\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
@@ -37,6 +37,9 @@ msgstr "Rapportera ett fel"
 
 msgid "Show source"
 msgstr "Visa källa"
+
+msgid "Show translation source"
+msgstr ""
 
 msgid "Download"
 msgstr "Ladda ner"
