@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.15\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-13 16:14+0000\n"
+"POT-Creation-Date: 2026-05-23 14:55+0000\n"
 "PO-Revision-Date: 2025-09-16 00:02+0000\n"
 "Last-Translator: python-doc bot, 2026\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
@@ -275,12 +275,6 @@ msgstr "Installera Python-moduler"
 msgid "Third-party modules and PyPI.org"
 msgstr "Tredjepartsmoduler och PyPI.org"
 
-msgid "Distributing Python modules"
-msgstr "Distribuera Python-moduler"
-
-msgid "Publishing modules for use by other people"
-msgstr "Publicering av moduler för användning av andra personer"
-
 msgid "Extending and embedding"
 msgstr "Utökning och inbäddning"
 
@@ -304,6 +298,21 @@ msgstr "Föråldringar"
 
 msgid "Deprecated functionality"
 msgstr "Föråldrad funktionalitet"
+
+msgid "Other resources:"
+msgstr ""
+
+msgid "Python Packaging User Guide"
+msgstr ""
+
+msgid "Resources relating to Python packaging"
+msgstr ""
+
+msgid "Static Typing with Python"
+msgstr ""
+
+msgid "Information and guides about Python type safety"
+msgstr ""
 
 msgid "Indices, glossary, and search:"
 msgstr "Index, ordlista och sökning:"
@@ -335,8 +344,8 @@ msgstr "Sök i denna dokumentation"
 msgid "Complete table of contents"
 msgstr "Fullständig innehållsförteckning"
 
-msgid "Lists all sections and subsections"
-msgstr "Listar alla avsnitt och underavsnitt"
+msgid "All sections and subsections"
+msgstr ""
 
 msgid "Project information:"
 msgstr "Projektinformation:"
