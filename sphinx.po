@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.15\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-03 16:16+0000\n"
+"POT-Creation-Date: 2026-08-07 14:47+0000\n"
 "PO-Revision-Date: 2025-09-16 00:02+0000\n"
 "Last-Translator: python-doc bot, 2026\n"
 "Language-Team: Swedish (https://app.transifex.com/python-doc/teams/5390/"
@@ -302,10 +302,28 @@ msgstr "Föråldrad funktionalitet"
 msgid "Other resources:"
 msgstr ""
 
+msgid "Python developer's guide"
+msgstr ""
+
+msgid "Information on contributing to Python"
+msgstr ""
+
 msgid "Python Packaging User Guide"
 msgstr ""
 
 msgid "Resources relating to Python packaging"
+msgstr ""
+
+msgid "Audio/visual talks"
+msgstr "Audiovisuella samtal"
+
+msgid "Podcasts, talks, and video presentations from the community"
+msgstr ""
+
+msgid "Python Enhancement Proposals"
+msgstr ""
+
+msgid "Index of proposed improvements to Python"
 msgstr ""
 
 msgid "Static Typing with Python"
@@ -376,24 +394,6 @@ msgstr "Dokument efter version"
 
 msgid "All versions"
 msgstr "Alla versioner"
-
-msgid "Other resources"
-msgstr "Övriga resurser"
-
-msgid "PEP index"
-msgstr "PEP-index"
-
-msgid "Beginner's guide"
-msgstr "Nybörjarguide"
-
-msgid "Book list"
-msgstr "Boklista"
-
-msgid "Audio/visual talks"
-msgstr "Audiovisuella samtal"
-
-msgid "Python developer’s guide"
-msgstr "Python-utvecklarens guide"
 
 msgid ""
 "This document is for an old version of Python that is no longer supported.\n"
